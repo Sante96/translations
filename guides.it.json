@@ -1,0 +1,48 @@
+{
+ "_": "Guida all'ordine di lettura (MajorArcana01): titolo, descrizione, pro e contro di ogni metodo, per chiave. Tradotta dall'inglese, la lingua originale della guida.",
+ "methods": {
+  "method1": {
+   "title": "Ordine di uscita",
+   "blurb": "Esattamente quello che sembra: ogni linea narrativa si legge nell'ordine in cui è uscita sul server inglese.",
+   "pros": [
+    "Ricrea l'esperienza di chi gioca dal primo anno e legge la storia man mano che esce.",
+    "È quanto di più vicino abbiamo a un ordine di lettura «voluto» da Hypergryph."
+   ],
+   "cons": [
+    "Molto frammentato: salterai da una linea all'altra, spesso con lunghe pause tra un capitolo e l'altro, soprattutto nella storia principale.",
+    "Salta avanti e indietro nella cronologia, e la storia la devi ricomporre strada facendo."
+   ]
+  },
+  "method2": {
+   "title": "Ordine cronologico",
+   "blurb": "Si legge la storia principale in ordine cronologico, seguendo gli eventi così come avvengono nell'universo di Arknights.",
+   "pros": [
+    "Ti lascia, come lettore, più o meno con le stesse informazioni dei personaggi.",
+    "Tiene insieme gli eventi dell'arco di Reunion e di quello di Victoria, e tiene per lo più unita anche la linea narrativa dei Sui.",
+    "Non devi ricostruire la cronologia mentre leggi."
+   ],
+   "cons": [
+    "A rigore è impossibile: bisogna finire il prologo prima di poter partecipare agli eventi o giocare le storie secondarie in archivio.",
+    "Darknights Memoir e Babel, letti troppo presto, rovinano rivelazioni importanti della storia principale, soprattutto sull'amnesia del Dottore.",
+    "Molte trame delle storie secondarie restano frammentate, perché tante linee narrative si svolgono più o meno nello stesso periodo.",
+    "Molte linee narrative restano fuori da quest'ordine perché, pur essendo canoniche, non hanno una data precisa nella cronologia."
+   ]
+  },
+  "method3": {
+   "title": "Per linea narrativa",
+   "blurb": "Si leggono le storie raggruppate per linea narrativa, una linea alla volta.",
+   "pros": [
+    "Tiene vicine le storie collegate, così l'esperienza risulta più coesa.",
+    "Dà anche a ogni linea narrativa uno sviluppo appagante.",
+    "Ti risparmia la fatica di capire quali storie siano collegate tra loro, soprattutto per la lore nascosta nelle antologie."
+   ],
+   "cons": [
+    "Le antologie finiscono lette a pezzi, cosa che forse non era nelle intenzioni.",
+    "Saltare tra epoche diverse del gioco può dare un certo stacco di stile, visto quanto sono cambiati gameplay e grafica nel corso degli anni di Arknights.",
+    "La cronologia te la devi comunque ricostruire da solo.",
+    "Non tutte le linee narrative sono concluse.",
+    "Alcune linee rimandano direttamente ad altre, quindi qualche salto tocca farlo lo stesso."
+   ]
+  }
+ }
+}
