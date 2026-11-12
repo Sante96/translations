@@ -1,0 +1,831 @@
+{
+ "_": "Termini chiave: traduzione italiana dal cinese (terms.cn.json del sito), per id. Solo name, text, game.title/text; gli alias restano quelli del sito.",
+ "infected": {
+  "name": "Infetti",
+  "text": "Così vengono chiamate le persone colpite dall'oripatia."
+ },
+ "catastrophe": {
+  "name": "Catastrofe",
+  "text": "Nome generico delle calamità naturali che colpiscono di frequente: tempeste, bufere di neve, inondazioni e persino piogge di meteoriti.",
+  "game": {
+   "title": "Catastrofe",
+   "text": "Nome generico delle numerose calamità naturali che colpiscono il mondo di Terra: tempeste, bufere di neve, piogge torrenziali, inondazioni e perfino cadute di meteoriti. Le Catastrofi sono frequentissime e quasi impossibili da prevedere, tanto che la maggior parte delle civiltà sfugge loro spostando intere città. Al loro passaggio resta spesso un minerale chiamato Originium; secondo alcuni studi, anzi, le Catastrofi potrebbero essere proprio il mezzo con cui l'Originium si diffonde."
+  }
+ },
+ "oripathy": {
+  "name": "Oripatia",
+  "text": "Grave malattia contagiosa: il corpo di chi ne soffre si cristallizza a poco a poco fino alla morte, e diventa a sua volta fonte di contagio.",
+  "game": {
+   "title": "Oripatia",
+   "text": "Si è scoperto che il contatto prolungato con l'Originium e i suoi derivati industriali espone a una malattia incurabile, chiamata «oripatia». Chi la contrae viene chiamato «infetto». L'oripatia potenzia in modo pericoloso la capacità di usare le Arti, ma ogni volta che il malato vi ricorre l'infezione si estende, finché non gli toglie la vita e ne fa una nuova fonte di contagio. La malattia è da tempo oggetto di studi su più fronti, che però finora hanno dato pochi risultati."
+  }
+ },
+ "originium-arts": {
+  "name": "Arti dell'Originium",
+  "text": "Tecnica che altera la materia o la coscienza liberando le unità di energia racchiuse nell'Originium, le stesse con cui si misura la potenza delle Arti."
+ },
+ "nomadic-city": {
+  "name": "Città mobile",
+  "text": "Il modello di città nato per difendersi dalle Catastrofi: in genere bastano dalle 2 alle 8 settimane per portarla in salvo fuori dall'area di pericolo.",
+  "game": {
+   "title": "Città mobile",
+   "text": "Città costruita su un'enorme struttura semovente. Le Catastrofi, frequenti e devastanti, costringono quasi tutti i paesi a spostare periodicamente le proprie città per sfuggirle. L'invenzione del motore a Originium ha reso possibile l'industrializzazione dell'Originium, e si è cominciato a costruire veicoli molto più grandi di un tempo. Con dimensioni ormai senza paragoni è nata l'idea della città-stato mobile. Grazie al Sistema di previsione multicanale delle Catastrofi, a seconda del disastro una città ha di solito bisogno di 2-8 settimane per lasciare in sicurezza l'area colpita."
+  }
+ },
+ "originium": {
+  "name": "Originium",
+  "text": "Un minerale misterioso. Con il progresso tecnico, sempre più paesi lo usano come fonte di energia.",
+  "game": {
+   "title": "Originium",
+   "text": "Minerale diffuso in tutto il mondo di Terra, per lo più in forma di cristalli neri semitrasparenti. Racchiude un'energia enorme ed è la prima causa delle Catastrofi. Si usa soprattutto nel campo delle Arti, come materiale di base e catalizzatore di ogni strumento e oggetto per le Arti: senza il suo aiuto, l'efficacia delle Arti cala drasticamente. Oggi, con il perfezionarsi dei motori a Originium, sempre più paesi lo sfruttano come fonte di energia."
+  }
+ },
+ "terra": {
+  "name": "Terra",
+  "text": "Il mondo di Arknights: un vasto continente di nazioni rivali, città mobili e popoli diversi, plasmato dalle Catastrofi e dall'Originium."
+ },
+ "catastrophe-messenger": {
+  "name": "Messaggero delle Catastrofi",
+  "text": "Tra i messaggeri, così si chiamano quelli che lavorano nelle terre selvagge: osservano di continuo i fenomeni naturali, prevedono le Catastrofi in arrivo e registrano e segnalano quelle già avvenute."
+ },
+ "originium-slug": {
+  "name": "Lumaca di Originium",
+  "text": "Minuscolo invertebrato diffuso in tutto Terra, mari esclusi, con frammenti di Originium incastonati nel guscio e nel corpo."
+ },
+ "great-rebellion": {
+  "name": "Grande Ribellione",
+  "text": "La guerra civile combattuta in Ursus tra il 1074 e il 1076, in cui alcune fazioni militari tentarono di rovesciare lo zar."
+ },
+ "burdenbeast": {
+  "name": "Bestia da soma",
+  "text": "Nome generico di tutti gli animali che gli abitanti di Terra allevano per trasportare carichi."
+ },
+ "the-shard": {
+  "name": "The Shard",
+  "text": "Un'enorme guglia di Londinium, in Victoria: un tempo palazzo reale, oggi in ricostruzione."
+ },
+ "gloompincer": {
+  "name": "Chela cupa",
+  "text": "Grande crostaceo d'acqua dolce che vive in laghi, fiumi e paludi, noto per le sue chele potentissime."
+ },
+ "diabolic-crisis": {
+  "name": "Crisi Diαbolic",
+  "text": "Un progetto della Rhine Lab: Saria lo fece fermare, se ne prese la responsabilità e lasciò l'azienda."
+ },
+ "kazimierz-major": {
+  "name": "Kazimierz Major",
+  "text": "Torneo di cavalieri professionisti che si tiene ogni tre anni a Kawalerielki, la capitale di Kazimierz."
+ },
+ "soul-furnace": {
+  "name": "Fornace delle Anime",
+  "text": "La fonte di energia della città mobile di Kazdel: con la fitta rete di condotti dei livelli abitati, porta l'energia in ogni punto della città, a disposizione degli abitanti."
+ },
+ "twin-moons": {
+  "name": "Lune gemelle",
+  "text": "I due satelliti naturali di Terra, uno più grande e luminoso, l'altro più piccolo e scuro, da sempre al centro di miti e calendari."
+ },
+ "musbeast": {
+  "name": "Topastro",
+  "text": "Nelle terre desolate i topastri sono ovunque. Di per sé non sono molto aggressivi, ma si muovono in branco e lasciano dietro di sé un'infinità di provviste rovinate."
+ },
+ "profound-silence": {
+  "name": "Grande Quiete",
+  "text": "Lo tsunami che nel 1038 colpì le coste di Iberia e ne sommerse gran parte del territorio."
+ },
+ "sandbeast": {
+  "name": "Bestia delle sabbie",
+  "text": "Piccolo onnivoro che vive nei deserti di sabbia e di roccia ed esce a cercare cibo di notte. In Sargon la gente del posto lo addomestica per la caccia."
+ },
+ "little-handy": {
+  "name": "Piccolo Aiutante",
+  "text": "Dispositivo multifunzione costruito dagli Ægir, chiamato ufficialmente «Strumento di assistenza integrata», con centinaia di moduli per l'uso quotidiano."
+ },
+ "originium-prime-vein": {
+  "name": "Vena madre dell'Originium",
+  "text": "Una delle principali origini geologiche dell'Originium di Terra: la maggior parte dei giacimenti risale a qui."
+ },
+ "manglerbeast": {
+  "name": "Dilaniatore",
+  "text": "Creatura da guerra addestrata dall'esercito di Ursus. Obbedisce agli ordini, ha sete di sangue e carne, squarcia le armature e non si ferma mai."
+ },
+ "beckbeast": {
+  "name": "Bestia segugio",
+  "text": "Animale da lavoro di Terra, tenuto a guardia e addestrato a seguire le tracce."
+ },
+ "cloudbeast": {
+  "name": "Bestia nuvola",
+  "text": "Animale da compagnia molto diffuso su Terra, soffice e liscio al tatto."
+ },
+ "stargate": {
+  "name": "Porta stellare",
+  "text": "Antico portale ad anello nei pressi del polo nord che, in modi ancora ignoti, apre un wormhole tra luoghi lontanissimi."
+ },
+ "great-separation": {
+  "name": "Grande Separazione",
+  "text": "Il grande blackout di Kawalerielki: quando il nucleo resta senza energia, le piattaforme della città si staccano per un po' l'una dall'altra."
+ },
+ "khaganquest": {
+  "name": "Cammino celeste",
+  "text": "Il viaggio che, per tradizione, ogni Nightzmora intraprende."
+ },
+ "kjeragandr": {
+  "name": "Kjeragandr",
+  "text": "La dea nazionale di Kjerag: si dice che abbia guidato il suo popolo tra le montagne e gli abbia promesso bufere capaci di congelare le Catastrofi."
+ },
+ "starpod": {
+  "name": "Baccello stellare",
+  "text": "Barriera invisibile a migliaia di metri sopra Terra, che impedisce a velivoli e segnali di raggiungere lo spazio."
+ },
+ "guldenesgesatz": {
+  "name": "Güldenesgesatz",
+  "text": "La costituzione magica di Leithanien: un inno reso reale dalle Arti dell'Originium, che si dice unisca il suo popolo sotto un'unica nazionalità."
+ },
+ "abnormality": {
+  "name": "Anomalia",
+  "text": "Un'entità mostruosa nata dalle ricerche della Lobotomy Corporation. Non può morire, si può solo tenere a bada per un po'. È da qui che vengono gli E.G.O delle Anomalie."
+ },
+ "distortion": {
+  "name": "Distorsione",
+  "text": "La forma mostruosa che assume chi cede alle proprie emozioni e a una voce che solo lui può sentire. È stata vista per la prima volta dopo le Notti Bianche e i Giorni Neri."
+ },
+ "white-nights": {
+  "name": "Notti Bianche e Giorni Neri",
+  "text": "Due eventi di sette giorni ciascuno, a cui ha assistito tutta la Città. Fu allora che cadde la Lobotomy Corporation, una delle Ali; quasi nessuno sa cosa li abbia provocati."
+ },
+ "golden-bough": {
+  "name": "Ramo d'Oro",
+  "text": "Un oggetto simile a un ramo, che emana una luce dorata e può rendere reali le emozioni e i desideri. La Limbus Company manda i suoi Peccatori a raccoglierli."
+ },
+ "taboo": {
+  "name": "Tabù",
+  "text": "Legge in vigore in una zona della Città. Chi la viola viene braccato, e violare un tabù della Città equivale a una condanna a morte."
+ },
+ "ego": {
+  "name": "E.G.O",
+  "text": "Equipaggiamento che prende forma dall'animo di una persona, di solito un'arma o un'armatura potentissima. I Peccatori usano in prestito gli E.G.O delle Anomalie; un altro tipo, invece, sboccia da solo dall'animo."
+ },
+ "identity": {
+  "name": "Identità",
+  "text": "Il modo di sovrapporre al proprio corpo e alla propria mente quelli di una persona di un altro mondo. I Peccatori lo usano in battaglia."
+ },
+ "infection-monitor": {
+  "name": "Monitor d'infezione",
+  "text": "Dispositivo che rileva l'infezione, controlla i parametri vitali e segue il decorso della malattia. A Rhodes Island è usato ovunque."
+ },
+ "ursus-people": {
+  "name": "Ursus",
+  "text": "Popolo che vive per lo più in Ursus; alcuni vivono anche in Kjerag, in Yan e a Lungmen."
+ },
+ "oni": {
+  "name": "Oni",
+  "text": "Popolo con le corna, che vive per lo più in Higashi."
+ },
+ "sarkaz": {
+  "name": "Sarkaz",
+  "text": "Popolo originario di Kazdel, di straordinario talento nelle Arti dell'Originium e quasi ovunque emarginato."
+ },
+ "draco": {
+  "name": "Draco",
+  "text": "Popolo di Victoria, una delle due casate reali con diritto al trono."
+ },
+ "savra": {
+  "name": "Savra",
+  "text": "Popolo dal corpo coperto di squame, noto per agilità e vigore."
+ },
+ "cautus": {
+  "name": "Cautus",
+  "text": "Popolo dalle orecchie lunghe; molti vengono da Rim Billiton."
+ },
+ "durin": {
+  "name": "Durin",
+  "text": "Popolo di bassa statura che passa la vita nelle città sotterranee, esplorandole e ampliandole senza sosta."
+ },
+ "liberi": {
+  "name": "Liberi",
+  "text": "Popolo piumato, famoso per la vista eccellente e presente in molti paesi, da Columbia a Laterano."
+ },
+ "feline": {
+  "name": "Feline",
+  "text": "Popolo diffuso in molte nazioni di Terra: lo si incontra da Victoria e Kjerag fino a Yan e Lungmen."
+ },
+ "pegasus": {
+  "name": "Pegaso",
+  "text": "Popolo di Kazimierz, legato da sempre alla sua tradizione cavalleresca."
+ },
+ "unicorn": {
+  "name": "Unicorno",
+  "text": "Un nome che circola in Victoria, legato a qualcuno che agisce dietro le quinte."
+ },
+ "hippogryph": {
+  "name": "Ippogrifo",
+  "text": "I dominatori di prima della fondazione di Ursus, rovesciati circa mille anni fa: il loro sangue scorre ancora in molti vecchi nobili ursini."
+ },
+ "sankta": {
+  "name": "Sankta",
+  "text": "Popolo di Laterano, che nasce con aureola e ali di luce."
+ },
+ "elafia": {
+  "name": "Elafia",
+  "text": "Popolo dalle corna ramificate, nato per lo più a Sami; alcuni vivono in Ursus e nel nord di Kazimierz."
+ },
+ "vouivre": {
+  "name": "Vouivre",
+  "text": "Popolo che vive in Victoria, Columbia, Sargon e altrove, e porta lo stesso nome della terra di Vouivre."
+ },
+ "nightzmora-people": {
+  "name": "Nightzmora",
+  "text": "Un ramo dei Kuranta, spesso dalla chioma rossa, che un tempo seguì il suo Khagan alla conquista di Terra; oggi è molto raro."
+ },
+ "phidia": {
+  "name": "Phidia",
+  "text": "Popolo diffuso in molti paesi: lo si incontra da Sargon e Iberia fino a Columbia e Victoria."
+ },
+ "taran": {
+  "name": "Tarani",
+  "text": "La gente della regione di Tara, in Victoria: sotto il dominio vittoriano la loro lingua, il tarano, è quasi scomparsa."
+ },
+ "aslan": {
+  "name": "Aslan",
+  "text": "Popolo originario di Sargon, Leithanien e altre terre, una delle due casate reali con diritto al trono di Victoria."
+ },
+ "lupo": {
+  "name": "Lupo",
+  "text": "Popolo che vive per lo più a Siracusa e che un tempo mise da parte le divisioni tra tribù per chiamarsi l'un l'altro famiglia."
+ },
+ "banshee": {
+  "name": "Banshee",
+  "text": "Un ramo dei Sarkaz, noto per i suoi incantesimi e i suoi canti."
+ },
+ "caprinae": {
+  "name": "Caprinae",
+  "text": "Popolo con le corna; molti vengono da Leithanien."
+ },
+ "seaborn": {
+  "name": "Seaborn",
+  "text": "Creature degli abissi oceanici di Terra che continuano a evolversi in forme nuove: una minaccia gravissima per chi vive vicino al mare."
+ },
+ "feranmut": {
+  "name": "Feranmut",
+  "text": "Esseri grandi come montagne, un tempo venerati come dèi."
+ },
+ "aegir-people": {
+  "name": "Ægir",
+  "text": "Popolo originario delle città sottomarine di Ægir; molti vivono in Iberia e in Higashi."
+ },
+ "perro": {
+  "name": "Perro",
+  "text": "Popolo noto per la sua lealtà, con un pelo più fine e morbido di quello dei Lupo; molti vengono da Bolívar."
+ },
+ "kuranta": {
+  "name": "Kuranta",
+  "text": "Popolo che vive per lo più a Kazimierz, famoso nelle storie di cavalieri per attraversare a piedi intere praterie."
+ },
+ "reproba": {
+  "name": "Reproba",
+  "text": "Popolo che vive in Sargon, Columbia, Ursus e altrove; alcuni servono come soldati e guardie."
+ },
+ "vulpo": {
+  "name": "Vulpo",
+  "text": "Popolo diffuso in molti paesi: lo si incontra da Siracusa e Columbia fino a Minos e Victoria."
+ },
+ "forte": {
+  "name": "Forte",
+  "text": "Popolo robusto e con le corna; molti vengono da Minos."
+ },
+ "nine-tailed-vulpo": {
+  "name": "Vulpo a nove code",
+  "text": "Sacra stirpe di Vulpo di Higashi, riconoscibile dalle nove code: chi ne eredita il sangue è destinato a passare la vita nei suoi santuari."
+ },
+ "archosauria": {
+  "name": "Archosauria",
+  "text": "Popolo che i più considerano una stirpe di guerrieri, originario della regione di Acahualla, in Sargon."
+ },
+ "manticore": {
+  "name": "Manticora",
+  "text": "Popolo di Sargon."
+ },
+ "zalak": {
+  "name": "Zalak",
+  "text": "Popolo diffuso in molte terre: lo si incontra da Kazimierz e Columbia fino a Lungmen e Rim Billiton."
+ },
+ "itra": {
+  "name": "Itra",
+  "text": "Popolo degli altopiani freddi, noto per la sua tenacia e resistenza."
+ },
+ "anasa": {
+  "name": "Anasa",
+  "text": "Popolo dalle lunghe corna dei deserti a nord-ovest di Yan: discende da una tribù sarkaz e vive da nomade."
+ },
+ "anura": {
+  "name": "Anura",
+  "text": "Popolo di Terra."
+ },
+ "cerato": {
+  "name": "Cerato",
+  "text": "Popolo di Sargon che vive organizzato in tribù."
+ },
+ "anaty": {
+  "name": "Anaty",
+  "text": "Popolo di Terra."
+ },
+ "kylin": {
+  "name": "Kylin",
+  "text": "Popolo di Terra."
+ },
+ "ursus": {
+  "name": "Ursus",
+  "text": "Un immenso impero abitato in maggioranza dagli Ursus: sconfinato, dal clima durissimo e con una straordinaria potenza militare.",
+  "game": {
+   "title": "Impero di Ursus",
+   "text": "Un immenso impero abitato in maggioranza dagli Ursus. I suoi vasti territori si trovano all'estremo nord e, pur custodendo enormi ricchezze minerarie, sono in gran parte ancora da sfruttare. Sotto la guida del precedente imperatore, Ursus imboccò la via dell'industrializzazione e del riarmo, e crebbe rapidamente in potenza muovendo guerra ai paesi vicini. Poi la sconfitta nella guerra contro Higashi fece esplodere i contrasti insanabili tra l'esercito e la nobiltà, vecchia e nuova, e Ursus entrò in una stagione di violenti sconvolgimenti sociali."
+  }
+ },
+ "chernobog": {
+  "name": "Chernobog",
+  "text": "Città mobile nel sud-est di Ursus, centro industriale alimentato a Originium e una delle città più importanti dell'impero."
+ },
+ "kazimierz": {
+  "name": "Kazimierz",
+  "text": "Confederazione di ordini cavallereschi, chiamata la terra dei cavalieri e dei commerci."
+ },
+ "lungmen": {
+  "name": "Lungmen",
+  "text": "Città-stato mobile guidata dal nobile Wei Yenwu: apertura, tolleranza e libertà sono i suoi tratti distintivi.",
+  "game": {
+   "title": "Lungmen",
+   "text": "Città mobile governata da Wei Yenwu. Tra grattacieli altissimi e trasporti pubblici sempre affollati, è uno dei centri economici più importanti di Yan."
+  }
+ },
+ "victoria": {
+  "name": "Victoria",
+  "text": "Nazione moderna governata da Draco e Aslan, votata alla forza e all'espansione: con il suo potente esercito e un'economia florida è, a tutti gli effetti, la potenza egemone di Terra.",
+  "game": {
+   "title": "Impero di Victoria",
+   "text": "Nazione moderna governata da Draco e Aslan. Occupa le valli centrali di Terra, le più fertili del continente: un territorio immenso e ricco di risorse, che confina con diverse nazioni del nucleo centrale e a cui si aggiungono varie zone di colonizzazione ed exclavi. L'Impero di Victoria punta sulla forza e sull'espansione: vuole imporre a Terra un ordine internazionale con sé stesso al comando, difende gli interessi della nobiltà con l'egemonia e lo sfruttamento delle colonie, e tiene in piedi un mondo in cui Victoria sta sopra tutti."
+  }
+ },
+ "yan": {
+  "name": "Yan",
+  "text": "Nazione nel nord-est di Terra, con una cultura e una storia piuttosto autonome e pochi scambi con gli altri paesi.",
+  "game": {
+   "title": "Yan",
+   "text": "Grande nazione nell'est di Terra. Ha un territorio vastissimo e il maggior numero di città mobili dell'intero continente. Con il suo sistema educativo dei Maestri Celesti forma moltissimi talenti esperti nelle Arti dell'Originium, e possiede quindi una grande forza industriale. Il dominio del Vero Drago dura da millenni, e la storia e il sapere antico di Yan si sono conservati intatti. Nel corso della sua lunga storia, Yan è sempre rimasta prospera e stabile."
+  }
+ },
+ "sami": {
+  "name": "Sami",
+  "text": "Un «paese» unico nel suo genere nel nord di Terra, formato da numerose tribù, con un rapporto tra uomo e natura che non ha eguali nel continente."
+ },
+ "sargon": {
+  "name": "Sargon",
+  "text": "Nazione desertica all'estremità meridionale del continente, governata dallo Shahanshah, il Re dei Re."
+ },
+ "siracusa": {
+  "name": "Siracusa",
+  "text": "Federazione di città-stato in cui il vero potere è in mano a dodici potenti famiglie."
+ },
+ "iberia": {
+  "name": "Iberia",
+  "text": "Potenza costiera un tempo cresciuta grazie alla tecnologia di Ægir e quasi annientata dalla Grande Quiete: oggi a guidare il paese in frantumi resta solo l'Inquisizione."
+ },
+ "grypherburg": {
+  "name": "Grypherburg",
+  "text": "Città mobile, capitale dell'impero di Ursus."
+ },
+ "columbia": {
+  "name": "Columbia",
+  "text": "La più giovane delle grandi potenze di Terra, una repubblica federale in rapida espansione."
+ },
+ "rim-billiton": {
+  "name": "Rim Billiton",
+  "text": "Confederazione di comunità minerarie nel sud-est del continente, vicino a Kazdel e a Yan, famosa per l'estrazione dell'Originium."
+ },
+ "higashi": {
+  "name": "Higashi",
+  "text": "Paese orientale a nord-est di Yan, a cui è molto legato, diviso a lungo tra una corte del nord e una del sud."
+ },
+ "kazdel": {
+  "name": "Kazdel",
+  "text": "Nella lingua dei Sarkaz significa «casa», o «il luogo dove si trova la casa»."
+ },
+ "leithanien": {
+  "name": "Leithanien",
+  "text": "Impero confederale famoso per lo studio accademico delle Arti dell'Originium."
+ },
+ "laterano": {
+  "name": "Laterano",
+  "text": "Città-stato teocratica guidata dal Papa della Chiesa di Laterano, patria dei Sankta."
+ },
+ "nightzmora": {
+  "name": "Nightzmora",
+  "text": "L'impero nomade dei Nightzmora: più di mille anni fa il suo Khagan partì dalle praterie con i guerrieri del Kheshig e conquistò molte terre."
+ },
+ "londinium": {
+  "name": "Londinium",
+  "text": "La capitale di Victoria: una prospera città mobile di fabbriche, mura di ferro e antichi palazzi, centro politico e culturale dell'impero."
+ },
+ "county-hillock": {
+  "name": "Contea di Hillock",
+  "text": "Contea di Victoria che prende il nome dalla città mobile su cui sorge; un tempo apparteneva alla regione di Tara."
+ },
+ "minos": {
+  "name": "Minos",
+  "text": "Confederazione meridionale di tre città-stato vicino a Sargon e Kjerag, nota per la sua democrazia guidata dai sacerdoti, le armi pregiate e il culto degli eroi."
+ },
+ "grand-knight-territory": {
+  "name": "Territorio dei Gran Cavalieri",
+  "text": "La capitale di Kazimierz, una città frenetica dove attraccano numerose città mobili e dove si svolge il Kazimierz Major."
+ },
+ "kjerag": {
+  "name": "Kjerag",
+  "text": "Nazione di montagna coperta di neve e ghiaccio, devota alla dea Kjeragandr e chiamata anche il Regno delle Nevi."
+ },
+ "aegir": {
+  "name": "Ægir",
+  "text": "Una civiltà avanzata nascosta sotto l'oceano, con una scienza e una tecnologia di gran lunga superiori a quelle dei paesi di terraferma."
+ },
+ "bolivar": {
+  "name": "Bolívar",
+  "text": "Si trova nel nord-ovest del continente e confina con Columbia."
+ },
+ "nuova-volsinii": {
+  "name": "Nuova Volsinii",
+  "text": "Città mobile di Siracusa, gemella di Volsinii, formata da dodici piattaforme mobili e centro del settore logistico."
+ },
+ "trimounts": {
+  "name": "Trimounts",
+  "text": "Città mobile di Columbia, sede della Rhine Lab e grande centro scientifico e tecnologico."
+ },
+ "black-flow": {
+  "name": "Foresta del Flusso Nero",
+  "text": "Una misteriosa foresta nel territorio di Bolívar, attraversata da correnti nere."
+ },
+ "siesta": {
+  "name": "Siesta",
+  "text": "La città natale della signorina Ceylon: Siesta è una delle rare città indipendenti."
+ },
+ "wolumonde": {
+  "name": "Wolumonde",
+  "text": "Wolumonde, l'«ottava luna» dei monti Winterwisp di Leithanien."
+ },
+ "acahualla": {
+  "name": "Acahualla",
+  "text": "Regione di giungla tropicale nell'est di Sargon, isolata e con una cultura tutta sua, abitata da Archosauria, Liberi e Phidia."
+ },
+ "kawalerielki-alliance": {
+  "name": "Alleanza delle Quattro Città",
+  "text": "Quattro città di Kazimierz unite in una sola: Kawalerielki."
+ },
+ "foehn-hotlands": {
+  "name": "Terre ardenti del Foehn",
+  "text": "Deserto caldo, arido e disabitato a sud del continente, vicino a Sargon, dove si crede che nessuno possa sopravvivere."
+ },
+ "mount-karlan": {
+  "name": "Sacro monte Karlan",
+  "text": "La vetta più alta di Kjerag e la montagna più alta di tutto Terra, centro della religione del paese."
+ },
+ "wall-of-champions": {
+  "name": "Muro dei Campioni",
+  "text": "La sala in cui Kazimierz espone i suoi cavalieri campioni."
+ },
+ "shangshu": {
+  "name": "Shangshu",
+  "text": "Città mobile di montagna di Yan, costruita tra scogliere e valli, amata dai turisti per le escursioni e per l'hot pot piccante."
+ },
+ "yumen": {
+  "name": "Yumen",
+  "text": "Città mobile fortificata di Yan nel deserto del Gobi, a nord, famosa per il kung fu, la forgiatura delle spade e l'industria bellica."
+ },
+ "bleached-wasteland": {
+  "name": "Landa delle Ossa",
+  "text": "Deserto disabitato e a bassa quota tra il sud di Columbia e il nord di Sargon, noto per le sabbie grigie e salate e i fossili giganteschi."
+ },
+ "eye-of-iberia": {
+  "name": "Occhio di Iberia",
+  "text": "L'Occhio di Iberia si erge ancora tra le onde. Nessuno sa come questo faro sia sopravvissuto alla tragedia; forse perché nessuna tempesta, per quanto terribile, può impedire agli uomini di volgere lo sguardo al mare."
+ },
+ "gran-faro": {
+  "name": "Gran Faro",
+  "text": "Gran Faro, una delle poche cittadine di mare rimaste."
+ },
+ "volsinii": {
+  "name": "Volsinii",
+  "text": "Città-stato mobile di Siracusa, governata dalle Dodici Famiglie e celebre per la sua ricca tradizione operistica."
+ },
+ "dahuang": {
+  "name": "Dahuang",
+  "text": "Città mobile agricola sul confine settentrionale di Yan, il più grande granaio del paese."
+ },
+ "infy-icefield": {
+  "name": "Distesa ghiacciata di Infy",
+  "text": "Immensa tundra artica disabitata, fatta di ghiacciai e neve, all'estremo nord, oltre Sami, Ursus e Columbia."
+ },
+ "zwillingsturme": {
+  "name": "Zwillingstürme",
+  "text": "La capitale di Leithanien, città della musica e dell'arte che prende il nome dalle sue due guglie gemelle, famosa per il conservatorio nazionale."
+ },
+ "baizao": {
+  "name": "Baizao",
+  "text": "La capitale di Yan, una città mobile ottagonale famosa per la sua cucina."
+ },
+ "shar-agade": {
+  "name": "Shar-Agade",
+  "text": "La capitale di Sargon, chiamata la Città d'Oro: residenza della famiglia reale, isolata dal mondo esterno."
+ },
+ "garden-of-grotesqueries": {
+  "name": "Giardino delle Grottesche",
+  "text": "Un vasto giardino alle porte di Baizao, la capitale di Yan, dai paesaggi splendidi; molte sue zone non sono ancora aperte ai visitatori."
+ },
+ "propeller-paradise": {
+  "name": "Paradiso delle Eliche",
+  "text": "Un locale di divertimenti sospeso in aria, a Columbia, costruito da diverse aziende per mettere in mostra e studiare la tecnologia del volo."
+ },
+ "great-lake": {
+  "name": "Grande Lago",
+  "text": "Un'immensa distesa d'acqua a sud della Città, che si spinge fino alla Periferia."
+ },
+ "hongyuan": {
+  "name": "Hongyuan",
+  "text": "Il Distretto 8 della Città, che è tutto un unico, gigantesco edificio: il Nido al centro, i Vicoli tutt'intorno ai margini."
+ },
+ "outskirts": {
+  "name": "Periferia",
+  "text": "Le terre vuote e senza governo al di fuori della Città. Sono pericolosissime, e a chi vive in Città si raccomanda di starne lontano."
+ },
+ "the-city": {
+  "name": "La Città",
+  "text": "La casa dei Peccatori: un enorme complesso urbano grande quanto un piccolo paese, diviso in 26 Distretti, ognuno governato da un'Ala. Oltre i suoi confini si trovano il Grande Lago e la Periferia."
+ },
+ "faro-muerto": {
+  "name": "Faro Muerto",
+  "text": "Un villaggio sulla costa di Iberia. Il nome significa «faro morto»."
+ },
+ "backstreets": {
+  "name": "Vicoli",
+  "text": "La parte di un Distretto che resta fuori dal Nido e che l'Ala abbandona a sé stessa: bassifondi pericolosi e poveri, dove spadroneggiano le bande criminali."
+ },
+ "nests": {
+  "name": "Nidi",
+  "text": "La parte di un Distretto governata e protetta dalla sua Ala: più ricca e più sicura dei Vicoli."
+ },
+ "vessel-masas": {
+  "name": "Nave Masas",
+  "text": "Una nave ferma al largo della costa, vicino a Faro Muerto."
+ },
+ "reunion": {
+  "name": "Reunion",
+  "text": "Un'organizzazione paramilitare formata da infetti oppressi, in lotta contro i non infetti e i loro governi."
+ },
+ "rhodes-island": {
+  "name": "Rhodes Island",
+  "text": "La Rhodes Island Pharmaceuticals è un'azienda registrata di ricerca e sviluppo farmaceutico.",
+  "game": {
+   "title": "Rhodes Island",
+   "text": "La Rhodes Island Pharmaceuticals è un'azienda registrata di ricerca e sviluppo farmaceutico. Nei documenti pubblici dichiara di studiare cure per il problema degli infetti che possano servire a paesi, organizzazioni e singoli individui; per questo recluta persone di talento in tutto il mondo, senza badare ai titoli né al fatto che siano infette. Offre inoltre ai dipendenti ottime condizioni mediche e di vita e attrezzature di ricerca all'avanguardia, e ha così attirato molti infetti rimasti senza alternative e molte persone capaci, decise a cambiare la sorte degli infetti."
+  }
+ },
+ "operator": {
+  "name": "Operatore",
+  "text": "Membro di Rhodes Island addestrato al combattimento; molti sono a loro volta infetti."
+ },
+ "lgd": {
+  "name": "L.G.D.",
+  "text": "Il Dipartimento di Guardia di Lungmen, una delle forze armate della città."
+ },
+ "penguin-logistics": {
+  "name": "Penguin Logistics",
+  "text": "Un'enigmatica società di logistica e trasporti, specializzata in vendita di informazioni, scorte armate e trasporti riservati."
+ },
+ "blacksteel-worldwide": {
+  "name": "Blacksteel Worldwide",
+  "text": "Grande appaltatore internazionale della sicurezza, che offre ai vari paesi servizi di ogni genere: dalle guardie del corpo fino all'intervento militare."
+ },
+ "elite-operators": {
+  "name": "Operatori d'élite",
+  "text": "Il ramo d'élite di Rhodes Island, formato da operatori sul campo di grande esperienza, che entrano in azione solo con l'approvazione dei vertici."
+ },
+ "shadow-guard": {
+  "name": "Guardia delle Ombre",
+  "text": "Misteriosa unità per operazioni speciali con base a Lungmen, chiamata anche «i Mantelli Neri» per la sua uniforme."
+ },
+ "babel": {
+  "name": "Babel",
+  "text": "Guidata direttamente da due Re dei Sarkaz, Babel ottenne risultati in campo militare, scientifico, medico e non solo."
+ },
+ "general-chamber-of-commerce": {
+  "name": "Camera di Commercio Generale",
+  "text": "L'organizzazione commerciale di Kazimierz, in continuo attrito con gli Adeptus Sprawiedliwi."
+ },
+ "dublinn": {
+  "name": "Dublinn",
+  "text": "Movimento nazionalista e gruppo armato tarano con base in Victoria, che punta a fondare una monarchia tarana indipendente."
+ },
+ "glasgow": {
+  "name": "Glasgow",
+  "text": "La banda Glasgow si muove nei quartieri poveri di Victoria; all'inizio era una gang di strada guidata da Morgan e Indra."
+ },
+ "military-commission": {
+  "name": "Commissione Militare",
+  "text": "La forza armata nazionale di Kazdel, formata da soldati e mercenari sarkaz."
+ },
+ "self-salvation-corps": {
+  "name": "Corpo di Autosalvezza",
+  "text": "Gruppo popolare di cittadini di Londinium di ogni ceto, che si oppone sia a chi occupa la città sia ai duchi che la assediano."
+ },
+ "steam-knights": {
+  "name": "Cavalieri a vapore",
+  "text": "I Cavalieri a vapore sono l'orgoglio di Victoria: la sua forza militare più potente e il più alto onore che un soldato possa ricevere."
+ },
+ "notarial-hall": {
+  "name": "Ufficio Notarile",
+  "text": "L'organo esecutivo di Laterano: i suoi funzionari si occupano degli affari civili di tutti i giorni, come tasse e contratti, e tutelano i diritti costituzionali dei cittadini."
+ },
+ "adeptus-sprawiedliwi": {
+  "name": "Adeptus Sprawiedliwi",
+  "text": "L'organo che riunisce i collaboratori del Gran Cavaliere di Kazimierz, da sempre in contrasto con la Camera di Commercio Generale."
+ },
+ "followers": {
+  "name": "Apostoli",
+  "text": "Un'équipe medica itinerante di Rhodes Island che percorre le zone rurali curando le persone che incontra lungo la strada."
+ },
+ "abyssal-hunters": {
+  "name": "Cacciatori degli Abissi",
+  "text": "Guerrieri scelti di Ægir, modificati per contrastare la minaccia dei Seaborn, capaci di combattere sott'acqua e sulla terraferma."
+ },
+ "inquisition": {
+  "name": "Inquisizione",
+  "text": "Il compito principale dell'Inquisizione resta affrontare la minaccia che viene dagli abissi, ma è anche l'organizzazione che decide davvero la politica di Iberia."
+ },
+ "rhine-lab": {
+  "name": "Rhine Lab",
+  "text": "Un celebre gruppo scientifico di Columbia, impegnato a portare nell'uso pratico le tecnologie più avanzate."
+ },
+ "national-council": {
+  "name": "Consiglio Nazionale",
+  "text": "Assemblea di Kazimierz che vota sugli affari dello stato, compreso lo status dei cavalieri."
+ },
+ "knights-association": {
+  "name": "Associazione dei Cavalieri",
+  "text": "L'ente presso cui i cavalieri di Kazimierz devono registrarsi prima di gareggiare."
+ },
+ "armorless-union": {
+  "name": "Unione dei Senza Armatura",
+  "text": "Organizzazione segreta di Kazimierz, formata da tiratori scelti e assassini, che prende di mira i cavalieri che minacciano chi è al potere."
+ },
+ "blade-helmet-knightclub": {
+  "name": "Ordine dell'Elmo Affilato",
+  "text": "Ordine di giovani cavalieri da torneo, che porta il nome di antichi eroi di Kazimierz."
+ },
+ "pinus-sylvestris": {
+  "name": "Pinus Sylvestris",
+  "text": "Un ordine cavalleresco nato fin dall'inizio per permettere agli infetti di sopravvivere nel Territorio dei Gran Cavalieri."
+ },
+ "atao": {
+  "name": "ATAO",
+  "text": "L'ufficio di Columbia per alcol, tabacco, unità per le Arti e prodotti di Originium, che controlla queste merci dai posti di frontiera fino alla Landa delle Ossa."
+ },
+ "church-of-the-deep": {
+  "name": "Chiesa degli Abissi",
+  "text": "Setta segreta diffusa tra Ægir e Iberia, che obbedisce alla volontà dei Seaborn."
+ },
+ "vine-bead-court": {
+  "name": "Corte dei Grani di Vite",
+  "text": "Istituzione religiosa di Kjerag: i suoi monaci insegnano la fede in Kjeragandr e spesso fanno da mediatori tra le parti."
+ },
+ "crimson-chalice-knightclub": {
+  "name": "Ordine del Calice Cremisi",
+  "text": "L'ordine cavalleresco a cui appartiene il Cavaliere di Sangue."
+ },
+ "karlan-trade": {
+  "name": "Karlan Trade",
+  "text": "La Karlan Trade è un'azienda statale che si occupa di commercio estero, con sede a Kjerag, il piccolo paese religioso chiamato «Regno delle Nevi»."
+ },
+ "discipline-and-supervision": {
+  "name": "Censorato",
+  "text": "Il Censorato di Yan, dove censori come Taihe raccolgono le denunce contro funzionari e ministeri."
+ },
+ "lees-detective-agency": {
+  "name": "Agenzia investigativa di Lee",
+  "text": "Un'agenzia investigativa privata di Lungmen, che accetta per lo più lavoretti sparsi."
+ },
+ "curia": {
+  "name": "Curia",
+  "text": "Il governo centrale di Laterano, diviso in sette dicasteri."
+ },
+ "mountaincomm-trade": {
+  "name": "Mountaincomm Trade",
+  "text": "La società commerciale rappresentata da Bison, una controllata della MountainDash Logistics."
+ },
+ "limbus-company": {
+  "name": "Limbus Company",
+  "text": "Un'azienda della Città i cui dipendenti fanno irruzione nelle filiali rimaste della Lobotomy Corporation. Si presenta anche come una ditta che si occupa delle Distorsioni."
+ },
+ "lobotomy-corporation": {
+  "name": "Lobotomy Corporation",
+  "text": "Un'Ala della Città ormai caduta. Le sue ricerche hanno dato origine alle Anomalie, ed è nelle sue filiali abbandonate che la Limbus Company cerca i Rami d'Oro."
+ },
+ "the-head": {
+  "name": "La Testa",
+  "text": "L'autorità suprema della Città, che governa tutte le Ali. Interviene di rado negli affari dei Distretti, ma è lei a stabilire i tabù della Città."
+ },
+ "syndicates": {
+  "name": "Bande",
+  "text": "Gruppi organizzati della Città che nessuno controlla. Si trovano per lo più nei Vicoli e si occupano delle attività più disparate."
+ },
+ "wings": {
+  "name": "Ali",
+  "text": "I 26 conglomerati più grandi e potenti della Città. Ognuno governa il Nido di un Distretto e possiede una tecnologia che infrange le leggi della fisica."
+ },
+ "radiant-knight": {
+  "name": "Cavaliere Radioso",
+  "text": "Titolo che Kazimierz conferisce al campione del Kazimierz Major, in onore di un cavaliere di nobile carattere e grande abilità."
+ },
+ "king-of-sarkaz": {
+  "name": "Re dei Sarkaz",
+  "text": "Titolo dei Sarkaz, che spetta al leader che guida il suo popolo in politica e nello spirito."
+ },
+ "khagan": {
+  "name": "Khagan",
+  "text": "Il titolo del sovrano dei Nightzmora."
+ },
+ "kheshig": {
+  "name": "Kheshig",
+  "text": "Il seguito del Khagan, un tempo i guerrieri più valorosi di queste terre."
+ },
+ "grand-knight": {
+  "name": "Gran Cavaliere",
+  "text": "Il Gran Cavaliere di Kazimierz, i cui collaboratori siedono negli Adeptus Sprawiedliwi."
+ },
+ "shahanshah": {
+  "name": "Shahanshah",
+  "text": "Il titolo del sovrano di Sargon, che spetta a un re della casata reale degli Aslan."
+ },
+ "pope": {
+  "name": "Papa",
+  "text": "Il capo della Chiesa di Laterano e la guida del paese, a cui ci si rivolge con «Sua Santità»."
+ },
+ "executor": {
+  "name": "Esecutore",
+  "text": "Funzionari dell'Ufficio Notarile di Laterano, inviati nelle varie città-stato a eseguirne la volontà."
+ },
+ "blood-knight": {
+  "name": "Cavaliere di Sangue",
+  "text": "Titolo ottenuto a Kazimierz dal campione del Kazimierz Major."
+ },
+ "lazurite": {
+  "name": "Lapislazzuli",
+  "text": "Un grado dell'Unione dei Senza Armatura riservato a due sole persone, che pianificano le missioni dal Territorio dei Gran Cavalieri."
+ },
+ "true-lung": {
+  "name": "Vero Drago",
+  "text": "Titolo conferito agli imperatori della Grande Yan, in onore degli antenati della stirpe imperiale."
+ },
+ "inquisitor": {
+  "name": "Inquisitore",
+  "text": "Grado dei membri dell'Inquisizione di Iberia, che fanno rispettare leggi severissime ed emettono sentenze; sopra di loro ci sono i Grandi Inquisitori."
+ },
+ "saintess": {
+  "name": "Santa",
+  "text": "Titolo della massima autorità religiosa di Kjerag, che si dice venga scelta con una campana sacra donata dagli dèi."
+ },
+ "darksteel": {
+  "name": "Ferro Nero",
+  "text": "Un grado dei cavalieri assassini di Kazimierz, ricoperto da tre persone, un gradino sopra il Platino."
+ },
+ "grandmaster": {
+  "name": "Gran Maestro",
+  "text": "Titolo che a Yan si dà a un maestro di arti marziali senza rivali."
+ },
+ "last-kheshig": {
+  "name": "L'ultimo Kheshig",
+  "text": "Così il commentatore del Kazimierz Major chiama Tola, il Cavaliere Cacciaincubi: il nome viene dai Kheshig, il seguito del Khagan, un tempo i guerrieri più valorosi di queste terre."
+ },
+ "tianshi": {
+  "name": "Maestro Celeste",
+  "text": "Funzionari della Corte dei Maestri Celesti di Yan: studiano di tutto, dall'agricoltura all'edilizia, e si prendono cura delle cittadine vicine."
+ },
+ "legatus": {
+  "name": "Legato",
+  "text": "Gli inviati di Laterano, che portano la parola del Papa oltre ogni confine."
+ },
+ "cardinal": {
+  "name": "Cardinale",
+  "text": "Alta carica di Laterano: ogni cardinale guida uno dei dicasteri e siede nel Collegio cardinalizio."
+ },
+ "signore-dei-lupi": {
+  "name": "Signore dei Lupi",
+  "text": "Titolo di Siracusa portato da figure come Zaaro, le cui Zanne agiscono in suo nome."
+ },
+ "sinner": {
+  "name": "Peccatore",
+  "text": "Così la Limbus Company chiama i dipendenti che percorrono la Città per le sue missioni. Il loro Direttore esecutivo è il decimo Peccatore."
+ },
+ "executive-manager": {
+  "name": "Direttore esecutivo",
+  "text": "La carica di Dante, il decimo Peccatore, che guida gli altri. Il Direttore esecutivo può entrare in risonanza con i Peccatori per equipaggiarli con le Identità."
+ },
+ "fixer": {
+  "name": "Fixer",
+  "text": "Chi nella Città si fa assoldare per incarichi di ogni tipo, dalle commissioni al combattimento. Per diventarlo serve una licenza."
+ }
+}
