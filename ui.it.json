@@ -115,6 +115,7 @@
   "set.machine": "(traduzione della community)",
   "set.nameInline": "A inizio battuta",
   "set.pacing": "{n}x (~{s}s per battuta breve)",
+  "set.spoilHide": "Solo ciò che ho letto",
   "set.storyHelp": "Le storie arrivano direttamente dal gioco, che esiste solo in inglese, cinese semplificato, giapponese, coreano e cinese tradizionale. È un'impostazione separata dalla lingua dell'interfaccia",
   "set.uiHelp": "Sono tradotti solo pulsanti e menu, con una revisione della community. Le storie restano nella lingua scelta per le storie",
   "settings.resetAsk": "Riporta allo stato iniziale le impostazioni del lettore, la velocità e lo stile di lettura e il tema. I tuoi progressi restano",
