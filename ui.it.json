@@ -7,6 +7,7 @@
   "blurb.record": "Dossier riservati degli operatori",
   "comic.mode": "Impaginazione",
 
+  "contact.blurb": "Realizzato da Timo. Scrivimi pure per qualsiasi feedback, problema o bug!",
   "continue.into": "Letta al {n}%",
   "continue.read": "{n} di {total} battute lette",
 
@@ -38,10 +39,12 @@
 
   "footer.rights": "Illustrazioni, testi delle storie e musiche di Arknights appartengono a Hypergryph e Yostar. Progetto amatoriale non ufficiale, non affiliato a nessuna delle due.",
 
+  "help.progress": "I tuoi progressi sono salvati in questo browser. Attiva la sincronizzazione per portarli sugli altri dispositivi, senza bisogno di un account.",
+  "help.hiddenHead": "Svelato man mano che leggi",
   "help.about": "Un lettore fatto dai fan per tutte le storie di Arknights",
   "help.hidden": "Nomi, immagini e musiche delle storie che non hai ancora letto restano sfocati o nascosti, e gli operatori compaiono solo dopo che li hai incontrati. Dossier e moduli compaiono quando hai letto la storia con cui sono usciti. Vuoi vedere tutto subito? Imposta Spoiler su Mostra tutto",
   "help.lang": "La lingua delle storie è quella del testo che leggi, la lingua dell'interfaccia è quella di menu e pulsanti. Se il tuo server non ha ancora una storia, la leggerai in cinese.",
-  "help.rate": "Finisci tutto un capitolo, una storia secondaria o un'antologia e potrai darle un voto. I voti sono anonimi.",
+  "help.rate": "Quando finisci tutto un capitolo, una storia secondaria o un'antologia, puoi lasciare un voto. I voti sono anonimi.",
 
   "home.nothing": "Nessuna lettura in corso",
 
