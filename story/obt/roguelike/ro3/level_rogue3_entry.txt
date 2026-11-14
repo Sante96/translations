@@ -1,0 +1,54 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background(image="40_g1_blackforest",screenadapt="coverall")]
+[charslot]
+[Delay(time=1)]
+[playMusic(intro="$tech_intro",key="$tech_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+[Delay(time=1)]
+[charslot(slot = "m", name = "avg_248_mgllan_1#8$1",duration=2)]
+[delay(time=2.5)]
+[charslot(slot = "m", name = "avg_248_mgllan_1#2$1")]
+[playsound(key="$d_gen_transmissionget")]
+[Delay(time=1.5)]	
+[name="Magallan"]Ehm, ehm… Bene. Qui Magallan, della spedizione scientifica: inizio della registrazione audio.
+[charslot(slot = "m", name = "avg_248_mgllan_1#8$1")]
+[name="Magallan"]È il dodicesimo giorno da quando la spedizione scientifica congiunta è entrata in Sami.
+[Dialog]
+[charslot]
+La terra gelata, il Myrkwood, l'odore del legno e del muschio, il peso della neve fresca, la temperatura del vento, il richiamo delle bestie cornute.
+Il fruscio dei dati che vengono registrati, il calore degli apparecchi di supporto vitale, i segni lasciati dai bastoncini da trekking, il ronzio dei droni che si alzano in volo.
+I membri della spedizione si fanno strada a tentoni in questa terra sconosciuta.
+[charslot(slot = "m", name = "avg_248_mgllan_1#9$1")]
+[name="Magallan"]Finora il viaggio è filato liscio come l'olio, grazie a due amiche di Sami bravissime, ma proprio bravissime, che ci accompagnano!
+[charslot(slot = "m", name = "avg_248_mgllan_1#4$1")]
+[name="Magallan"]Typhon, vuoi dire qualcosa anche tu?
+[Dialog]
+[charslot]
+[charslot(slot = "m", name = "avg_2012_typhon_1#1$1",duration=1)]
+[delay(time=1)]
+[name="Typhon"]Eh? No, non ho tempo. Devo badare a quella banda di… “colleghi” tuoi.
+[charslot(slot = "m", name = "avg_248_mgllan_1#7$1")]
+[name="Magallan"]Allora—
+[charslot(slot = "m", name = "avg_2012_typhon_1#9$1")]
+[name="Typhon"]Neanche Simone ha tempo. Sta sistemando gli amuleti contro il male, e poi deve seguire le tracce di non so cosa venuto da Ursus.
+[charslot(slot = "m", name = "avg_248_mgllan_1#8$1")]
+[name="Magallan"]Ehehe, va bene.
+[charslot(slot = "m", name = "avg_248_mgllan_1#8$1")]
+[name="Magallan"]Insomma, grazie al loro aiuto! Senza di loro ci saremmo persi nella foresta, poco ma sicuro!
+[charslot(slot = "m", name = "avg_248_mgllan_1#8$1")]
+[name="Magallan"]E poi… tra poco incontreremo qualcuno che, a quanto dicono, come veggente è davvero affidabile.
+[Dialog]
+[charslot]
+Stringendo il registratore, Magallan alza lo sguardo.
+Nella nebbia, davanti a loro, si intravede una sagoma alta e imponente.
+Il Ciclope Sarkaz, capace di vedere la sventura, li sta aspettando per mostrare loro la via.
+Ponderare e calcolare non ha più senso: gli esploratori mettono piede su una terra solida e volgono lo sguardo verso l'ignoto sconfinato.
+Avanzano a tentoni verso il destino che li attende, da qualche parte più avanti.
+[Dialog]
+[charslot]
+[stopmusic(fadetime=3)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[Image]
