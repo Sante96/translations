@@ -34,7 +34,7 @@ i vincoli da Lui imposti finiranno per cedere.
 Dieci anni, forse? O una generazione?
 Nemmeno Lui può garantirlo.
 L'unica cosa che può fare è tener fede alla promessa fatta al Dottore, finché il Suo io e la Sua umanità non avranno ceduto del tutto.
-…Almeno, il Dottore e i suoi compagni dovranno restare al riparo dai Seaborn per il tempo che resta loro.
+…Almeno, deve fare in modo che il Dottore e i compagni vivano al riparo dai Seaborn per il resto dei loro giorni.
 La marea sta per salire, e Mizuki non ha altra scelta.
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -45,7 +45,7 @@ La marea sta per salire, e Mizuki non ha altra scelta.
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 Entra nel mare.
-Mentre il corpo si trasforma, Mizuki sta assumendo la stessa forma della Linfa: così potrà placare la follia di questa Sua simile.
+Mentre il Suo corpo si trasforma, Mizuki assume la stessa forma della Linfa: così potrà placare la follia di questa Sua simile.
 Dal rosso vivo si diffonde il ceruleo.
 E il corpo umano di Mizuki svanisce a poco a poco.
 All'ultimo istante si volta a guardare verso terra, e nelle Sue pupille si riflette la figura di una persona.

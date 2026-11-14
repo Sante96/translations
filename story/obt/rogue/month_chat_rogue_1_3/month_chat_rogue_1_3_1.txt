@@ -6,7 +6,7 @@
 [Dialog(head="char_349_chiave", delay=1)]Ma che vi prende?! Un ristorante così caro, un'occasione così bella! E voi non ci volete andare?!
 [Dialog(head="char_356_broca", delay=0.5)]Chi te li ha dati, questi buoni sconto…?
 [Dialog(head="char_349_chiave", delay=0.5)]Ovvio, le conoscenze del sottoscritto…
-[Dialog(head="char_346_aosta", delay=0)]Li ha vinti a un concorso bevendo succhi di frutta per bambini.
+[Dialog(head="char_346_aosta", delay=0)]Li ha vinti al concorso a premi di una bibita per bambini.
 [Dialog(head="char_349_chiave", delay=0.5)]Non fatevi tante domande: ci andiamo o no?
 [Dialog(head="char_346_aosta", delay=0.5)]Ma la scritta in lingua di Gaul, su questo buono, non è sbagliata?
 [Dialog(head="char_349_chiave", delay=0.5)]Sbagliata? Aspetta, e tu come fai a conoscere la lingua di Gaul?

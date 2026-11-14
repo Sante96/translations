@@ -4,7 +4,7 @@
 [Dialog]
 E così, la storia giunge al termine.
 Le luci si spengono, gli attori lasciano la scena, il sipario rosso si chiude lentamente.
-Finita la musica, il pubblico se ne va, e tutto torna di nuovo nel silenzio.
+Finita la musica, il pubblico se ne va, e tutto ripiomba nel silenzio.
 [dialog]
 [Background(image="24_RL_castlehall",screenadapt="coverall")]
 [Delay(time=1)]
@@ -14,7 +14,7 @@ Finita la musica, il pubblico se ne va, e tutto torna di nuovo nel silenzio.
 Phantom è tornato in sé.
 Ricorda ancora tutto ciò che ha fatto.
 Sa bene che lui, il primo attore, non era che l'esca preparata dalla compagnia.
-Per attirare, una volta dopo l'altra, quei mortali fervidi e nobili in quella trappola senza ritorno.
+Per attirare, ancora e ancora, quei mortali fervidi e nobili in quella trappola senza ritorno.
 Un cammino irto di pericoli, su cui non serve spendere parole.
 Ora, per sua fortuna, è stato salvato. Ma prima?
 Qualcuno si sarà mai smarrito in questo labirinto svettante?

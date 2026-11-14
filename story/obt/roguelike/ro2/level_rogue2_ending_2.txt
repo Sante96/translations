@@ -79,7 +79,7 @@ Dunque, se questa vita grandiosa cadrà qui
 l'oceano tacerà per sempre, e non si leverà più nemmeno uno spruzzo
 [dialog]
 [delay(time=1)]
-L'acqua del mare si schianta sull'armatura con il fragore di un Feranmut d'acciaio che travolge la terra
+L'acqua del mare si schianta sull'armatura con il fragore di un colosso d'acciaio che travolge la terra
 La pioggia diluisce il sapore di ruggine nel respiro, ma gli porta al naso il lezzo dei viventi
 Le onde cercano di abbassargli la lancia, la corrente lo trascina verso terra
 Il mondo intero cerca di fermare il cavaliere

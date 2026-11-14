@@ -13,7 +13,7 @@
 [Dialog(head="char_187_ccheal", delay=0.5)]E chi ha detto che il tesoro esiste davvero?
 [Dialog(head="char_187_ccheal", delay=0.5)]E poi adesso abbiamo altro da fare.
 [Dialog(head="char_187_ccheal", delay=0.5)]Per esempio, portare insieme questo carretto d'oro puro dalla fabbrica al magazzino.
-[Dialog(head="char_411_tomimi", delay=0.5)]Oooh-op!
+[Dialog(head="char_411_tomimi", delay=0.5)]Oh, issa!
 [Dialog(head="char_127_estell", delay=1.5)]Chi c'è là davanti… chi è…
 [Dialog(head="char_127_estell", delay=0.5)]È arrivato davvero qualcuno a rubarci l'oro puro?	
 [Dialog(head="char_127_estell", delay=0.5)]Ah! Non avvicinatevi! Yaah!!

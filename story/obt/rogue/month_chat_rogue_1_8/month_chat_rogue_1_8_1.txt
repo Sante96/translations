@@ -6,7 +6,7 @@
 [Dialog(head="char_183_skgoat", delay=0.5)]È questa la spilla d'oro di cui parlavi?
 [Dialog(head="char_426_billro", delay=0.5)]Sì, un gioiello della famiglia reale di Gaul.
 [Dialog(head="char_426_billro", delay=0.5)]I nobili di Leithanien la conservavano come simbolo del proprio rango; mi ci sono imbattuta durante un viaggio di studio.
-[Dialog(head="char_426_billro", delay=0.5)]Sul retro è montato un comune circuito di Originium caricato con Arti difensive. Il Dipartimento di ingegneria se n'è mostrato molto interessato, e io ci ho ottenuto in cambio dei medicinali.
+[Dialog(head="char_426_billro", delay=0.5)]Sul retro è montato un comune circuito di Originium caricato con Arti difensive. Il Dipartimento di ingegneria si è mostrato molto interessato, e io l'ho scambiata con una fornitura di medicinali.
 [Dialog(head="char_148_nearl", delay=1.5)]Capito. E come si svolge il test?
 [Dialog(head="char_426_billro", delay=0.5)]Nearl e io indosseremo la spilla a turno, mentre l'altra attacca, per verificare quanto resiste a diversi tipi di attacco. La signorina Earthspirit si occuperà di registrare i dati.
 [Dialog(head="char_183_skgoat", delay=1.5)]Sì, l'attrezzatura di registrazione è pronta.

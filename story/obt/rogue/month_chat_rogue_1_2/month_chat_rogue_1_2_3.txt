@@ -14,7 +14,7 @@
 [Dialog(head="char_485_pallas", delay=1)]Questo è davvero… davvero…
 [Dialog(head="char_503_rang", delay=0.5)]Nelle voci il vero si mescola al falso. Come siano andate davvero le cose, temo che ormai nessuno lo sappia.
 [Dialog(head="char_503_rang", delay=0.5)]C'è sempre qualcuno convinto di poter sfuggire alla morte e riaprire gli occhi ancora una volta.
-[Dialog(head="char_485_pallas", delay=1)]La vita eterna… Ah, che miracolo degno di compianto.
+[Dialog(head="char_485_pallas", delay=1)]La vita eterna… Ah, che miracolo amaro.
 [Dialog(head="char_485_pallas", delay=0.5)]La nostra vita ha un termine, ma il nome che nel cuore della gente rappresenta la fede è già immortale.
-[Dialog(head="char_485_pallas", delay=0.5)]La vita ardente e pura di un eroe è una scintilla che non si spegne: il fuoco brucerà a lungo, a lungo, ma chi lo accende come potrebbe continuare ad ardere per sempre?
+[Dialog(head="char_485_pallas", delay=0.5)]La vita ardente e pura di un eroe è una scintilla che non si spegne: il fuoco arderà a lungo, a lunghissimo, ma chi lo accende come potrebbe continuare a bruciare se stesso per sempre?
 [Dialog(head="char_003_kalts", delay=2)]In effetti, nessuno può.

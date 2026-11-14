@@ -18,7 +18,7 @@ Esce dai monti del Fjal Vetrtonn, e i ghiacci le si stendono davanti agli occhi.
 Tra cielo e terra rimbomba la tormenta, e il suo ruggito le trapassa il corpo.
 Il tremito della lotta tra le rocce di terra gelata e il ghiaccio eterno le sale dai piedi, e il freddo le sferza il viso.
 Ormai la tormenta l'ha inghiottita.
-Non riesce a escludere quella voce.
+Non riesce a tenere fuori quella voce.
 [dialog]
 [Blocker(a=1, r=1, g=1, b=1, fadetime=2, block=true)]
 [Background]
@@ -93,9 +93,9 @@ Per questo la spinge verso il gelo e la tormenta dei ghiacci, verso il destino c
 [name="Santalla"]I guerrieri di Sami sono taciturni e conservatori, ma se qualcuno lo desidera, la volontà di Sami non lo ostacola.
 [name="Santalla"]Che c'è?
 [name="Magallan"]Eh eh, niente. Andiamo.
-Non le dice che le sembra di aver ricevuto, come in trance, una risposta evidente di per sé, e insieme di aver ascoltato migliaia di racconti di una storia lunghissima.
+Non le dice che le sembra di aver ricevuto, come in trance, una risposta che non ha bisogno di spiegazioni, e insieme di aver ascoltato migliaia di racconti di una storia lunghissima.
 In un attimo ha appreso innumerevoli nomi mai registrati negli annali: quegli esploratori non erano più tornati.
-E il volto dei ghiacci sconfinati non si è fatto quasi per niente più chiaro.
+E il volto dei ghiacci sconfinati non si è fatto più nitido, o quasi.
 Anche così, vuole andare avanti?
 Sami non aspetta più la risposta, e le montagne svaniscono lentamente nella tormenta alle sue spalle.
 Davanti a lei, soltanto un bianco argenteo senza confini e un'ombra che non ha fine.

@@ -4,7 +4,7 @@
 [Dialog]
 E così, la storia giunge al termine.
 Le luci si spengono, gli attori lasciano la scena, il sipario rosso si chiude lentamente.
-Finita la musica, il pubblico se ne va, e tutto torna di nuovo nel silenzio.
+Finita la musica, il pubblico se ne va, e tutto ripiomba nel silenzio.
 [dialog]
 [Background(image="24_RL_castlehall",screenadapt="coverall")]
 [Delay(time=1)]
@@ -19,7 +19,7 @@ Dal momento in cui Phantom ha perso il senno, Miss.Christine non ha mai smesso d
 Anche se non è affatto sicura che quegli zucconi sappiano capire il significato di impronte, graffi e segni di denti…
 Visti i risultati, però, Miss.Christine è piuttosto soddisfatta.
 L'elegante signora borbotta qualcosa sottovoce.
-Quel Phidia sta ancora controllando la bambola. La signora sa che teme che il burattinaio possa comparire all'improvviso e trascinare di nuovo Phantom nell'ombra della compagnia.
+Quel Phidia sta ancora esaminando la bambola. La signora lo sa: teme che il burattinaio compaia all'improvviso e trascini di nuovo Phantom nell'ombra della compagnia.
 Naturalmente non accadrà: la signora l'ha capito da un pezzo.
 Terminata l'ispezione senza risultati, il Phidia va a sorreggere Phantom. All'inizio, nella sua voce c'è un'ombra appena percettibile di diffidenza.
 Anche lui un tempo faceva parte della compagnia, e ancora oggi ne teme ogni cosa.
@@ -29,7 +29,7 @@ Phantom si ferma in cima alla scalinata, assorto, cercando di riordinare i pensi
 E la signora, ai suoi piedi, si lecca le zampe.
 D'istinto, la signora si guarda distrattamente intorno; poi, sentendo un prurito sulla schiena, gira la testa con naturalezza per grattarsi.
 Ma nell'istante in cui volta la testa, la signora si blocca.
-Laggiù, ha visto…
+Laggiù, vede…
 [Dialog]
 [Character]
 [Image(image="24_RL02", fadetime=2, xScale=1.1, yScale=1.1)]

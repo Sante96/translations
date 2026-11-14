@@ -25,13 +25,13 @@
 [Character(name="avg_437_mizukisummer_1#5$1")]
 [name="Mizuki"]  Nonno Cicero.
 [Character(name="avg_npc_610_1#1$1")]
-[name="Cicero"]  Lei semplicemente non è riuscita a essere perfetta come te.
+[name="Cicero"]  Solo che lei non è riuscita a essere perfetta come te.
 [Character(name="avg_npc_610_1#1$1")]
-[name="Cicero"]  Desiderava così tanto cambiare… anche se il dono dell'Araldo l'ha fatta smarrire—
+[name="Cicero"]  Desiderava così tanto cambiare… anche se il dono dell'Araldo l'ha portata a smarrirsi—
 [Character(name="avg_npc_610_1#1$1")]
 [name="Cicero"]  era pur sempre ciò che sperava.
 [Character(name="avg_437_mizukisummer_1#8$1")]
-[name="Mizuki"]  Ma i suoi ricordi, il suo canto? Sembrava amare il canto proprio come prima.
+[name="Mizuki"]  Ma i ricordi, il canto? Sembrava che amasse cantare proprio come prima.
 [Character(name="avg_437_mizukisummer_1#8$1")]
 [name="Mizuki"]  Ridotta in quello stato, riesce solo a emettere rumori che la spaventano.
 [Character(name="avg_npc_610_1#1$1")]
@@ -51,7 +51,7 @@
 [Character(name="avg_437_mizukisummer_1#8$1")]
 [name="Mizuki"]  ……
 [Character(name="avg_npc_610_1#1$1")]
-[name="Cicero"]  Ma tu questo processo non l'hai attraversato: anche accettando un corpo da Seaborn, l'idea che hai di te stesso ti ha plasmato così come sei adesso.
+[name="Cicero"]  Ma tu questo processo non l'hai attraversato: anche dopo aver accettato un corpo da Seaborn, è l'idea che hai di te stesso ad averti reso ciò che sei adesso.
 [Character(name="avg_npc_610_1#1$1")]
 [name="Cicero"]  Hai accettato tutto ciò che comporta diventare un Seaborn, e poi hai fatto una scelta umana, proprio come feci io un tempo.
 [Character(name="avg_npc_610_1#1$1")]
@@ -73,7 +73,7 @@
 [Character(name="avg_npc_610_1#1$1")]
 [name="Cicero"]  Vedi? Accettare questo potere nel modo giusto ti ha aperto la mente: pare proprio che tu abbia compreso fino in fondo il mio obiettivo.
 [Character(name="avg_npc_610_1#1$1")]
-[name="Cicero"]  Forse, con il mio impegno, tutti gli umani che assaggiano il frutto degli dèi potranno diventare saggi come te.
+[name="Cicero"]  Forse, grazie ai miei sforzi, tutti gli umani che assaggiano il frutto degli dèi potranno diventare saggi come te.
 [Character(name="avg_437_mizukisummer_1#8$1")]
 [name="Mizuki"]  Una vita del genere si può ancora chiamare umana?
 [Character(name="avg_npc_610_1#1$1")]
@@ -85,11 +85,11 @@
 [Character(name="avg_437_mizukisummer_1#4$1")]
 [name="Mizuki"]  Farò in modo che Highmore viva.
 [Character(name="avg_npc_610_1#1$1")]
-[name="Cicero"]  È una scelta misericordiosa. Fa' pure tutto ciò che desideri.
+[name="Cicero"]  È una scelta compassionevole, la tua. Se è ciò che vuoi, fallo pure.
 [Character(name="avg_npc_610_1#1$1")]
 [name="Cicero"]  Ogni tua azione sarà d'esempio per chi verrà dopo di te.
 [Character(name="avg_npc_610_1#1$1")]
-[name="Cicero"]  Sono molto felice di averti visto, Mizuki. Come ti dissi, finché non ti allontani dalla tua strada, ci rincontreremo.
+[name="Cicero"]  È stato un piacere vederti, Mizuki. Come ti dissi, finché non ti allontanerai dalla tua strada, ci ritroveremo.
 [Character(name="avg_npc_610_1#1$1")]
 [name="Cicero"]  Ci rivedremo.
 [dialog]

@@ -17,6 +17,6 @@
 [Dialog(head="char_183_skgoat", delay=0.5)]Questa spilla… se solo potessi comprarla.
 [Dialog(head="char_426_billro", delay=0.5)](Respiro)
 [Dialog(head="char_183_skgoat", delay=0.5)]…Perché non dite niente?
-[Dialog(head="char_426_billro", delay=1)]Impossibile infilarci una parola.
+[Dialog(head="char_426_billro", delay=1)]Non riuscivamo a infilarci una parola.
 
 

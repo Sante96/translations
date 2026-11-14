@@ -14,7 +14,7 @@
 [Character(name="avg_npc_292_1#7$1")]
 [name="Playwright"]Il protagonista sente ancora il richiamo della compagnia, il protagonista salirà di nuovo sul palco.
 [Character(name="avg_npc_292_1#2$1")]
-[name="Playwright"]E alle spalle del protagonista non manca mai Rhodes Island, il suo “compagno dalla parte del giusto”.
+[name="Playwright"]E alle spalle del protagonista non manca mai Rhodes Island, il suo “paladino della giustizia”.
 [Character(name="avg_npc_292_1#2$1")]
 [name="Playwright"]Il protagonista fugge dalla compagnia, e poi vi ritorna al suo richiamo.
 [Character(name="avg_npc_292_1#2$1")]
@@ -44,7 +44,7 @@
 [Character(name="avg_npc_292_1#7$1")]
 [name="Playwright"]E, come prezzo della sua crescita, il protagonista porterà fino in fondo la sua ribellione contro il creatore.
 [Character(name="avg_npc_292_1#7$1")]
-[name="Playwright"]Aggiungiamo l'intervento di Rhodes Island, ed ecco che tutte le svolte che speravo per il carattere e il destino dei personaggi hanno cambiato strada.
+[name="Playwright"]Aggiungiamo l'intervento di Rhodes Island, ed ecco che tutte le trasformazioni che auspicavo per il carattere e il destino dei personaggi hanno preso tutt'altra direzione.
 [Character(name="avg_npc_292_1#7$1")]
 [name="Playwright"]Così, l'atto finale della storia non è più cosa che io possa scrivere.
 [Character(name="avg_npc_292_1#7$1")]
@@ -74,7 +74,7 @@
 [Character(name="avg_npc_292_1#7$1")]
 [name="Playwright"]Il destino è segnato, e il protagonista non ne sa nulla.
 [Character(name="avg_npc_292_1#9$1")]
-[name="Playwright"]E noi attendiamo nell'ombra, pronti a godere del piacere supremo dell'arrivo del finale.
+[name="Playwright"]E noi attendiamo nell'ombra, pronti a godere il piacere supremo del finale, quando arriverà.
 [Character(name="avg_npc_292_1#10$1")]
 [name="Playwright"]Che ne pensa?
 [Dialog]

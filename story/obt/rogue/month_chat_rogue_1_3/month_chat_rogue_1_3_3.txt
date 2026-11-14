@@ -8,7 +8,7 @@
 [Dialog(head="char_346_aosta", delay=0.5)]“Innovazioni della cucina di Terra, numero duecento”.
 [Dialog(head="char_346_aosta", delay=0)]Già dal titolo non promette niente di buono.
 [Dialog(head="char_349_chiave", delay=0.5)]Guarda questo piatto innovativo di Yan: “Mapo alle fragole”.
-[Dialog(head="char_356_broca", delay=1)]Che testa vuota…
+[Dialog(head="char_356_broca", delay=1)]Che zuccone…
 [Dialog(head="char_346_aosta", delay=0.5)]Mi raccomando, non far vedere questo libro a nessun operatore di Yan.
 [Dialog(head="char_349_chiave", delay=0.5)]Deciso: comincio da questo piatto.
 [Dialog(head="char_349_chiave", delay=1)]Pizza alla frutta in stile Siesta.

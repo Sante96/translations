@@ -21,9 +21,9 @@ E la Moltitudine, seguendo il Suo consiglio, raccoglie le forze e sprofonda nel 
 [charslot(slot="m",name="avg_437_mizuki_1#1",duration=2.5)]
 [delay(time=4.5)]
 Poco tempo dopo, lui viene alla luce.
-Un corpo di carbonio che racchiude un'anima umana — il dono che Lui gli fa — viene adagiato con delicatezza su uno scoglio della costa.
-Si risveglia presto, e torna a toccare il mondo con sensi umani.
-L'aria umida, il calore del sole, la carezza della brezza: tutto gli dà un piacere particolare. Ma un tentacolo amichevole gli dà un colpetto sulla testa.
+Un corpo di carne e carbonio che racchiude un'anima umana — il dono che Lui gli fa — viene adagiato con delicatezza su uno scoglio della costa.
+Si risveglia presto, e torna a percepire il mondo con sensi umani.
+L'aria umida, il calore del sole, la carezza della brezza: si gode ogni cosa. Ma un tentacolo amichevole gli dà un colpetto sulla testa.
 Gli ricorda che, prima di tornare in questo mondo, ha ancora una cosa da fare.
 È ora che Mizuki si separi da “Mizuki”.
 [charslot(slot="m",name="avg_437_mizuki_1#7")]
