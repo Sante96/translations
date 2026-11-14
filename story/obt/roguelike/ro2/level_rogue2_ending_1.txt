@@ -1,0 +1,190 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[PlayMusic(intro="$newhope01_intro", key="$newhope01_loop", volume=0.7)]
+[delay(time=2)]
+[Background(image="32_RL2_cliffday",screenadapt="coverall")]
+[dialog]
+[PlaySound(key="$d_avg_sea", volume=0.6, loop=true, channel="sea")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+[delay(time=2)]
+[PlaySound(key="$d_gen_walk_n")]
+[Character(name="avg_4066_highmo_1#7$1",fadetime=1)]
+[delay(time=3)]
+[characteraction(name="middle", type="move", ypos=-60,  fadetime=1, block=false)]
+[character(fadetime=1)]
+[PlaySound(key="$bodyfalldown2", volume=1)]
+[delay(time=2)]
+[Character(name="avg_437_mizukisummer_1#7$1",fadetime=1)]
+[delay(time=2)]
+[character]
+[Character(name="avg_npc_610_1#2$1",fadetime=1)]
+[delay(time=2)]
+[name="？？？"]  Hai fatto un ottimo lavoro, Mizuki.
+[Character(name="avg_437_mizukisummer_1#5$1")]
+[name="Mizuki"]  Nonno Cicero.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Lei semplicemente non è riuscita a essere perfetta come te.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Desiderava così tanto cambiare… anche se il dono dell'Araldo l'ha fatta smarrire—
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  era pur sempre ciò che sperava.
+[Character(name="avg_437_mizukisummer_1#8$1")]
+[name="Mizuki"]  Ma i suoi ricordi, il suo canto? Sembrava amare il canto proprio come prima.
+[Character(name="avg_437_mizukisummer_1#8$1")]
+[name="Mizuki"]  Ridotta in quello stato, riesce solo a emettere rumori che la spaventano.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Io offro soltanto una scelta. Quanto alla strada che ciascuno finirà per prendere, credo che nessuno possa deciderla.
+[Character(name="avg_437_mizukisummer_1#10$1")]
+[name="Mizuki"]  Anche vedendola ridotta così, rimane del tutto impassibile?
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Individui del genere sono davvero rari.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  La maggior parte degli umani non sa che cosa sta chiedendo, oppure si lascia manovrare da qualche emozione improvvisa.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Quando inghiottono il dono dell'Araldo, la loro coscienza viene soggiogata dall'istinto della Moltitudine: diventano terrori marini, o una qualche specie di Seaborn incompleto, impazienti di tuffarsi nell'oceano.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Se Highmore è riuscita a tornare indietro da quella forma, dev'essere perché in fondo al cuore voleva aggrapparsi a quelle qualità umane a cui teneva tanto.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  In un certo senso, proprio come te, Mizuki.
+[Character(name="avg_437_mizukisummer_1#8$1")]
+[name="Mizuki"]  ……
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Ma tu questo processo non l'hai attraversato: anche accettando un corpo da Seaborn, l'idea che hai di te stesso ti ha plasmato così come sei adesso.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Hai accettato tutto ciò che comporta diventare un Seaborn, e poi hai fatto una scelta umana, proprio come feci io un tempo.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Ma lei ha fallito.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Per paura, o per solitudine? Non saprei dirlo.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Il risultato è che si trova a metà tra il successo e il fallimento. Ha accettato il dono, ma si è rifiutata di separare da sé qualunque altra cosa, ed è diventata una nota stonata della natura.
+[Character(name="avg_437_mizukisummer_1#8$1")]
+[name="Mizuki"]  Se il disegno del futuro tracciato dai suoi esperimenti respinge gli individui non abbastanza forti, allora per l'umanità non si può parlare di un apprendimento e di un'evoluzione riusciti.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Vero, verissimo, mio caro ragazzo. Visto che questa è la tua risposta, correggerò le mie ricerche.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Ricordi la domanda che ti feci?
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  “Come si diventa un essere umano migliore?”
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  La tua risposta mi soddisfa molto.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Vedi? Accettare questo potere nel modo giusto ti ha aperto la mente: pare proprio che tu abbia compreso fino in fondo il mio obiettivo.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Forse, con il mio impegno, tutti gli umani che assaggiano il frutto degli dèi potranno diventare saggi come te.
+[Character(name="avg_437_mizukisummer_1#8$1")]
+[name="Mizuki"]  Una vita del genere si può ancora chiamare umana?
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Il vero essere umano sa usare uno spirito forte, che trascende la materia, per vincere gli effetti collaterali di qualunque strumento.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  E per ora, quelli che non ci riescono forse non possono far altro che lamentare che la loro mente e il loro corpo, troppo fragili, non reggono il peso della parola “umano”.
+[Character(name="avg_437_mizukisummer_1#8$1")]
+[name="Mizuki"]  ……
+[Character(name="avg_437_mizukisummer_1#4$1")]
+[name="Mizuki"]  Farò in modo che Highmore viva.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  È una scelta misericordiosa. Fa' pure tutto ciò che desideri.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Ogni tua azione sarà d'esempio per chi verrà dopo di te.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Sono molto felice di averti visto, Mizuki. Come ti dissi, finché non ti allontani dalla tua strada, ci rincontreremo.
+[Character(name="avg_npc_610_1#1$1")]
+[name="Cicero"]  Ci rivedremo.
+[dialog]
+[PlaySound(key="$d_gen_walk_n")]
+[character(fadetime=2)]
+[delay(time=3)]
+[Character(name="avg_437_mizukisummer_1#8$1")]
+[name="Mizuki"]  Hmph… il nonno è testardo come sempre.
+[dialog]
+[character]
+[Character(name="avg_4066_highmo_1#7$1",fadetime=1)]
+[delay(time=1)]
+[name="Highmore"]  Uuh… snif, snif…
+[Character(name2="avg_4066_highmo_1#7$1",name="avg_437_mizukisummer_1#5$1",focus=1)]
+[name="Mizuki"]  Ti sei svegliata?
+[Character(name2="avg_4066_highmo_1#7$1",name="avg_437_mizukisummer_1#1$1",focus=1)]
+[name="Mizuki"]  Trasformarsi così consuma parecchie energie. Vuoi mangiare qualcosa? Te lo preparo io.
+[Character(name2="avg_4066_highmo_1#7$1",name="avg_437_mizukisummer_1#1$1",focus=2)]
+[name="Highmore"]  Sì…
+[Character(name2="avg_4066_highmo_1#5$1",name="avg_437_mizukisummer_1#1$1",focus=2)]
+[name="Highmore"]  Ehi, aspetta, quello cos'è?!
+[dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background]
+[Dialog]
+[Image(image="pic_rogue_2_48", x=-100,y=60, xScale=1.2, yScale=1.2)]
+[ImageTween(image="pic_rogue_2_48", xTo=0,yTo=0, xScaleTo=0.85, yScaleTo=0.85, duration=80)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[delay(time=1)]
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Ah, questi? Sono i tuoi arti.
+[Character(name="avg_4066_highmo_1#1$1")]
+[name="Highmore"]  ？！
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Non sei riuscita a diventare del tutto un Seaborn, quindi gran parte del tessuto che ti era cresciuto addosso si è staccato.
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  E le parti rimaste attaccate al corpo te le ho tolte io. D'ora in poi potrai vivere come una persona normale: nessuno avrà niente da ridire sul tuo aspetto.
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Dai, finché sono freschi mangiane almeno un po', così ti rimetti in forze.
+[Character(name="avg_4066_highmo_1#1$1")]
+[name="Highmore"]  Ehm, ah, uh, questo… no.
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Op-là.
+[dialog]
+[PlaySound(key="$fireburst",channel="fire")]
+[delay(time=1)]
+[stopsound(fadetime=2,channel="fire")]
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Tranquilla, questi si cuociono in un attimo.
+[Character(name="avg_4066_highmo_1#1$1")]
+[name="Highmore"]  N-n-non intendevo questo.
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Mmh… questo spiedino forse è un po' bruciacchiato. Allora lo mangio prima io.
+[Character(name="avg_4066_highmo_1#1$1")]
+[name="Highmore"]  ……
+[Character(name="avg_4066_highmo_1#1$1")]
+[name="Highmore"]  Mizuki…
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Mh?
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Ti va uno spiedino?
+[Character(name="avg_4066_highmo_1#1$1")]
+[name="Highmore"]  NO!!!!!!!
+[Character(name="avg_4066_highmo_1#1$1")]
+[name="Highmore"]  No, non è questo il punto…
+[Character(name="avg_4066_highmo_1#1$1")]
+[name="Highmore"]  ……
+[Character(name="avg_4066_highmo_1#1$1")]
+[name="Highmore"]  Nonno Cicero se n'è andato, e io ho dimostrato con le mie mani quanto sono cieca e incapace…
+[Character(name="avg_4066_highmo_1#1$1")]
+[name="Highmore"]  Non mi è rimasto più niente…
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Forse.
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Io, finché posso mangiare e bere e ho un videogioco tra le mani, riesco a vivere sereno.
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Le passioni che ti hanno fatto rifiutare di diventare un Seaborn, di sicuro potranno anche aiutarti ad andare avanti.
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Davvero non ne vuoi un morso?
+[Character(name="avg_4066_highmo_1#1$1")]
+[name="Highmore"]  No, grazie…
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Uff, e va bene.
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Non mi sono portato provviste, ma conosco un bel posto: c'è tanta brava gente, e preparano ogni sorta di cose buone.
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Forse lì potresti anche ritrovare un po' la sensazione di essere umana.
+[Character(name="avg_437_mizukisummer_1#1$1")]
+[name="Mizuki"]  Allora, vieni con me?
+[Character(name="avg_4066_highmo_1#1$1")]
+[name="Highmore"]  ……
+[Character(name="avg_4066_highmo_1#1$1")]
+[name="Highmore"]  Va bene.
+[stopSound(channel="sea",fadetime=3)]
+[Dialog]
+[Character]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[Image]

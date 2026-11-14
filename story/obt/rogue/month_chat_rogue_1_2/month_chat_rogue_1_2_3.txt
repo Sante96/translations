@@ -1,0 +1,20 @@
+[Title] MAIN_LOG_101_1
+//Vecchiaia e rinascita
+[Div] Part.03
+[Dialog(head="char_485_pallas", delay=0.5)]La vita eterna…
+[Dialog(head="char_003_kalts", delay=1)]“Prova di longevità”. Così lo chiamavano a Gaul.
+[Dialog(head="char_503_rang", delay=1)]Vivere un po' più a lungo non è un male, ma vivere per sempre è tutt'altra faccenda.
+[Dialog(head="char_503_rang", delay=0.5)]Già adesso mi sembra di essermi allontanato abbastanza da quel bosco. Una strada ancora più lunga non riuscirei a percorrerla, e nemmeno ne avrei voglia.
+[Dialog(head="char_003_kalts", delay=0.5)]Hmph…
+[Dialog(head="char_485_pallas", delay=1)]E dunque, che ne è stato del collezionista di Gaul che possedeva quel ramo prodigioso?
+[Dialog(head="char_003_kalts", delay=0.5)]Per quanto ne so, non ha mai portato fortuna a nessuno di quelli che l'hanno posseduto.
+[Dialog(head="char_003_kalts", delay=0.5)]L'ultimo fu trafitto dall'arma di un nemico mentre indossava un ridicolo costume di scena; il primo cantò a squarciagola in preda alla follia, poi precipitò da una rupe.
+[Dialog(head="char_003_kalts", delay=1)]E la più famosa di tutte le voci…
+[Dialog(head="char_003_kalts", delay=0.5)]Racconta che quello sventurato divorò la carne di metà del proprio corpo. E che alla fine morì dissanguato.
+[Dialog(head="char_485_pallas", delay=1)]Questo è davvero… davvero…
+[Dialog(head="char_503_rang", delay=0.5)]Nelle voci il vero si mescola al falso. Come siano andate davvero le cose, temo che ormai nessuno lo sappia.
+[Dialog(head="char_503_rang", delay=0.5)]C'è sempre qualcuno convinto di poter sfuggire alla morte e riaprire gli occhi ancora una volta.
+[Dialog(head="char_485_pallas", delay=1)]La vita eterna… Ah, che miracolo degno di compianto.
+[Dialog(head="char_485_pallas", delay=0.5)]La nostra vita ha un termine, ma il nome che nel cuore della gente rappresenta la fede è già immortale.
+[Dialog(head="char_485_pallas", delay=0.5)]La vita ardente e pura di un eroe è una scintilla che non si spegne: il fuoco brucerà a lungo, a lungo, ma chi lo accende come potrebbe continuare ad ardere per sempre?
+[Dialog(head="char_003_kalts", delay=2)]In effetti, nessuno può.

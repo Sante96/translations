@@ -1,0 +1,66 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[PlayMusic(intro="$drift_intro", key="$drift_loop", volume=0.7)]
+[delay(time=2)]
+[PlaySound(key="$d_avg_sea", volume=0.6, loop=true, channel="sea")]
+[Background(image="32_RL2_cliffnight",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[dialog]
+[delay(time=1)]
+È il primo conflitto tra “Primogeniti” dalla nascita del nuovo mondo.
+Mizuki è diventato la coscienza che mancava al “Ramo dilagante”, e grazie a quel potere ha sfidato il “Cuore della corruzione”.
+La Moltitudine attende in silenzio l'esito della contesa.
+[dialog]
+[delay(time=1)]
+Ishar'mla è stata sconfitta.
+Perderà il rango di “Primogenito” e diventerà un membro senza nome della Moltitudine.
+Mizuki ha davvero vinto, ma non prova la minima gioia.
+Proprio davanti ai Suoi occhi, un altro “Primogenito” è sull'orlo della follia.
+L'inganno dei vescovi degli Abissi è ormai palese: hanno fatto ripiombare nella follia la “Linfa primordiale”, la vera responsabile della Grande Quiete, e hanno indotto il risveglio del “Cuore della corruzione” nel corpo di Skadi.
+Se i due “Primogeniti” si fondessero, scatenerebbero una Grande Quiete capace di distruggere il mondo. E così la caduta di Ægir e l'era dei Seaborn, attese da tanto dai vescovi degli Abissi, sarebbero ormai a portata di mano.
+Questo “Primogenito” non è come Ishar'mla: è il simbolo della sopravvivenza dei Seaborn, un concentrato di microrganismi.
+È tutt'uno con l'oceano: a meno che il mare non si prosciughi, non c'è alcun modo di sconfiggerLo.
+A meno che…
+[dialog]
+[delay(time=1)]
+L'oceano si tinge di rosso vivo: la Quiete è imminente.
+Anche placando la follia della Linfa e diventando la guida della Moltitudine,
+non si potrebbe fermare l'istinto di evoluzione e di sopravvivenza inciso nei loro geni.
+Certo, Mizuki può tenere la Moltitudine lontana dalla terraferma,
+ma con il risveglio dell'istinto dei Seaborn e della coscienza della Moltitudine,
+i vincoli da Lui imposti finiranno per cedere.
+Dieci anni, forse? O una generazione?
+Nemmeno Lui può garantirlo.
+L'unica cosa che può fare è tener fede alla promessa fatta al Dottore, finché il Suo io e la Sua umanità non avranno ceduto del tutto.
+…Almeno, il Dottore e i suoi compagni dovranno restare al riparo dai Seaborn per il tempo che resta loro.
+La marea sta per salire, e Mizuki non ha altra scelta.
+[dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background]
+[Dialog]
+[Image(image="pic_rogue_2_50", x=-60,y=0, xScale=0.9, yScale=0.9)]
+[ImageTween(image="pic_rogue_2_50", xTo=0,yTo=0, xScaleTo=0.85, yScaleTo=0.85, duration=40)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[delay(time=1)]
+Entra nel mare.
+Mentre il corpo si trasforma, Mizuki sta assumendo la stessa forma della Linfa: così potrà placare la follia di questa Sua simile.
+Dal rosso vivo si diffonde il ceruleo.
+E il corpo umano di Mizuki svanisce a poco a poco.
+All'ultimo istante si volta a guardare verso terra, e nelle Sue pupille si riflette la figura di una persona.
+Un attimo dopo, la marea si abbatte.
+E di Mizuki non resta più traccia.
+……
+Il ceruleo ricopre tutto il rosso, e la follia del “Primogenito” si placa.
+I Seaborn e i terrori marini nuotano verso le profondità dell'oceano, lasciando la terra ai suoi abitanti originari.
+L'umanità esulta e festeggia questo cambiamento storico.
+Ma ciò che non sanno è che—
+ogni cosa ha il suo prezzo.
+Un'azienda farmaceutica ha perso per sempre uno dei suoi membri più fidati.
+[stopSound(channel="sea",fadetime=3)]
+[stopmusic(fadetime=3)]
+[Dialog]
+[Character]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[Image]

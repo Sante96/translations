@@ -1,0 +1,26 @@
+[Title] MAIN_LOG_103_1
+[Div] Part.02
+[Dialog(head="char_260_durnar", delay=1)]Questi sono gli ultimi spuntini della mia scorta segreta…
+[Dialog(head="char_260_durnar", delay=0.5)]Basta mangiare cose strane, Ceobe…
+[Dialog(head="char_2013_cerber", delay=0.5)]Grazie, sorellona Dur-nar! Ceobe è sazia!
+[Dialog(head="char_379_sesa", delay=0.5)]Allora forse anch'io…
+[Dialog(head="char_260_durnar", delay=0.5)]Non approfittarne!
+[Dialog(head="char_260_durnar", delay=1)]Sigh… Tornando a questo martello.
+[Dialog(head="char_260_durnar", delay=0.5)]Guardate il nastro legato al manico.
+[Dialog(head="char_260_durnar", delay=0.5)]Non vi sembra che assomigli più a una bandiera?
+[Dialog(head="char_379_sesa", delay=0.5)]Una bandiera senza nome… che cosa vorrà mai annunciare?
+[Dialog(head="char_2013_cerber", delay=1)]Ceobe lo sente parlare!
+[Dialog(head="char_2013_cerber", delay=0.5)]Come le altre armi di Ceobe!
+[Dialog(head="char_2013_cerber", delay=0.5)]Allora me lo porto via, oplà.
+[Dialog(head="char_2013_cerber", delay=0.5)]Uhm, è un po' pesante. Se lo uso per picchiare i cattivi, gli farà un male cane!
+[Dialog(head="char_260_durnar", delay=1)]La ruggine sul martello… si è trasformata in sabbia ed è venuta via?!
+[Dialog(head="char_260_durnar", delay=0.5)]Sono queste le Arti dell'Originium di Ceobe?
+[Dialog(head="char_379_sesa", delay=0.5)]È questa la risonanza con l'anima delle armi che ho sempre inseguito!
+[Dialog(head="char_260_durnar", delay=0.5)]Sono Arti dell'Originium!
+[Dialog(head="char_2013_cerber", delay=0.5)]Questo martello parla in modo strano, Ceobe non lo capisce.
+[Dialog(head="char_379_sesa", delay=0.5)]E cosa “dice”?
+[Dialog(head="char_2013_cerber", delay=0.5)]Distruggere tutte le città mobili!
+[Dialog(head="char_260_durnar", delay=1)]Non sarà davvero legato a quell'organizzazione…
+[Dialog(head="char_260_durnar", delay=0.5)]Lasciamo stare. Ceobe, per ora tienilo tu. Si riparte.
+
+

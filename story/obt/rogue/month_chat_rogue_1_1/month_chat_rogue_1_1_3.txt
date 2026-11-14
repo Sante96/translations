@@ -1,0 +1,23 @@
+[Title] MAIN_LOG_100_1
+[Div] Part.03
+[Dialog(head="char_311_mudrok", delay=0)]Quindi conservi ancora il tuo sigillo, Vampira?
+[Dialog(head="char_171_bldsk", delay=0.5)]Sì, lo porto sempre con me.
+[Dialog(head="char_290_vigna", delay=0.5)]Allora non sei poi tanto diversa da quei cosiddetti vecchiacci.
+[Dialog(head="char_171_bldsk", delay=0.5)]Che ne sai tu, piccola Sarkaz? Adesso lo uso per timbrare i documenti.
+[Dialog(head="char_290_vigna", delay=0.5)]Quindi su ogni documento c'è—
+[Dialog(head="char_311_mudrok", delay=0.5)]—l'odore preferito di un Vampiro?
+[Dialog(head="char_171_bldsk", delay=0.5)]Sanno solo d'inchiostro per timbri!
+[Dialog(head="char_290_vigna", delay=1)]Non ci credo. Fammelo annusare.
+[Dialog(head="char_171_bldsk", delay=0.5)]Tieni, annusa pure quanto vuoi.
+[Dialog(head="char_290_vigna", delay=1)]Però, ha un buon odore.
+[Dialog(head="char_290_vigna", delay=0)](Rumore di timbro)
+[Dialog(head="char_171_bldsk", delay=0.5)]Vigna, ma che… che stai facendo? Il sigillo non si usa così!
+[Dialog(head="char_290_vigna", delay=0.5)]Tieni, Mudrock.
+[Dialog(head="char_311_mudrok", delay=1)](Rumore di timbro)
+[Dialog(head="char_311_mudrok", delay=0.5)]Grazie, Vampira.
+[Dialog(head="char_171_bldsk", delay=0.5)]Ah…
+[Dialog(head="char_171_bldsk", delay=0.5)]Voi due… ma chi è che si marchia da solo?
+[Dialog(head="char_290_vigna", delay=1)]Non siamo amiche?
+[Dialog(head="char_311_mudrok", delay=0.5)]Sì. Amiche.
+[Dialog(head="char_171_bldsk", delay=0.5)]……
+[Dialog(head="char_171_bldsk", delay=0)]Bah, fate come vi pare.

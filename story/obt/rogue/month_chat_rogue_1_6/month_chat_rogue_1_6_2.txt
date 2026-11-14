@@ -1,0 +1,20 @@
+[Title] MAIN_LOG_105_1
+[Div] Part.02
+[Dialog(head="char_115_headbr", delay=1)]Te l'ho già detto, smettila di fissarmi. Vuoi che ti protegga come proteggo gli altri del Gruppo Autonomo, no? Te l'ho già promesso.
+[Dialog(head="char_405_absin", delay=1)]No, non è che io voglia la tua protezione. Anche se tu sei il “Generale Inverno” che protegge i deboli, io non sono mica debole…
+[Dialog(head="char_405_absin", delay=1)]…Ah, ho capito, “Generale Inverno”. Hai appena incontrato un vero generale di Ursus e ti sei sentita in imbarazzo?
+[Dialog(head="char_115_headbr", delay=1)]…No.
+[Dialog(head="char_115_headbr", delay=0.5)]Non fraintendere, è solo che non volevo sembrare una che non conosce i propri limiti. E questo soprannome non me lo sono data da sola.
+[Dialog(head="char_115_headbr", delay=1)]Comunque, un giorno anch'io mi guadagnerò meriti di guerra, promozioni e decorazioni, anche se non sarà a Ursus…
+[Dialog(head="char_405_absin", delay=1)]A proposito, mi pare che il generale Hellagur abbia detto di portare ancora con sé qualche medaglia militare di Ursus.
+[Dialog(head="char_115_headbr", delay=1)]Le tiene ancora con sé? Quale battaglia può essere stata così importante per lui?
+[Dialog(head="char_405_absin", delay=0.5)]Non parla mai del suo passato, quindi non so nemmeno in quale guerra le abbia ottenute.
+[Dialog(head="char_405_absin", delay=1)]Però, a sentir lui, mentre portava via i bambini da Chernobog si è limitato a raccogliere tutto quello che si poteva vendere per fare un po' di soldi.
+[Dialog(head="char_405_absin", delay=1)]Nel caso la collaborazione con Rhodes Island non fosse andata bene, doveva pur trovare un'altra strada.
+[Dialog(head="char_115_headbr", delay=0.5)]Eh? Voleva vendere le medaglie?
+[Dialog(head="char_405_absin", delay=0.5)]Sì. Dice che i bambini della clinica avevano bisogno di medicine e di stufe per l'inverno, non del suo passato.
+[Dialog(head="char_115_headbr", delay=1)]…Quando ero lì, non ho mai sentito parlare di una clinica che curasse gli infetti.
+[Dialog(head="char_188_helage", delay=1)]Questo è un bene. Vuol dire che tu e i bambini della clinica vivevate in un posto sicuro.
+[Dialog(head="char_115_headbr", delay=0.5)]Ah, nonno— cioè, generale Hellagur.
+[Dialog(head="char_115_headbr", delay=0.5)]Lì “un tempo” era sicuro… ma ora non c'è rimasto più niente. Lasciamo perdere.
+

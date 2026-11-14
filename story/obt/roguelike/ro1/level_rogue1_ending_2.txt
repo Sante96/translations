@@ -1,0 +1,46 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+E così, la storia giunge al termine.
+Le luci si spengono, gli attori lasciano la scena, il sipario rosso si chiude lentamente.
+Finita la musica, il pubblico se ne va, e tutto torna di nuovo nel silenzio.
+[dialog]
+[Background(image="24_RL_castlehall",screenadapt="coverall")]
+[Delay(time=1)]
+[PlayMusic(intro="$mist_intro", key="$mist_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[delay(time=2)]
+L'enorme bambola giace sul palcoscenico, ormai muta.
+[Character(name="avg_npc_130",fadetime=1.5,block=true)]
+Miss.Christine avrebbe tanta voglia di farsi le unghie su quella stoffa morbida ed elastica, o di acciambellarsi per un pisolino nell'imbottitura che esce dalla bambola squarciata.
+Ma per lei, adesso, la priorità è accertarsi delle condizioni di Phantom.
+Dal momento in cui Phantom ha perso il senno, Miss.Christine non ha mai smesso di lasciare indizi agli operatori di Rhodes Island.
+Anche se non è affatto sicura che quegli zucconi sappiano capire il significato di impronte, graffi e segni di denti…
+Visti i risultati, però, Miss.Christine è piuttosto soddisfatta.
+L'elegante signora borbotta qualcosa sottovoce.
+Quel Phidia sta ancora controllando la bambola. La signora sa che teme che il burattinaio possa comparire all'improvviso e trascinare di nuovo Phantom nell'ombra della compagnia.
+Naturalmente non accadrà: la signora l'ha capito da un pezzo.
+Terminata l'ispezione senza risultati, il Phidia va a sorreggere Phantom. All'inizio, nella sua voce c'è un'ombra appena percettibile di diffidenza.
+Anche lui un tempo faceva parte della compagnia, e ancora oggi ne teme ogni cosa.
+Quando si accerta che Phantom è tornato davvero, si toglie un peso dal cuore e ritrova la sua solita aria dolce e malinconica.
+Scende dal palco e si dirige verso l'uscita del castello.
+Phantom si ferma in cima alla scalinata, assorto, cercando di riordinare i pensieri aggrovigliati come una matassa.
+E la signora, ai suoi piedi, si lecca le zampe.
+D'istinto, la signora si guarda distrattamente intorno; poi, sentendo un prurito sulla schiena, gira la testa con naturalezza per grattarsi.
+Ma nell'istante in cui volta la testa, la signora si blocca.
+Laggiù, ha visto…
+[Dialog]
+[Character]
+[Image(image="24_RL02", fadetime=2, xScale=1.1, yScale=1.1)]
+[ImageTween(image="24_RL02", fadetime=1,xScaleTo=0.9, yScaleTo=0.9, duration=40)]
+[delay(time=2)]
+Un ospite inatteso.
+[Dialog]
+[delay(time=3)]
+[Dialog]
+[Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=5, block=true)]
+[stopmusic(fadetime=5)]
+[Character]
+[Image]

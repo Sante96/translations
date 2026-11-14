@@ -1,0 +1,22 @@
+[Title] MAIN_LOG_107_1
+[Div] Part.02
+[Dialog(head="char_426_billro", delay=0.5)]Nearl, gioielli come questo, che indicano il rango, dovresti averne anche a casa tua, no?
+[Dialog(head="char_148_nearl", delay=0.5)]…Lignaggio e prestigio non sono che lo splendore passeggero delle classi dominanti, e la gloria che la gente conferisce loro si cancella con estrema facilità. Proprio come questa spilla.
+[Dialog(head="char_148_nearl", delay=1.5)]L'oro è solo un ornamento per ostentare il rango; in battaglia, ciò su cui conta davvero sono questi circuiti di Originium. Se la pressione applicata supera ciò che il circuito riesce a sostenere…
+[Dialog(head="char_148_nearl", delay=1.5)]…allora basta questo…
+[Dialog(head="char_148_nearl", delay=0.5)](Rumore d'attacco)
+[Dialog(head="char_148_nearl", delay=0.5)]…e non regge.
+[Dialog(head="char_148_nearl", delay=0.5)]Facciamo una pausa: il circuito di Originium ha bisogno di tempo per ricaricarsi.
+[Dialog(head="char_426_billro", delay=0.5)]Accidenti, che colpo spietato. Per poco non riuscivo a pararlo.
+[Dialog(head="char_183_skgoat", delay=0.5)]Pausa? Allora adesso posso dare un'occhiata alla spilla? Mmh…
+[Dialog(head="char_183_skgoat", delay=0.5)]I cristalli sono davvero preziosi, hanno un grande valore per la ricerca.
+[Dialog(head="char_183_skgoat", delay=0.5)]Cristalli di Originium solidificati con questa purezza sono rari: senza fondi considerevoli e un forte supporto tecnologico è difficilissimo estrarli.
+[Dialog(head="char_148_nearl", delay=0.5)](Respiro)
+[Dialog(head="char_183_skgoat", delay=0.5)]Qui la luce non basta, peccato. Non si vede bene.
+[Dialog(head="char_183_skgoat", delay=0.5)]Dovrei portarla al mio banco di lavoro e trovare il tempo di studiarla per bene…
+[Dialog(head="char_183_skgoat", delay=0.5)]Questa spilla… se solo potessi comprarla.
+[Dialog(head="char_426_billro", delay=0.5)](Respiro)
+[Dialog(head="char_183_skgoat", delay=0.5)]…Perché non dite niente?
+[Dialog(head="char_426_billro", delay=1)]Impossibile infilarci una parola.
+
+

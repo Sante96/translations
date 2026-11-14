@@ -1,0 +1,78 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[playMusic(key="$calm_loop", volume=0.6)]
+[delay(time=2)]
+[Background(image="bg_black",screenadapt="coverall")]
+[dialog]
+[PlaySound(key="$d_avg_sea", volume=0.6, loop=true, channel="sea")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+[delay(time=2)]
+La riflessione giunge finalmente al termine.
+L'io umano ha espresso all'io non umano tutte le sue emozioni, i suoi desideri e i suoi pensieri.
+E Lui ha accettato.
+Fluttua sull'acqua e scolpisce con delicatezza il nuovo corpo di Mizuki.
+E la Moltitudine, seguendo il Suo consiglio, raccoglie le forze e sprofonda nel silenzio…
+[Dialog]
+[Background(image="32_RL2_cliffday",screenadapt="coverall",fadetime=2.5)]
+[delay(time=3)]
+[PlaySound(key="$d_avg_walk_water", volume=1)]
+[charslot(slot="m",name="avg_437_mizuki_1#1",duration=2.5)]
+[delay(time=4.5)]
+Poco tempo dopo, lui viene alla luce.
+Un corpo di carbonio che racchiude un'anima umana — il dono che Lui gli fa — viene adagiato con delicatezza su uno scoglio della costa.
+Si risveglia presto, e torna a toccare il mondo con sensi umani.
+L'aria umida, il calore del sole, la carezza della brezza: tutto gli dà un piacere particolare. Ma un tentacolo amichevole gli dà un colpetto sulla testa.
+Gli ricorda che, prima di tornare in questo mondo, ha ancora una cosa da fare.
+È ora che Mizuki si separi da “Mizuki”.
+[charslot(slot="m",name="avg_437_mizuki_1#7")]
+[name="Mizuki"]Con te accanto, questo periodo non è stato poi così noioso, eh.
+[name="Mizuki"]Grazie.
+[charslot(slot="m",name="avg_437_mizuki_1#2")]
+[name="Mizuki"]……
+[charslot(slot="m",name="avg_437_mizuki_1#3")]
+[name="Mizuki"]Allora, arrivederci.
+[Dialog]
+Mizuki si congeda in lingua umana.
+E Lui risponde alla maniera dei Seaborn.
+E poi—
+L'universo rimbomba.
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=1, g=1, b=1, fadetime=2.5, block=true)]
+[charslot]
+[delay(time=2)]
+[Image(image="pic_rogue_2_55", x=0,y=0, xScale=1.5, yScale=1.5)]
+[ImageTween(image="pic_rogue_2_55", xTo=0,yTo=0, xScaleTo=1, yScaleTo=1, duration=50)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+Sulla terra si aprono innumerevoli voragini, e l'oceano si solleva in onde spaventose.
+In ogni angolo di Terra i Seaborn si alzano e si dirigono verso il cielo.
+I piccoli si posano sul dorso dei loro simili.
+I figli nuotano al seguito dei genitori.
+I corpi dei “Primogeniti”, grandi come montagne, nuotano lenti ma risoluti verso l'altra sponda del cielo.
+[Dialog]
+[PlaySound(key="$d_avg_run_water", volume=1)]
+[delay(time=0.3)]
+[PlaySound(key="$d_avg_jump_water", volume=1)]
+[Image(image="pic_rogue_2_55", x=0,y=0, xScale=0.85, yScale=0.85,fadetime=2.5)]
+[delay(time=3)]
+In breve gli immensi “Primogeniti” scompaiono nella volta celeste, eppure, tra terra e mare, innumerevoli Seaborn si uniscono ancora a questa sterminata processione, percorrendo la strada già tracciata dai “Primogeniti”.
+L'intera specie diventa un legame che si allunga piano verso il cielo.
+Quando la loro migrazione sarà compiuta,
+il mare di stelle accoglierà nuovi pionieri, e Terra diventerà un paradiso.
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=1, g=1, b=1, fadetime=2.5, block=true)]
+O Madre, abbiamo trovato la risposta.
+La Moltitudine è nata dal mare, e al mare dovrà tornare.
+A quell'infinito, sfavillante fiume di stelle.
+Ecco la nostra nuova dimora.
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
+[stopSound(channel="sea",fadetime=3)]
+[Dialog]
+[charslot]
+[stopmusic(fadetime=2)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[Image]

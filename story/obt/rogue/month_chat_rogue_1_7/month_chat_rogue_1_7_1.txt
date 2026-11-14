@@ -1,0 +1,19 @@
+[Title] MAIN_LOG_106_1
+[Div] Part.01
+[Dialog(head="char_4025_aprot2", delay=1)]Che cosa desiderano bere le signorine? Vado a prenderlo io.
+[Dialog(head="char_338_iris", delay=0.5)]Un tè nero andrà benissimo, grazie.
+[Dialog(head="char_208_melan", delay=0.5)]Io vorrei una limonata, signor Shalem.
+[Dialog(head="char_4025_aprot2", delay=0.5)]Tè nero… limonata… bene. E se vi portassi anche un'alzatina di pasticcini?
+[Dialog(head="char_338_iris", delay=0.5)]Sarebbe magnifico.
+[Dialog(head="char_208_melan", delay=0.3)]Grazie.
+[Dialog(head="char_4025_aprot2", delay=0.5)]Allora, attendete un istante, signorine.
+[Dialog(head="char_208_melan", delay=2)]Eravamo venuti a prendere il tè insieme, come mai all'improvviso il signor Shalem si è messo a servirci…
+[Dialog(head="char_338_iris", delay=0.5)]Non è bello che qualcuno si offra di servirti?
+[Dialog(head="char_208_melan", delay=0.5)]Sarà anche vero, però…
+[Dialog(head="char_338_iris", delay=0.5)]Ah, a proposito, questa cosa ti dice niente?
+[Dialog(head="char_208_melan", delay=1)]Questa è… la matrice rossa di un biglietto?
+[Dialog(head="char_338_iris", delay=0.5)]Sì. L'ho trovata quando sono tornata al Castello dei Sogni a cercare del materiale: era infilata in un libro come segnalibro.
+[Dialog(head="char_338_iris", delay=0.5)]La nonna non era in casa, e anche Bena, quando sono tornata a chiederle, non ne sapeva niente. Così non mi restava che chiedere a qualcuno di Victoria durante un tè.
+[Dialog(head="char_338_iris", delay=0.5)]Mmh… quanto vorrei sapere che spettacolo era!
+[Dialog(head="char_208_melan", delay=0.5)]La curiosità uccise il Feline, sai? Meglio stare attenti…
+

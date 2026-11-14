@@ -1,0 +1,38 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")] 
+[stopmusic]
+[Dialog]
+[Delay(time=1)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_light",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[playMusic(intro="$drift_intro", key="$drift_loop", volume=0.4)]
+In fondo al tempio, una strada lastricata di biscotti al miele precipita verso lo spazio profondo; il profumo dolce attira Ceobe in avanti. Alza la testa, e all'improvviso tutto si spalanca davanti a lei.
+Nell'istante in cui muove il passo verso lo spazio profondo, il paesaggio muta, e dal nulla giunge un sussurro antichissimo: sei tornata, sei tornata!
+La terra gelata e la ghiaia si ritraggono al suo passaggio; le tante montagne e i fiumi che ha visto si ricompongono alla rinfusa alle sue spalle, come i pezzi di un puzzle.
+Davanti a lei si erge un trono; senza sapere perché, ha sempre saputo che quel trono è suo.
+Si siede sul trono: è un po' duro, non molto comodo. Una corona fatta di funghi le fluttua davanti agli occhi; la prende e se la mette in testa, e un istante dopo la scena davanti a lei cambia di colpo—
+[Dialog]
+[Character]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
+[Character]
+[Image(image="ac12_10",xTo=10, yTo=0,xScale=1.03, yScale=1.03, fadetime=0)]
+[Blocker(a=0, fadetime=2, block=false)]
+[ImageTween(xFrom=10, yFrom=0, xTo=-10, yTo=0, xScale=1.03, yScale=1.03, duration=30, block=false)]
+Una landa sconfinata, sabbia gialla che riempie il cielo, nemmeno un filo d'erba: proprio il paesaggio che conosceva meglio prima di arrivare a Rhodes Island.
+Abbassa lo sguardo e scopre di essere accoccolata tra le zampe di una bestia.
+Una bestia, una bestia enorme: se non lo volesse, nessuno potrebbe scorgerne l'aspetto. Ma Ceobe l'ha visto, l'ha visto nel caos dei suoi pensieri.
+Incuriosita, le accarezza il pelo: ha una consistenza selvaggia.
+La bestia la guarda con tenerezza, come se rispondesse a un suo cucciolo. All'improvviso Ceobe sente l'odore di un legame di sangue, e di colpo capisce: è tornata a casa.
+
+
+[Dialog]
+[Character]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Image]
+[Blocker(a=0, r=0,g=0, b=0, fadetime=1, block=true)]
+La bestia se la carica sul dorso e si lancia al galoppo verso l'orizzonte. Il paesaggio frammentato resta del tutto indietro, nel campo visivo della ragione; la terra menzognera viene abbandonata sulle pianure che si possono conoscere.
+A poco a poco diventa parte della landa: si fonde con il sangue della terra, si fa suolo, diventa strada…
+Ormai vivrà per sempre in questa terra.
+[Blocker(fadetime=3,block=true)]
+[Dialog]

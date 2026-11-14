@@ -1,0 +1,31 @@
+[Title] MAIN_LOG_104_1
+[Div] Part.02
+[Dialog(head="char_187_ccheal", delay=1)]Uff… uff…
+[Dialog(head="char_187_ccheal", delay=0.5)]Avete mai sentito quella fiaba?
+[Dialog(head="char_187_ccheal", delay=0.5)]“Il re partì dalla terra desolata”…
+[Dialog(head="char_411_tomimi", delay=0.5)]Sì!
+[Dialog(head="char_127_estell", delay=0.5)]Sì, la conosco anch'io…
+[Dialog(head="char_187_ccheal", delay=0.5)]C'era un tempo in cui la nostra tribù era ricchissima.
+[Dialog(head="char_127_estell", delay=0.5)]Il verso dopo è questo, vero?
+[Dialog(head="char_127_estell", delay=0.5)]“La via della ricchezza unisce le alte montagne e le fitte foreste.”
+[Dialog(head="char_411_tomimi", delay=0.5)]I nostri antenati erano proprio ricchi!
+[Dialog(head="char_411_tomimi", delay=0.5)]Andiamo a caccia di tesori! Magari c'è un tesoro sepolto sottoterra!
+[Dialog(head="char_127_estell", delay=0.5)]Si può davvero? Se avessi dei soldi, io…
+[Dialog(head="char_187_ccheal", delay=0.5)]Vuoi parlare di nuovo delle tue corna?
+[Dialog(head="char_187_ccheal", delay=0.5)]Sul serio, le tue corna…
+[Dialog(head="char_127_estell", delay=0.5)]Uh…! No!
+[Dialog(head="char_187_ccheal", delay=0.5)]Le tue corna sono fighissime!
+[Dialog(head="char_127_estell", delay=0.5)]Scusami!
+[Dialog(head="char_127_estell", delay=1)]Eh?
+[Dialog(head="char_127_estell", delay=1)]Cosa… cosa avete detto?
+[Dialog(head="char_187_ccheal", delay=0.5)]Le tue corna sono fighissime!
+[Dialog(head="char_411_tomimi", delay=0.5)]Sì, lo penso anch'io! E poi le tue corna sono fortissime!
+[Dialog(head="char_127_estell", delay=1)]D-davvero?
+[Dialog(head="char_411_tomimi", delay=0.5)]Hanno buttato giù un sacco di nemici!
+[Dialog(head="char_411_tomimi", delay=0.5)]E poi io ho tanti accessori, se li metti starai benissimo~
+[Dialog(head="char_187_ccheal", delay=0.5)]Ecco, così hai qualcosa che vuoi fare!
+[Dialog(head="char_187_ccheal", delay=0.5)]Se ti ritrovi un sacco di soldi, ci compri tutta questa roba!
+[Dialog(head="char_127_estell", delay=1)]Mm… sì!
+[Dialog(head="char_411_tomimi", delay=0.5)]Bella come una principessa~
+[Dialog(head="char_127_estell", delay=0.5)]Una bella principessa?
+[Dialog(head="char_411_tomimi", delay=0.5)]La Principessa Bellissima Super Invincibile Possente Bicorna Fulminante dalla Lunga Coda a Spirale!

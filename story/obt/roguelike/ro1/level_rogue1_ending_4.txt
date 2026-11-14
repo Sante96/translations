@@ -1,0 +1,93 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background(image="24_RL_castlehall",screenadapt="coverall")]
+[Delay(time=1)]
+[PlayMusic(intro="$mist_intro", key="$mist_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[delay(time=2)]
+[Character(name="avg_npc_292_1#7$1")]
+[name="Playwright"]Un buon copione ha bisogno di essere temprato dal tempo.
+[Character(name="avg_npc_292_1#7$1")]
+[name="Playwright"]Il palcoscenico è scritto, la scena è intessuta.
+[Character(name="avg_npc_292_1#7$1")]
+[name="Playwright"]Il protagonista sente ancora il richiamo della compagnia, il protagonista salirà di nuovo sul palco.
+[Character(name="avg_npc_292_1#2$1")]
+[name="Playwright"]E alle spalle del protagonista non manca mai Rhodes Island, il suo “compagno dalla parte del giusto”.
+[Character(name="avg_npc_292_1#2$1")]
+[name="Playwright"]Il protagonista fugge dalla compagnia, e poi vi ritorna al suo richiamo.
+[Character(name="avg_npc_292_1#2$1")]
+[name="Playwright"]Il codardo fugge dalla compagnia, ma ora si volta risoluto per affrontarci.
+[Character(name="avg_npc_292_1#2$1")]
+[name="Playwright"]Solo per salvare qualcuno con cui ha un vago legame…
+[Character(name="avg_npc_292_1#1$1")]
+[name="Playwright"]Uno sconosciuto? Un compagno? Un amico?
+[Character(name="avg_npc_292_1#1$1")]
+[name="Playwright"]In ogni caso, il suo coraggio è stato dimostrato, e così la storia giunge al termine.
+[Character(name="avg_npc_292_1#1$1")]
+[name="Playwright"]Il protagonista e il codardo sono tornati a Rhodes Island, la loro casa.
+[Character(name="avg_npc_292_1#1$1")]
+[name="Playwright"]E la compagnia non ha ottenuto nulla.
+[Character(name="avg_npc_292_1#1$1")]
+[name="Playwright"]Nel momento in cui l'annunciatore abbandona il suo ruolo e prende in mano i fili delle marionette—
+[Character(name="avg_npc_292_1#1$1")]
+[name="Playwright"]è destinato, come tutti i cattivi banali, a finire steso a terra.
+[Character(name="avg_npc_292_1#11$1")]
+[name="Playwright"]Coperto di vergogna.
+[Character(name="avg_npc_292_1#8$1")]
+[name="Playwright"]Devo dire che chiudere con un finale simile è un oltraggio alla mia persona.
+[Character(name="avg_npc_292_1#9$1")]
+[name="Playwright"]Perciò ho aggiunto alcuni passaggi.
+[Character(name="avg_npc_292_1#7$1")]
+[name="Playwright"]La penna diventa un ostacolo, e impone al protagonista le sofferenze e l'odio del suo creatore.
+[Character(name="avg_npc_292_1#7$1")]
+[name="Playwright"]E, come prezzo della sua crescita, il protagonista porterà fino in fondo la sua ribellione contro il creatore.
+[Character(name="avg_npc_292_1#7$1")]
+[name="Playwright"]Aggiungiamo l'intervento di Rhodes Island, ed ecco che tutte le svolte che speravo per il carattere e il destino dei personaggi hanno cambiato strada.
+[Character(name="avg_npc_292_1#7$1")]
+[name="Playwright"]Così, l'atto finale della storia non è più cosa che io possa scrivere.
+[Character(name="avg_npc_292_1#7$1")]
+[name="Playwright"]……
+[Character(name="avg_npc_292_1#9$1")]
+[name="Playwright"]Una storia fallita, una volta scritta, viene data alle fiamme, e tutto ricomincia da capo.
+[Character(name="avg_npc_292_1#5$1")]
+[name="Playwright"]Nella creazione è inevitabile qualche errore imprevisto; spero che Lei comprenda.
+[Character(name="avg_npc_292_1#5$1")]
+[name="Playwright"]Semini un indizio, e scopri che il personaggio non è in grado di raccoglierlo.
+[Character(name="avg_npc_292_1#5$1")]
+[name="Playwright"]Prepari il terreno a lungo, e il protagonista cade proprio un attimo prima di raccoglierlo.
+[Character(name="avg_npc_292_1#5$1")]
+[name="Playwright"]Comprimari che non dovrebbero esserci, eventi che non dovrebbero accadere, ostacoli che non dovrebbero presentarsi.
+[Character(name="avg_npc_292_1#5$1")]
+[name="Playwright"]E scelte che non andrebbero fatte.
+[Character(name="avg_npc_292_1#5$1")]
+[name="Playwright"]È davvero il copione più impegnativo che mi sia capitato tra le mani negli ultimi anni.
+[Character(name="avg_npc_292_1#1$1")]
+[name="Playwright"]Per fortuna, tra una stesura e l'altra, alcune pagine risplendono.
+[Character(name="avg_npc_292_1#1$1")]
+[name="Playwright"]E, viste le Sue richieste, sarei incline a raccomandarLe questa.
+[Character(name="avg_npc_292_1#1$1")]
+[name="Playwright"]Ogni difficoltà spazzata via, il lieto fine che tutti attendevano, e un seme di oscurità nascosto in fondo al cuore.
+[Character(name="avg_npc_292_1#1$1")]
+[name="Playwright"]Quando sboccerà in quattro petali e darà frutto, tutto ciò che è bello si trasformerà infine nella tragedia che desideriamo.
+[Character(name="avg_npc_292_1#7$1")]
+[name="Playwright"]Il destino è segnato, e il protagonista non ne sa nulla.
+[Character(name="avg_npc_292_1#9$1")]
+[name="Playwright"]E noi attendiamo nell'ombra, pronti a godere del piacere supremo dell'arrivo del finale.
+[Character(name="avg_npc_292_1#10$1")]
+[name="Playwright"]Che ne pensa?
+[Dialog]
+[Character]
+[Image(image="24_RL04", fadetime=2, xScale=1.1, yScale=1.1)]
+[ImageTween(image="24_RL04", fadetime=1,xScaleTo=0.9, yScaleTo=0.9, duration=40)]
+[delay(time=4)]
+[name="Playwright"]Signor capocomico.
+[Dialog]
+[delay(time=2)]
+[Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[delay(time=3)]
+[stopmusic(fadetime=3)]
+[Character]
+[Image]

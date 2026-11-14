@@ -1,0 +1,80 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background(image="75_mini04_treedeep",screenadapt="coverall")]
+[Delay(time=1)]
+[playMusic(key="$jealous_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=1)]
+[PlaySound(key="$d_avg_crossbowbolts_fire", volume=1, channel="cb")]
+[PlaySound(key="$d_avg_arrow_rain", volume=0.7, channel="ar", delay=0.5)]
+[PlaySound(key="$d_avg_arrowshot", volume=0.8, channel="as", delay=0.9)]
+[CameraShake(duration=1.2, xstrength=15, ystrength=18, vibrato=30, randomness=90, fadeout=true, block=false)]
+[delay(time=1)]
+[PlaySound(key="$d_avg_explosion_stone", volume=1, channel="ex")]
+[PlaySound(key="$d_avg_statuecollapse", volume=0.6, channel="ex2", delay=0.6)]
+[playsound(key="$d_avg_fearscream", channel="sc", loop=true)]
+[StopSound(channel="sc", fadetime=2)]
+[CameraShake(duration=1.5, xstrength=22, ystrength=28, vibrato=30, randomness=90, fadeout=true, block=false)]
+[delay(time=5)]
+Sibili di dardi, esplosioni, urla di dolore.
+Contro Cadejo, gli intrusi non sanno quasi più che cosa inventarsi. Per quanto sembri coperto di ferite, i Suoi movimenti non hanno perso un briciolo di rapidità.
+Proprio quando stanno per perdere ogni speranza, i movimenti di Cadejo all'improvviso rallentano e il Suo sguardo si spegne.
+[name="Soldato impaziente della coalizione"]Tsk, che osso duro, questa bestiaccia. Maledetti columbiani: ci avevano detto che in questo posto da incubo poteva esserci un segugio gigante, ma chi poteva immaginare che fosse così enorme!
+[name="Soldato calmo della coalizione"]È grande come una collina, eppure si muove con una leggerezza… roba da non credere. Per fortuna, chissà come, è crollato di colpo. L'abbiamo steso noi?
+[name="Ufficiale della coalizione"]Smettetela di lamentarvi. Il bersaglio si è fermato: procedete alla cattura il prima possibile.
+[name="Soldato calmo della coalizione"]Ehm, ma come lo catturiamo un affare così grosso? E poi il sangue che gli cola dal corpo…
+[name="Soldato impaziente della coalizione"]Questa robaccia nera e appiccicosa… siamo sicuri che non sia proprio quella che i columbiani ci hanno detto di raccogliere come fertilizzante?
+[name="Ufficiale della coalizione"]Se lo è, tanto meglio. Grosso com'è, chissà quanta se ne può ricavare. Non perdete tempo.
+[name="Soldato calmo della coalizione"]Signore, non mi convince. Se è davvero quella roba, toccarla non vorrebbe dire beccarsi una malattia incurabile?
+[name="Soldato impaziente della coalizione"]Appunto. Non sarebbe meglio ritirarci, prima?
+Senza che nessuno se ne accorga, davanti a loro compare una piccola creatura che emana una luce arancione.
+[name="Soldato impaziente della coalizione"]E questo cos'è? È un segugio anche questo?
+[name="Ufficiale della coalizione"]Apri bene gli occhi, idiota, e guarda: ti sembra che abbia l'aria di…
+[Dialog]
+[stopmusic(fadetime=2)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[PlaySound(key="$d_gen_thunders_amb",volume=0.5)]
+[CameraShake(duration=1, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Blocker(a=0.3, r=255, g=255, b=255, fadetime=1.5, block=true)]
+[delay(time=1)]
+[Dialog]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=2, block=true)]
+[delay(time=1)]
+[name="Soldato impaziente della coalizione"]Non ci vedo più! Qualcuno ha lanciato una bomba? Stiamo per morire?
+[name="Soldato calmo della coalizione"]Santo cielo…
+Mentre un immenso flusso di informazioni li travolge e sta quasi per stritolarli, i soldati si sentono come avvolti da un tepore.
+Vengono sollevati dolcemente e cominciano ad allontanarsi, fluttuando piano.
+La piccola creatura dalla luce arancione continua a seguirli con lo sguardo, finché non scompaiono alla vista.
+Quando si sveglieranno, probabilmente penseranno di essersi appisolati all'ingresso della Foresta del Flusso Nero.
+[dialog]
+[delay(time=1)]
+[name="？？？"]Seguendo il Flusso Nero, tornerò alle fasce ancora tiepide, ai tempi lontani in cui questa terra si poteva ancora chiamare “neonata”.
+[Dialog]
+[charslot]
+[Background(image="bg_black",screenadapt="coverall")]
+[Delay(time=1)]
+[Image(image="pic_rogue_6_41", screenadapt="coverall", fadetime=2, block=true)]
+[Delay(time=1)]
+[playMusic(key="$wasteland_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[charslot(slot="m",name="avg_npc_2321_1#11$2",duration=1.5)]
+[Delay(time=1.5)]
+[name="Beagle"]Che posto è questo… Quand'è che io…
+[name="Beagle"]Tu sei…
+Beagle non L'ha mai visto prima, eppure capisce all'istante che cosa ha davanti.
+[name="Beagle"]Le tue ferite si stanno rimarginando, e anche i segugi si sono calmati…
+[name="Beagle"]Però ti fa ancora tanto male, vero?
+[name="Beagle"]Lo sento da quando mi sono svegliata. Anzi, lo sentivo già quando ero ancora nel sogno.
+[name="Beagle"]Ogni volta che vedevo quei segugi, sentivo che stavano sanguinando, che soffrivano.
+[name="Beagle"]Era come se mi avessero staccato un braccio e continuassi comunque a sentire male alla mano. Ma adesso quel dolore si è fermato.
+Beagle accarezza la piccola creatura che, chissà quando, le è comparsa tra le braccia. Sembra inquieta quanto lei, ma sotto le sue carezze si calma in fretta.
+[name="Beagle"]Che cosa ti è successo? Perché qui non c'è niente… Stiamo per sparire?
+L'enorme creatura non risponde. Si limita a guardare Beagle, a lungo, come se volesse aspettare qualcosa insieme a lei.
+[Dialog]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2.5, block=true)]
+[stopmusic(fadetime=2)]
+[charslot]
+[Image]

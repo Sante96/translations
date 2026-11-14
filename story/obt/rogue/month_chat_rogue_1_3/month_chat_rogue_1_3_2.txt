@@ -1,0 +1,24 @@
+[Title] MAIN_LOG_102_1
+[Div] Part.02
+[Dialog(head="char_356_broca", delay=1)]Maccheroni alla marmellata d'arancia… mi dice qualcosa.
+[Dialog(head="char_346_aosta", delay=0.5)]Eh?
+[Dialog(head="char_356_broca", delay=1)]Una volta il capocantiere mi ha raccontato una storia, di una settantina d'anni fa.
+[Dialog(head="char_356_broca", delay=0.5)]All'epoca la famiglia Conte aveva un cuoco che cucinava da far schifo, e il boss dei Conte lo cacciò da Siracusa.
+[Dialog(head="char_346_aosta", delay=1)]Ah, ora mi ricordo.
+[Dialog(head="char_346_aosta", delay=0.5)]È quell'imbroglione che poi scappò a Gaul e si spacciava per un grande chef siracusano.
+[Dialog(head="char_356_broca", delay=0.5)]Sì, proprio lui.
+[Dialog(head="char_349_chiave", delay=0.5)]Eh? Io non ne ho mai sentito parlare.
+[Dialog(head="char_356_broca", delay=0.5)]Be'…
+[Dialog(head="char_356_broca", delay=0.5)]Faresti meglio a leggere qualche libro in più.
+[Dialog(head="char_349_chiave", delay=0.5)]E poi? Che è successo dopo?
+[Dialog(head="char_356_broca", delay=1)]Forse ha avuto fortuna. A furia di imbrogliare tutti, dal primo all'ultimo, ha finito per essere preso davvero per un grande chef.
+[Dialog(head="char_346_aosta", delay=0.5)]E poi si è inventato un mucchio di ricette capaci di far impazzire di rabbia qualsiasi siracusano.
+[Dialog(head="char_349_chiave", delay=0.5)]Tipo?
+[Dialog(head="char_356_broca", delay=1)]Tipo maccheroni alla marmellata d'arancia, spaghetti alla crema di cioccolato…
+[Dialog(head="char_346_aosta", delay=0.5)]Però pare che alla gente di Gaul piacessero parecchio.
+[Dialog(head="char_349_chiave", delay=2)]Detta così, non sembra poi tanto male.
+[Dialog(head="char_356_broca", delay=0.5)]Ripeti un po'?
+[Dialog(head="char_346_aosta", delay=0)]Ne sei sicuro?
+[Dialog(head="char_349_chiave", delay=1)]Sembra bello dolce, sarà buono, no?
+[Dialog(head="char_356_broca", delay=0.5)]Razza di disgraziato.
+[Dialog(head="char_346_aosta", delay=0)]Hai qualche problema alle papille gustative.

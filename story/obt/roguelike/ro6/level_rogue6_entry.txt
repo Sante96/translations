@@ -1,0 +1,119 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[stopmusic]
+[Dialog]
+[Delay(time=1)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="38_g2_colombiaoffice",screenadapt="showall")]
+[Delay(time=1)]
+[playMusic(intro="$ponder_intro",key="$ponder_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=0.5)]
+[charslot(slot = "m", name = "avg_npc_897_1#2$1",bstart=0.2,bend=0.7,duration=2)]
+[Delay(time=2.5)]
+[name="？？？"]Cari cittadini di Columbia, buongiorno. Permettetemi di rubarvi qualche minuto.
+[name="？？？"]Forse siete tutti confusi e preoccupati per ciò che sta accadendo di recente attorno a Columbia, ma state tranquilli: il governo di Columbia non è rimasto a guardare.
+[name="？？？"]I segugi fuori controllo che aggrediscono le persone e il morbo del segugio, i disordini di Dossoles, la Grande Marcia di Bolívar…
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Background(image="38_g12_trimountrestarea",screenadapt="coverall")]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot(slot = "l", name = "avg_npc_523_1#1$1",duration=2)]
+[charslot(slot = "r", name = "avg_npc_524_1#1$1",duration=2)]
+[Delay(time=2.5)]
+[charslot(slot = "l", name = "avg_npc_523_1#1$1",focus="l")]
+[name="Cittadino ficcanaso"]E adesso che c'è? Da quando hanno bucato il cielo, mi pare che non sia più successo niente di buono.
+[charslot(slot = "r", name = "avg_npc_524_1#1$1",focus="r")]
+[name="Cittadino ansioso"]Ahimè, siamo rovinati. Di sicuro al di là del cielo c'è un'altra Terra, e quelli hanno creduto che volessimo dichiarargli guerra, così hanno cominciato a farcela pagare.
+[charslot(slot = "l", name = "avg_npc_523_1#1$1",focus="l")]
+[name="Cittadino ficcanaso"]Ma che romanzi leggi per inventarti queste storie? Consigliane qualcuno anche a me, dai. Meglio se è un audiolibro.
+[charslot(slot = "r", name = "avg_npc_524_1#1$1",focus="r")]
+[name="Cittadino ansioso"]Sigh…
+[charslot(slot = "l", name = "avg_npc_523_1#1$1",focus="l")]
+[name="Cittadino ficcanaso"]Ehi, dico, ma hai visto il vicepresidente? Parla senza muovere la bocca. È una registrazione?
+[charslot(slot = "r", name = "avg_npc_524_1#1$1",focus="r")]
+[name="Cittadino ansioso"]Non hai letto la scritta in sovrimpressione? Il vicepresidente è in collegamento con il presidente: quella che senti è la voce del presidente che parla in diretta.
+[charslot(slot = "l", name = "avg_npc_523_1#1$1",focus="l")]
+[name="Cittadino ficcanaso"]Eh, che vuoi, io non so leggere.
+[charslot(slot = "r", name = "avg_npc_524_1#1$1",focus="r")]
+[name="Cittadino ansioso"]……
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Background(image="38_g2_colombiaoffice",screenadapt="coverall")]
+[charslot(slot = "m", name = "avg_npc_897_1#2$1",focus="n")]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[name="Presidente"]Negli ultimi tempi circolano molte voci sulla regione di Bolívar e sulla Foresta del Flusso Nero, e sia in patria che all'estero si moltiplicano accuse e affermazioni infondate.
+[name="Presidente"]Ma oggi siamo a un passo dalla verità. Le indagini dimostrano che un gruppo di terroristi si nasconde in un luogo insidioso: la Foresta del Flusso Nero.
+[name="Presidente"]Negli ultimi mesi hanno tentato più volte di colpire Columbia con attacchi terroristici, minacciando gravemente l'incolumità e i beni dei nostri cittadini.
+[name="Presidente"]Sulla base delle prove fornite dalle forze armate, abbiamo motivo di credere che negli attacchi i terroristi abbiano impiegato numerose armi biochimiche disumane.
+[name="Presidente"]Oggi i terroristi hanno fatto della Foresta del Flusso Nero la loro roccaforte e stanno producendo armi di distruzione su scala ancora più vasta.
+[name="Presidente"]Va sottolineato che non è stato ancora accertato se i terroristi siano legati alle forze armate antigovernative dei Veri Bolivariani.
+[name="Presidente"]Alcuni testimoni riferiscono perfino che questi terroristi potrebbero essere forme di vita sconosciute venute da fuori Terra, che tentano di usare la Foresta del Flusso Nero per invadere e inghiottire l'intera Terra.
+[name="Presidente"]I nostri cittadini di Columbia, buoni e onesti, non se la prenderanno per questo con nessun bolivariano rispettoso della legge, ma non lasceranno impunito nessun terrorista.
+[name="Presidente"]Pertanto io, Mark Max, in qualità di presidente, dichiaro che, per difendere la pace di Columbia e dell'intera Terra, Columbia entra ufficialmente in guerra contro la Foresta del Flusso Nero!
+[name="Presidente"]Ridefiniremo i compiti delle istituzioni militari, imporremo controlli più rigorosi sugli accessi alle zone interessate, e chiediamo con fervore a tutti i cittadini disposti a dare il loro contributo di unirsi a noi.
+[dialog]
+[Delay(time=1)]
+[name="Presidente"]Che il cielo protegga Columbia!
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Background(image="75_mini03_highland",screenadapt="coverall")]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[PlaySound(key="$d_gen_walk_n")]
+[charslot(slot="m",name="avg_npc_1663_1#12$1",duration=1)]
+[Delay(time=1.5)]
+[name="Esploratore indipendente?"]……
+[name="Esploratore indipendente?"]Messa così, tanto valeva rompere apertamente con il ministero della Difesa e annunciare un'ispezione immediata di tutti i progetti operativi.
+[name="Esploratore indipendente?"]Temono che la superarma sia ormai quasi pronta? O stanno già preparando un pretesto da dare in pasto alla gente, nel caso scoppi una guerra civile?
+[charslot(slot="m",name="avg_npc_1663_1#8$1",focus="m")]
+[name="Esploratore indipendente?"]Altro che esplorazione. Se uno ci gironzola dentro e vede qualcosa che non dovrebbe, non ci sarebbe da stupirsi se lo facessero fuori quelli che l'esercito ci ha infiltrato di nascosto.
+[charslot(slot = "m", name = "avg_npc_2046_1#1$1",focus="m")]
+[name="Agente della Maylander"]Stia tranquillo: la Maylander garantirà che almeno alla nostra squadra non succeda nulla del genere.
+[name="Agente della Maylander"]Dopo l'incidente di “Theory-3” non siamo riusciti a portare dalla nostra parte né a mettere in salvo molte delle persone coinvolte. Lei è la nostra speranza.
+[charslot(slot="m",name="avg_npc_1663_1#12$1",focus="m")]
+[name="Esploratore indipendente?"]A quanto vedo, siete già pronti a sacrificare gli esploratori indipendenti che avete reclutato e i dilettanti venuti a curiosare.
+[charslot(slot = "m", name = "avg_npc_2046_1#1$1",focus="m")]
+[name="Agente della Maylander"]Dobbiamo, e possiamo solo, contare su di lei per impedire alla radice che si arrivi a tanto.
+[charslot(slot="m",name="avg_npc_1663_1#8$1",focus="m")]
+[name="Esploratore indipendente?"]Così mi buttate nella fossa dei leoni… sigh. Mettiamo in chiaro una cosa: dopo questa, non vi devo più niente.
+[charslot(slot = "m", name = "avg_npc_2046_1#1$1",focus="m")]
+[name="Agente della Maylander"]Come è giusto che sia.
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot(slot="m",name="avg_4229_aphris_1#9$1",duration=1)]
+[Delay(time=1.5)]
+[charslot(duration=1)]
+[Delay(time=1.5)]
+[PlaySound(key="$d_gen_soldiersrun")]
+[charslot(slot="l",name="avg_npc_1271_1#1$1",duration=1.5)]
+[charslot(slot="r",name="avg_npc_1272_1#1$1",duration=1.5)]
+[Delay(time=2.5)]
+[PlaySound(key="$d_gen_soldiersrun")]
+[charslot(duration=1)]
+[Delay(time=2.5)]
+[charslot(slot="m",name="avg_npc_1663_1#12$1",focus="m")]
+[name="Esploratore indipendente?"]…Mm?
+[name="Esploratore indipendente?"]Quella sagoma… non può essere.
+[charslot(slot = "m", name = "avg_npc_2046_1#1$1",focus="m")]
+[name="Agente della Maylander"]È una faccenda della massima importanza. La prego di sbrigarsi a partire con la nostra squadra, signor Payucaca.
+[name="Agente della Maylander"]Se non riusciamo a trovarlo prima che lo spostino, le conseguenze potrebbero essere catastrofiche.
+[charslot(slot="m",name="avg_npc_1663_1#8$1",focus="m")]
+[name="Esploratore indipendente?"]……
+[name="Esploratore indipendente?"]Capisco.
+[Dialog]
+[stopmusic(fadetime=3)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Image]

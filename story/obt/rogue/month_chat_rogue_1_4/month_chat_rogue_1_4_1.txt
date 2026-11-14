@@ -1,0 +1,22 @@
+[Title] MAIN_LOG_103_1
+[Div] Part.01
+[Dialog(head="char_379_sesa", delay=1.5)]Lo sento. Su questa terra grava una maledizione.
+[Dialog(head="char_379_sesa", delay=1.5)]Mi sta prosciugando lentamente le forze dal profondo dell'anima, e mi divora dall'interno fino a non lasciare più nulla…
+[Dialog(head="char_2013_cerber", delay=1.5)]Anche Ceobe la sente…
+[Dialog(head="char_260_durnar", delay=0.5)]Parlate come si deve.
+[Dialog(head="char_379_sesa", delay=0.5)]Sono stanco.
+[Dialog(head="char_2013_cerber", delay=0.5)]Ceobe ha fame.
+[Dialog(head="char_260_durnar", delay=0.5)]Su, un po' di grinta, siamo appena partiti!
+[Dialog(head="char_2013_cerber", delay=1)]Sorellona Dur-nar, hai ancora qualcosa da mangiare?
+[Dialog(head="char_260_durnar", delay=0.5)]No. Durante la marcia le provviste vanno razionate, adesso non si mangia.
+[Dialog(head="char_2013_cerber", delay=0.5)]Solo un pochino!
+[Dialog(head="char_260_durnar", delay=0.5)]No.
+[Dialog(head="char_2013_cerber", delay=0.5)]Uuh…
+[Dialog(head="char_260_durnar", delay=1)]Va bene, visto che siete tutti stanchi, facciamo una pausa qui.
+[Dialog(head="char_379_sesa", delay=0.5)]Il viaggio dell'eroe è colmo di disperazione, e chissà quando giungeranno i rifornimenti del destino…
+[Dialog(head="char_2013_cerber", delay=1)]Ceobe ha trovato una cosa bella!
+[Dialog(head="char_260_durnar", delay=0.5)]Questo è… un martello di ferro?
+[Dialog(head="char_260_durnar", delay=0.5)]È tutto arrugginito. Dev'essere stato abbandonato qui da parecchio.
+[Dialog(head="char_379_sesa", delay=0.5)]Mmh, una fattura eccellente. Perché mai l'avranno gettato via?
+[Dialog(head="char_2013_cerber", delay=1)]Aaam—
+[Dialog(head="char_260_durnar", delay=0.5)]Ceobe! Quello non si mangia!

@@ -1,0 +1,37 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background(image="24_RL_castlehall",screenadapt="coverall")]
+[Delay(time=1)]
+[PlayMusic(intro="$ponder_intro", key="$ponder_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[delay(time=2)]
+Un antico castello si erge nella foresta.
+In rovina al punto giusto.
+Qui la compagnia si accampa.
+E allestisce il palcoscenico per il suo dramma.
+Anni di lavoro hanno dato i loro frutti.
+Peccato che restino domande ancora senza risposta.
+Dov'è il primo attore?
+Dov'è il protagonista?
+Silenzio, silenzio: nessuno sa offrire una risposta.
+[dialog]
+[PlaySound(key="$d_gen_walk_n")]
+[Character(name="avg_npc_293_1#6$1",fadetime=1.5)]
+[delay(time=3.5)]
+Il primo attore è sotto gli occhi di tutti.
+Il protagonista non ha bisogno di dimostrare chi è.
+Prego, sul palcoscenico.
+Il nuovo astro della compagnia, il suo Diamante di sangue.
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=2)]
+Tutto è pronto.
+Lo spettacolo è già cominciato.
+[Dialog]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
+[stopmusic(fadetime=1)]
+[Character]
+[Image]

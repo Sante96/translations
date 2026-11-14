@@ -1,0 +1,205 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[stopmusic]
+[Dialog]
+[Background(image="bg_black",screenadapt="coverall")]
+[PlaySound(key="$grenade_explosion", volume=1)]
+[CameraShake(duration=1.7, xstrength=20, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
+[delay(time=1)]
+[PlaySound(key="$grenade_explosion", volume=1)]
+[PlaySound(key="$d_sp_ballista", volume=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[CameraShake(duration=1.7, xstrength=20, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.4, block=true)]
+[delay(time=2)]
+[Background(image="52_mini03_sarkazfurnace",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+[Delay(time=2)]
+[playMusic(key="$calm_loop", volume=0.6)]
+[charslot(slot="m",name="avg_4151_tinman_1#1$1",focus="m",duration=1)]
+[delay(time=1.5)]
+[charslot]
+[charslot(slot="m",name="avg_4146_nymph_1#2$1",focus="m",duration=1)]
+[delay(time=2)]
+[name="Nymph"]Eh? Siamo tornati?
+[Dialog]
+[charslot]
+[charslot(slot = "m", name = "avg_npc_1114_1#7$1")]
+[CameraShake(duration=0.5, ystrength=20, vibrato=20, randomness=90, fadeout=true, block=false)]
+[name="Fremont"]Ermengarde!
+[Dialog]
+[charslot]
+[charslot(slot = "m", name = "avg_npc_869_1#9$1",duration=1)]
+[delay(time=2)]
+[name="Ermengarde"]Sono qui, maestro…
+[dialog]
+[charslot]
+[charslot(slot = "r", name = "avg_npc_869_1#9$1",focus="l")]
+[charslot(slot = "l", name = "avg_npc_1114_1#10$1",focus="l")]
+[name="Fremont"]Sarebbe questa la bella idea che hai spremuto da quella testa? Trascinare mezza dozzina di Sarkaz nella fornace appena mi giro?
+[charslot(slot = "r", name = "avg_npc_869_1#8$1",focus="r")]
+[name="Ermengarde"]Volevo solo dare una mano… Vede, anche l'ultima volta non è andata liscia come sperava…
+[charslot(slot = "r", name = "avg_npc_869_1#8$1",focus="r")]
+[name="Ermengarde"]La signora Wiš'adel è saltata in aria, e le Anime morte si sono arrabbiate così tanto che sono sgattaiolate fuori dalla fornace.
+[charslot(slot = "l", name = "avg_npc_1114_1#5$1",focus="l")]
+[name="Fremont"]Mh?
+[charslot(slot = "r", name = "avg_npc_869_1#1$1",focus="r")]
+[name="Ermengarde"]Volevo solo dire che il nostro rito, tutto sommato, è riuscito bene…
+[charslot(slot = "r", name = "avg_npc_869_1#1$1",focus="r")]
+[name="Ermengarde"]Non le sembra che la fornace si sia calmata?
+[Dialog]
+[charslot]
+Nella fornace non c'è il minimo rumore, né si avverte l'agitazione di alcuna Anima morta. Sembrano commensali appisolati dopo una gran mangiata, oppure…
+monelli nascosti dietro una porta, in attesa di ridere alle spalle di qualcuno.
+[charslot(slot="m",name="avg_4151_tinman_1#1$1",focus="m")]
+[name="Tin Man"](Si toglie il cappello in segno di saluto)
+[charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
+[name="Fremont"]…(Risponde con un cenno del capo)
+[dialog]
+[charslot]
+[charslot(slot = "r", name = "avg_npc_869_1#1$1",focus="l")]
+[charslot(slot = "l", name = "avg_npc_1114_1#7$1",focus="l")]
+[name="Fremont"]Se nessuno ti avesse costruito un canale, non si fosse preso addosso la furia incontrollata delle anime e non avesse cavato le idee da quelle bocche cucite, a quest'ora saresti stesa qui a essiccare insieme ai tuoi amichetti.
+[charslot(slot = "r", name = "avg_npc_869_1#8$1",focus="r")]
+[name="Ermengarde"]Ma—
+[charslot(slot = "l", name = "avg_npc_1114_1#7$1",focus="l")]
+[name="Fremont"]Quando saremo tornati al Santuario della Conoscenza avrò tutto il tempo di tenerti per il Nodo vitale e ascoltare le tue scuse, Ermengarde.
+[charslot(slot = "l", name = "avg_npc_1114_1#7$1",focus="l")]
+[name="Fremont"]Adesso vieni qui e chiudi la bocca.
+[charslot(slot = "r", name = "avg_npc_869_1#6$1",focus="r")]
+[name="Ermengarde"]Uff…
+[dialog]
+[PlaySound(key="$d_gen_walk_n")]
+[charslot(slot = "r", name = "avg_npc_869_1#6$1",focus="l")]
+[charslot(slot = "l", name = "avg_npc_1114_1#7$1",focus="l")]
+[charslot(slot="r",focus="l",posfrom="0,0",posto="-200,0",duration=2)]
+[delay(time=2.5)]
+[charslot]
+[charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
+[name="Fremont"]Quanto a voi.
+[charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
+[name="Fremont"]Non m'importa se siete rampolli delle Corti, ficcanaso di quartiere, mercenari di Rhodes Island…
+[charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
+[name="Fremont"]sarti tornati dai loro vagabondaggi o apostati di Nezzsalem.
+[charslot(slot = "m", name = "avg_npc_1114_1#7$1")]
+[name="Fremont"]Tornate dove dovete stare e fate quello che dovete fare.
+[charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
+[name="Fremont"]C'è mezza Kazdel da tirare su mattone dopo mattone, e voi che fate? Venite qui a sognare?
+[charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
+[name="Fremont"]Se volete davvero che la Kazdel dei vostri sogni abbia anche solo una minima possibilità di diventare realtà, rimboccatevi le maniche.
+[charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
+[name="Fremont"]Non statevene rintanati qui a compiacere voi stessi e quella banda di vecchi bastardi nella fornace con le vostre fantasie.
+[dialog]
+[charslot]
+[PlaySound(key="$firestorm", channel="bg",volume=1)] 
+[bgeffect(name="$eb_burn",layer=1,y=-100)]
+[delay(time=3)]
+[StopSound(fadetime=1, channel="bg")]
+[charslot(slot = "m", name = "avg_npc_1114_1#7$1")]
+[bgeffect]
+[CameraShake(duration=0.5, ystrength=20, vibrato=20, randomness=90, fadeout=true, block=false)]
+[name="Fremont"]Sì, dico proprio a voi! Qualche problema?!
+[charslot(slot = "m", name = "avg_npc_869_1#6$1")]
+[name="Ermengarde"]Su, su, maestro, si calmi…
+[charslot(slot = "m", name = "avg_npc_1114_1#7$1")]
+[name="Fremont"]Non sono arrabbiato! Se alzo un po' la voce vuol dire che sono arrabbiato?
+[charslot(slot = "m", name = "avg_npc_869_1#6$1")]
+[name="Ermengarde"]Sì, sì, sì, ha ragione lei…
+[charslot(slot = "m", name = "avg_npc_1114_1#7$1")]
+[name="Fremont"]Hmpf.
+[charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
+[name="Fremont"]Ora andatevene, Sarkaz. Chiuderò un occhio sulla vostra intrusione nella Fornace delle Anime.
+[charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
+[name="Fremont"]Ermengarde, accompagnali fuori.
+[charslot(slot = "m", name = "avg_npc_869_1#8$1")]
+[name="Ermengarde"]Sì…
+[Dialog]
+[charslot]
+[stopmusic(fadetime=2)]
+[PlaySound(key="$d_gen_walk_n")]
+Così i Sarkaz seguono Ermengarde fuori dal cuore della fornace; di ciò che pensano, al Signore dei Lich non importa nulla.
+Ma quando Tin Man gli passa accanto, Fremont allunga un braccio e gli sbarra la strada.
+[charslot(slot="l",name="avg_4151_tinman_1#1$1",focus="r")]
+[charslot(slot = "r", name = "avg_npc_1114_1#12$1",focus="r")]
+[name="Fremont"]Quanto ti fermerai ancora a Kazdel?
+[charslot(slot="l",name="avg_4151_tinman_1#1$1",focus="l")]
+[name="Tin Man"]Le ferie sono quasi finite. Devo prepararmi a tornare in Columbia a fare rapporto.
+[charslot(slot = "r", name = "avg_npc_1114_1#12$1",focus="r")]
+[name="Fremont"]La missione storica della Fornace delle Anime volge al termine.
+[charslot(slot="l",name="avg_4151_tinman_1#1$1",focus="l")]
+[name="Tin Man"]Hanno bruciato per tanto di quel tempo: è ora che si raffreddino un po'.
+[charslot(slot = "r", name = "avg_npc_1114_1#12$1",focus="r")]
+[name="Fremont"]Con quelle tecnologie non dovremo più bruciare la nostra gente portandoci dentro il senso di colpa.
+[charslot(slot="l",name="avg_4151_tinman_1#2$1",focus="l")]
+[name="Tin Man"]Eppure poco fa li stavi strapazzando.
+[charslot(slot = "r", name = "avg_npc_1114_1#1$1",focus="r")]
+[name="Fremont"]Heh, è adesso che posso ancora dirgliene quattro. Quando se ne saranno andati da cento, mille anni, e la fornace di Kazdel arderà solo per le feste, mi mancheranno.
+[charslot(slot="l",name="avg_4151_tinman_1#1$1",focus="l")]
+[name="Tin Man"]Allora, c'è una cosa di cui vorrei parlarti.
+[Dialog]
+[charslot]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
+[Background(image="49_g5_furnaceplatform",screenadapt="coverall")]
+[delay(time=2)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+[playMusic(intro="$drift_intro",key="$drift_loop", volume=0.6)]
+[charslot(slot="m",name="avg_4151_tinman_1#9$1",focus="m",duration=1)]
+[delay(time=2)]
+[name="Tin Man"]Sono tornato, vecchi amici.
+[charslot(slot="m",name="avg_4151_tinman_1#9$1",focus="m")]
+[name="Tin Man"]Fremont ha sigillato il cuore della fornace, quindi tocca accontentarsi di questo posto.
+[charslot(slot="m",name="avg_4151_tinman_1#3$1",focus="m")]
+[name="Tin Man"]Vi ho portato qualche specialità della Columbia. Vi va di assaggiare?
+[dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Background(image="bg_black",screenadapt="coverall")]
+[Dialog]
+[charslot]
+[delay(time=1)]
+[Image(image="pic_rogue_4_34", x=-60,y=0, xScale=0.9, yScale=0.9)]
+[ImageTween(image="pic_rogue_4_34", xTo=0,yTo=0, xScaleTo=0.85, yScaleTo=0.85, duration=40)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+Tin Man tira fuori un sacchetto di carta di una di quelle catene di fast food che in Columbia si trovano a ogni angolo, e con solennità dispone accanto a sé bibite gassate, hamburger, patatine e altro ancora.
+Dalla fornace sale un'ondata di calore, e con essa un groviglio di emozioni.
+Curiosità, disprezzo, rabbia.
+Tutte mescolate insieme, come sempre.
+[name="Tin Man"]Anche i vecchi devono provare qualcosa di nuovo, ogni tanto, no?
+Tin Man afferra un pezzo di carne di bestia fritta e se lo butta in bocca, poi lancia un pacchetto di patatine giù nella fornace.
+[name="Tin Man"](Mastica)
+[name="Tin Man"](Deglutisce)
+[name="Tin Man"]Com'è? Ne volete ancora?
+[name="Tin Man"]O magari un po' di ketchup?
+Le patatine si carbonizzano a mezz'aria e si fondono con l'aria rovente; come il combustibile perfetto, accendono l'entusiasmo delle anime.
+Ben presto anche il resto del cibo finisce nella fornace, e le Anime morte lo “assaggiano” con frenesia.
+Per loro masticare e assaporare sono ricordi che riaffiorano dal fondo della memoria; e lo stesso vale per i sapori.
+Il dolce viene da frutti antichi, il salato dalle lacrime versate: frammenti di memoria ricompongono l'idea del mangiare.
+L'avevano quasi dimenticato, e se la godono.
+[name="Tin Man"]Lo so, quel tizio lassù in cielo vi ha acchiappati uno per uno e vi ha gettati qui dentro, ma la vita nella fornace sta per diventare un ricordo.
+[name="Tin Man"]Per quei ragazzi, le storie che vi hanno raccontato erano favole per consolarvi.
+[name="Tin Man"]Ma io spero davvero che per voi siano l'occasione per ritrovare voi stessi.
+[name="Tin Man"]Se quell'avventura ha davvero smosso qualcosa in te e ti ha fatto pensare a quale strada prendere in futuro…
+[name="Tin Man"]posso portarti via di qui.
+[name="Tin Man"]Non come un ammasso di coscienze in fiamme, ma come un individuo, come te, mio simile.
+Tin Man estrae dalla giacca tre pupazzetti di latta e li sistema accanto a sé, poi tira fuori una pipa e la accende.
+[name="Tin Man"]Se qualcuno di voi vuole davvero liberarsi da questo caos, credo che dovrei fermarmi qui ad aspettare ancora un po'.
+Nella fornace le fiamme si agitano e si intrecciano; bruciando, le Anime morte si sono confuse l'una nell'altra da tempo non si distinguono più, e liberare la propria coscienza da quella nebbia indistinta non è affatto facile.
+Del resto, se all'epoca avessero avuto una volontà e degli ideali saldi, l'Anziano delle Anime morte non li avrebbe gettati nella fornace a fornire energia a Kazdel.
+Ma è passato tanto tempo: chi può dire se qualcuno sia cambiato, o abbia avuto un'illuminazione?
+Tin Man siede all'imboccatura della fornace e attende in silenzio la risposta dei suoi simili.
+[dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
+[Dialog]
+[charslot]
+[Image]
+[delay(time=2)]
+[name="Tin Man"]Arrivederci, Kazdel.
+[Dialog]
+[charslot]
+[Image]
+[delay(time=1)]
+[name="Tin Man"]Andiamo, Ol' Curly, Big Larry, Lil' Mo.
+[name="Tin Man"]La vita vi dà il benvenuto.
+[Dialog]
+[charslot]
+[stopmusic(fadetime=3)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
+[Image]

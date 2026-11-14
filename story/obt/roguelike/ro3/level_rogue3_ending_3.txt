@@ -1,0 +1,134 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background]
+[delay(time=1)]
+[Dialog]
+[Background(image="40_g4_stargate_on",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
+[delay(time=1)]
+[PlayMusic(intro="$drift_intro", key="$drift_loop", volume=0.7)]
+“Abbiamo visto la terra inghiottita del tutto dalle tenebre.”
+“Abbiamo visto la porta che inevitabilmente si aprirà in fondo alla distesa ghiacciata.”
+“Siamo testimoni del destino intero, dal principio alla fine.”
+“Per giungere alla sua fine, io ne ricostruisco la causa.”
+[dialog]
+[PlaySound(key="$d_gen_walk_n")]
+[charslot(slot = "m", name = "avg_npc_969_1#1$1",duration=2)]
+[delay(time=2)]
+[name="Arges"]Il futuro scorto dalla preveggenza… è davanti ai miei occhi.
+[dialog]
+[PlaySound(key="$d_gen_walk_n")]
+[charslot(duration=1)]
+[delay(time=2)]
+Tra pericoli e ostacoli, attraverso innumerevoli fallimenti e ancor più tentativi.
+Sotto la guida della Ciclope, la spedizione è arrivata fin qui: a nord del nord, dove finisce la distesa ghiacciata senza fine.
+Si erge davanti a loro una megastruttura che nessuno sa comprendere, e la sua base è ricoperta di fiori senza radici dai colori sgargianti.
+Gli esploratori arrivati fin qui conoscono bene la paura, e la paura sta dilagando nella mente di ciascuno.
+Tutti hanno lo stesso presentimento: se questa è una porta che si può aprire, dall'altra parte non può attendere che la sventura.
+Ma la Ciclope si è già incamminata verso di essa.
+Da quando è uscita dalla sua grotta, non ha fatto altro che camminare verso quel luogo.
+La vista comincia a distorcersi: il solo tentativo di riconoscere e comprendere fa collassare lo spazio con violenza.
+L'erosione della realtà comincia dalla conoscenza ricavata dalla fenditura: tutti vorrebbero impedire che la sventura si abbatta su di loro, ma, prigionieri di una paura indotta, non riescono a emettere un suono.
+[dialog]
+[charslot]
+[charslot(slot = "m", name = "avg_2012_typhon_1#9$1",duration=1)]
+[delay(time=1)]
+[name="Typhon"]……
+[dialog]
+[charslot]
+Come tutti gli altri, Typhon fissa quella figura di spalle.
+A differenza di tutti gli altri, Typhon ha già visto innumerevoli volte quella schiena andare all'appuntamento con il destino.
+La Ciclope che conosce il futuro non spiega mai dove sta andando; basta seguire le indicazioni del destino di cui parla, e prima o poi si ritrovano da qualche parte.
+Ma questa volta, solo questa volta, Typhon sente di doverla richiamare a ogni costo.
+Non per un presentimento della grande catastrofe, non per paura dell'ignoto: il suo istinto di cacciatrice coglie al volo una preoccupazione ben precisa.
+[charslot(slot = "m", name = "avg_2012_typhon_1#1$1")]
+[name="Typhon"]—Arges, non andare!
+[dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background]
+[Dialog]
+[charslot]
+[Image(image="pic_rogue_3_33", x=-60,y=0, xScale=0.9, yScale=0.9)]
+[ImageTween(image="pic_rogue_3_33", xTo=0,yTo=0, xScaleTo=0.85, yScaleTo=0.85, duration=40)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[delay(time=1)]
+Sentendosi chiamare, la Ciclope si volta.
+L'enorme costruzione a forma di anello si mette in moto: al suo interno si riflette un'oscurità sfavillante come un cielo stellato, in cui colori smaglianti scorrono e si contorcono.
+È in corso un Collasso di proporzioni che superano di gran lunga tutto ciò che è mai stato registrato.
+Lei ha già visto tutto questo nella sua preveggenza.
+Un solo sguardo nell'abisso attirerà su Sami, e su tutta Terra, calamità senza precedenti.
+La profezia di quell'istante non le ha rivelato per quanto tempo il suo potere potrà trattenere la calamità, né tantomeno le ha mostrato per quante persone, da allora in poi, sarà una nemica e una colpevole.
+Del suo compito, sa una cosa soltanto—
+Sotto l'immensa ombra del demone, la Ciclope innalza con le sue arti un sipario nero, che separa tutti gli altri dalla calamità che lei stessa ha scatenato.
+[name="Arges"]Andate via, presto.
+In quell'istante Typhon capisce cosa sta per dirle, perché la Ciclope, che ha quasi sempre il volto velato di tristezza, adesso sorride.
+“Questo è il mio destino.”
+[name="Arges"]Tu, figlia di cui non conosco il destino, possa tu…
+[name="Arges"]…vivere libera, come hai sempre detto di essere.
+[dialog]
+[stopmusic(fadetime=2)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Background]
+[delay(time=1)]
+[Dialog]
+…No.
+No!
+Non ci credo!
+Non ci credo che sia oggi!
+[PlayMusic(intro="$newhope01_intro", key="$newhope01_loop", volume=0.7)]
+—Nell'oscurità sconfinata, c'è ancora qualcuno che corre in avanti.
+Si libera dalla palude della paura, getta via l'arco e le frecce che le pesano addosso.
+Typhon vuole afferrare quella figura che avanza da sola.
+Tende la mano disperatamente, senza pensare a nient'altro.
+Una bestia cornuta bianco argento, pura e immacolata, le passa accanto con un balzo leggero.
+Lieve come un fiocco di neve, così lieve da non potersi toccare: nemmeno un acchiappasogni intessuto di seta di ragno potrebbe catturarla.
+È la candida misericordia degli spiriti ancestrali, quella che tutta la gente di Sami incontra in sogno.
+[Image]
+[dialog]
+[Image(image="pic_rogue_3_34", x=-60,y=0, xScale=0.9, yScale=0.9)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=1)]
+Come un'aurora, il suo bagliore squarcia le tenebre e sale fino alla volta del cielo.
+Il Feranmut di Sami si scaglia contro il demone che ha davanti.
+Un lampo accecante esplode nello spazio visibile distorto; la luce si disperde nel silenzio e svanisce in un vuoto sfavillante e inafferrabile.
+Nella violenta onda d'urto, la brina d'argento scossa via dalla bestia cornuta si dissolve insieme alle stelle variopinte e spaventose.
+L'energia dell'annientamento fa sublimare i cristalli di ghiaccio.
+In fondo alla distesa ghiacciata cadono gocce d'acqua tiepide.
+[dialog]
+[Blocker(a=1, r=1, g=1, b=1, fadetime=2, block=true)]
+[Background]
+L'amore di Amma si scioglie dolcemente sulla mano di Sua figlia, tesa verso l'abisso del destino.
+[Dialog]
+[Image]
+[delay(time=2)]
+[Background(image="40_g3_stargate",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=6, block=true)]
+[delay(time=2)]
+L'ombra del demone svanisce, e anche della bestia cornuta bianco argento non resta traccia.
+I colori anomali che traboccavano dall'anello sono scomparsi del tutto; sul ghiaccio limpido resta soltanto l'antico bianco argento.
+Tutti guardano in alto, attoniti. Passa molto tempo prima che, finalmente, i passi di un membro della spedizione rompano il silenzio.
+I membri della spedizione provano ad attraversare l'enorme anello avanti e indietro, ma purtroppo non trovano il modo di attivare la struttura, né alcuna fessura della “porta” attraverso cui passare.
+Nella neve poco lontano, Typhon cerca dappertutto a testa bassa.
+Vorrebbe trovare una palla di neve piccola e compatta, con l'impronta di un corno.
+[charslot(slot = "m", name = "avg_2012_typhon_1#4$1")]
+[name="Typhon"]…Non la trovo.
+[charslot(slot = "m", name = "avg_2012_typhon_1#4$1")]
+[name="Typhon"]Che strano… Se la vecchia Amma è passata di qui, avrebbe dovuto lasciare una benedizione.
+[charslot(slot = "m", name = "avg_2012_typhon_1#4$1")]
+[name="Typhon"]Arges… tu che ne dici?
+[charslot(slot = "m", name = "avg_npc_969_1#1$1")]
+Non vuole ammettere che l'enorme bestia cornuta se n'è andata per molto, molto tempo, ma Arges si limita a scuotere lentamente la testa.
+[charslot]
+Le Sue orme svaniscono nella neve che cade senza fine.
+Le due Sarkaz, che non appartengono al popolo degli Elafia di Sami, ringraziano sottovoce per l'amore donato dagli spiriti ancestrali di Sami.
+Sembra che ogni burrasca sia ormai passata.
+Eppure, la profezia del destino non si è ancora compiuta.
+Proprio come la sua morte era scritta—
+è scritto che un giorno qualcuno aprirà davvero quella porta.
+[Dialog]
+[charslot]
+[stopmusic(fadetime=3)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[Image]

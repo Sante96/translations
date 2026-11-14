@@ -1,0 +1,16 @@
+[Title] MAIN_LOG_105_1
+[Div] Part.01
+[Dialog(head="char_405_absin", delay=1)]Ah, generale Hellagur.
+[Dialog(head="char_115_headbr", delay=0.5)]…Generale?
+[Dialog(head="char_188_helage", delay=0.5)]Ah ah, a quanto pare questo titolo è ormai sulla bocca di tutti.
+[Dialog(head="char_188_helage", delay=0.5)]Un tempo ero davvero un militare di Ursus, ma oggi sono soltanto un uomo d'arme al servizio di Rhodes Island.
+[Dialog(head="char_115_headbr", delay=1)](Rumore di passi)
+[Dialog(head="char_405_absin", delay=0.5)]Ehi, aspetta… Zima, dove vai?
+[Dialog(head="char_405_absin", delay=0.5)]…Mi scusi. Forse non vuole sentir parlare di Ursus, anche se ormai è passato un po' di tempo.
+[Dialog(head="char_188_helage", delay=0.5)]Anche lei viene dalla scuola media di Peterheim? Quella che, mi dicevi, il “Capitano” di Reunion aveva chiesto di proteggere.
+[Dialog(head="char_405_absin", delay=0.5)]Sì… Ehm, la-la prego, non sospiri.
+[Dialog(head="char_188_helage", delay=0.5)]Quelli come noi, quando non riescono a proteggere i bambini, finiscono sempre per provare un certo rammarico.
+[Dialog(head="char_188_helage", delay=1)]Per fortuna sembra che andiate d'accordo. Su questa nave terrestre gli studenti della vostra età sono pochi, e quelli di Ursus ancora meno.
+[Dialog(head="char_405_absin", delay=1)]D'accordo? …Diciamo che non va male.
+[Dialog(head="char_405_absin", delay=0.5)]Almeno, da quando mi sono avvicinata a loro, non mi chiedo più così spesso… se tante cose valgano davvero la pena.
+[Dialog(head="char_405_absin", delay=0.5)]Sigh, vado a cercare Zima e vedo cos'ha.

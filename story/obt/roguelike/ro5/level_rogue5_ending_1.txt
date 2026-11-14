@@ -1,0 +1,235 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background(image="63_mini04_mountaintop",screenadapt="coverall", block=true)]
+[Delay(time=1)]
+[playMusic(intro="$tense_intro", key="$tense_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=0.5)]
+[Dialog]
+[charslot(slot = "m", name = "avg_npc_1870_1#1$1",duration=0.5)]
+[Delay(time=0.7)]
+[dialog]
+[CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, block=false)]
+[Effect(name="$e_spark_01_mid",layer=1)]
+[playsound(key="$swordtsing3",volume=1)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0.3, block=true)]
+[delay(time=0.2)]
+[CameraShake(duration=0.8, xstrength=30, ystrength=30, vibrato=30, randomness=90, block=false)]
+[Effect(name="$e_spark_01_mid",layer=1)]
+[playsound(key="$swordtsing1",volume=1)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
+[delay(time=1)]
+[charslot]
+[Delay(time=0.2)]
+[PlaySound(key="$d_avg_runstop", volume=1)]
+[charslot(slot="m",name="avg_1043_leizi2_1#9$1",duration=0.5)]
+[CameraShake(duration=0.7, xstrength=15, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Delay(time=1.2)]
+[charslot]
+[Delay(time=0.2)]
+[PlaySound(key="$d_avg_runstop", volume=1)]
+[charslot(slot="m",name="avg_4121_zuole_1#4$1",duration=0.5)]
+[CameraShake(duration=0.7, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Delay(time=1.2)]
+[charslot]
+Avevano bisticciato per questioni di gerarchia familiare, ma dopo aver sconfitto tanti spettri lungo la strada, il Reggicandela e la Maestra Celeste sua zia hanno trovato una discreta intesa.
+Nell'istante in cui Liang si scopre, Zuo Le si slancia in avanti con la spada; non servono parole, Lin Qingyan ha già pronto il colpo decisivo.
+[Dialog]
+[charslot(slot="m",name="avg_4121_zuole_1#4$1",focus="m")]
+[Delay(time=0.2)]
+[PlaySound(key="$d_avg_Qinggong", volume=0.6)]
+[charslot(duration=0.3)]
+[Delay(time=0.5)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[CameraShake(duration=1, xstrength=30,ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.03, block=true)]
+[PlaySound(key="$d_avg_bldwhoosh", volume=1)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
+[name="Zuo Le"]Zia!
+[charslot(slot="m",name="avg_1043_leizi2_1#9$1",focus="m")]
+[name="Lin Qingyan"]Mi perdoni!
+[Dialog]
+[PlaySound(key="$d_avg_clothmovementsp", volume=1)]
+[charslot(duration=0.3)]
+[Delay(time=0.4)]
+[stopmusic(fadetime=2)]
+[Dialog]
+[CameraShake(duration=0.7, xstrength=30, ystrength=25, vibrato=30, randomness=90, fadeout=true, block=false)]
+[PlaySound(key="$d_avg_lightningmagic", volume=1)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.03, block=true)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
+[Delay(time=0.2)]
+[playsound(key="$d_avg_katanamagic",volume=0.7)]
+[PlaySound(key="$e_skill_skulsrsword",volume=0.8,delay=0.2)]
+[PlaySound(key="$swordtsing5", volume=0.9,delay=0.4)]
+[CameraShake(duration=0.8, xstrength=25, ystrength=25, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Effect(name="$e_slash_cross",x=-50,layer = 1)]
+[Effect(name="$e_spark_02_large",layer = 2)]
+[Effect(name="$e_spark_01_mid",roy=-90,layer = 3)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
+[delay(time=0.5)]
+Un comune mortale, con quel colpo, ci avrebbe rimesso la vita senza nemmeno accorgersene—
+Ma la Cangtong di Lin Qingyan viene d'un tratto avvolta dalle nubi sospese a mezz'aria: nuvole e tuono si uniscono e arrestano di netto lo slancio della lama.
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Background(image="bg_black",screenadapt="coverall", block=true)]
+[Delay(time=0.5)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[name="Yi"]Rinfoderi pure la spada, Maestra Celeste Lin.
+[name="Yi"]Il qi di Sui si è dissolto: si può dire che la vostra missione sia stata portata a termine alla perfezione. Grazie a tutti per la fatica.
+Solo ora tutti riescono a vedere davvero l'aspetto del padrone del Giardino delle Grottesche.
+[Dialog]
+[playMusic(key="$midautumn", volume=0.6)]
+[Image(image="pic_rogue_5_47", fadetime=2, xScale=1.05, yScale=1.05,screenadapt="coverall")]
+[ImageTween(xScaleFrom=1.05, yScaleFrom=1.05, xScaleTo=1, yScaleTo=1,duration=6)]
+[Delay(time=4)]
+Lin Qingyan, esitante, rinfodera la spada. Si guarda intorno: proprio come ha detto il padrone del Giardino, la tinta rosa e verde acqua che pervadeva monti, fiumi e cielo sta svanendo lentamente, e lascia riaffiorare il volto che la natura dovrebbe avere.
+[Dialog]
+[Delay(time=1)]
+[name="Yi"]Liang, d'ora in poi pensa tu a questi ospiti.
+[name="Liang"]Agli ordini…
+[Dialog]
+[Image(image="pic_rogue_5_47_1",screenadapt="coverall",fadetime=1.5,block=true)]
+[Delay(time=1)]
+[name="Liang"]Allora, per cominciare, permettetemi di congratularmi con tutti voi per il rito portato a compimento.
+[name="Zuo Le"]Tutto qui… è già finita? Ma voi non avete nemmeno usato—
+[name="Liang"]Naturalmente, Reggicandela Zuo. Questo è un rito, non una lotta all'ultimo sangue.
+[name="Liang"]Da quassù dovreste vedere tutto con chiarezza.
+[name="Liang"]I Maestri Celesti di ogni parte stanno smontando le loro formazioni, gli spettri nelle zone aperte ai visitatori si sono ritirati tutti nel paesaggio, e i Portalanterna e i Guidacandela del Giardino hanno già cominciato a rimettere in ordine.
+[name="Liang"]Il rito di quest'anno, celebrato per la Grande Yan, si chiude qui.
+[name="Zuo Le"]……
+[name="Yun Qingping"]Zuo Le, amico mio, non mi dirai che speravi di raccogliere qui qualche arma divina dell'antichità, per poi salire in cielo sulle nuvole e sfidare a mezz'aria l'ombra tetra di un Feranmut in un duello all'ultimo sangue?
+[name="Zuo Le"]Be'… non proprio…
+[name="Zuo Le"]Pensavo solo che il rito si dovesse concludere dentro il tempio sulla montagna.
+[name="Liang"]Da sempre il rito si conclude qui: con il tempio a fare da testimone sembra più ufficiale, e anche i funzionari di Baizao possono stare tranquilli.
+[name="Liang"]Una volta ricevuto il sigillo, potrete scendere dalla montagna e fare rapporto.
+[name="Liang"]A chi di voi dovrei consegnarlo?
+[name="Lin Qingyan"]È il rito dei Reggicandela: che lo prenda un Reggicandela.
+[name="Yun Qingping"]Io sono un Reggicandela soltanto temporaneo. Decidete voi due.
+[name="Zuo Le"]Qui, per rango familiare e per carica, la più alta in grado è la “viceministra Lin”: è meglio che lo riceva lei.
+[name="Liang"]Per ricevere un pegno come questo non servono tanti convenevoli, Maestra Celeste Lin. Lo prenda pure lei.
+[name="Lin Qingyan"]…Va bene.
+Liang porge con deferenza il righello di giada di Yi alla Maestra Celeste e, quando Lin Qingyan lo riceve con la stessa cerimonia, torna lentamente a fluttuare al fianco di Yi.
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Image]
+[charslot]
+[Background(image="63_mini04_mountaintop",screenadapt="coverall", block=true)]
+[charslot(slot="m",name="avg_1043_leizi2_1#1$1",focus="m")]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]
+[charslot(slot="m",name="avg_1043_leizi2_1#1$1",focus="m")]
+[name="Lin Qingyan"]Perdonate le nostre molte offese di quest'oggi: confido nell'indulgenza del signor Liang e del ministro Yi.
+[charslot(slot="m",name="avg_npc_1869_1#4$1",focus="m")]
+[multiline(name="Yi")]Ministro Yi…?
+[charslot(slot="m",name="avg_npc_1869_1#1$1",focus="m")]
+[multiline(name="Yi")]Ah ah ah… Sono in pochi a chiamarmi così.
+[name="Yi"]Le faccende del Ministero dei Lavori le sbriga tutte Liang: io non ci metto granché del mio.
+[charslot(slot="m",name="avg_1043_leizi2_1#14$1",focus="m")]
+[name="Lin Qingyan"]Prima di scendere, se il signor Yi vorrà rispondere, avrei ancora un'umile domanda.
+[charslot(slot="m",name="avg_npc_1869_1#11$1",focus="m")]
+[name="Yi"]Se si tratta delle origini del Giardino, di quanti righelli mi restano, se devo mandarne ogni anno alla corte, o di quale incarico mi voglia affidare il Ministero dei Lavori, lasciamo perdere, eh…
+[charslot(slot="m",name="avg_4121_zuole_1#7$1",focus="m")]
+[name="Zuo Le"](Abbattuto)
+[charslot(slot="m",name="avg_1043_leizi2_1#1$1",focus="m")]
+[name="Lin Qingyan"]Quanto alla cerimonia di consegna del sigillo, la corte avrà senz'altro le sue ragioni.
+[charslot(slot="m",name="avg_1043_leizi2_1#15$1",focus="m")]
+[name="Lin Qingyan"]Volevo solo chiederle questo: se nel Giardino i pericoli sono così tanti, perché alla fine ne avete aperto le porte alla gente comune?
+[charslot(slot="m",name="avg_npc_1869_1#1$1",focus="m")]
+[name="Yi"]A questa è facile rispondere.
+[name="Yi"]Con il suo sapere, Maestra Celeste Lin, guardando il fengshui di questo luogo saprà senz'altro che cosa giace imprigionato sotto il Giardino.
+[name="Yi"]Il qi di Sui ristagna e gli spettri dilagano. Per questo bisogna celebrare il rito anno dopo anno, e la Sovrintendenza di Sui e la Corte dei Maestri Celesti sono sempre in affanno.
+[name="Yi"]Visti i pericoli del luogo, un tempo qui venivano i Maestri Celesti più valenti di tutta la Grande Yan.
+[name="Yi"]Tra loro c'era anche un suo avo, Maestra Celeste Lin.
+[charslot(slot="m",name="avg_1043_leizi2_1#14$1",focus="m")]
+[name="Lin Qingyan"]Mio nonno, in effetti, mi ha parlato di questo posto.
+[charslot(slot="m",name="avg_npc_1869_1#9$1",focus="m")]
+[name="Yi"]Ma trecento anni fa qualcuno propose un nuovo metodo.
+[name="Yi"]“Tenere a bada Sui non è mai stato compito soltanto della Corte dei Maestri Celesti, della Guardia imperiale e del Ministero della Guerra.”
+[name="Yi"]Quando si trattò di abbattere Sui, chi aveva denaro diede denaro e chi aveva forza diede forza: perché non dovrebbe valere lo stesso per tenerlo a bada?
+[name="Yi"]All'inizio anch'io lo presi per uno scherzo: contrastare il qi di Sui con il fermento della gente? Non c'era idea più assurda.
+[name="Yi"]E invece guardi adesso: il Giardino delle Grottesche si apre un poco alla volta, e il rito diventa ogni anno più facile.
+[name="Yi"]Forse un giorno anche la gente comune potrà salire fin quassù, su questa vetta dove ci troviamo noi, e ammirare tutta Baizao dall'alto.
+[charslot(slot="m",name="avg_1043_leizi2_1#1$1",focus="m")]
+[name="Lin Qingyan"]…La ringrazio dell'insegnamento.
+[charslot(slot="m",name="avg_npc_1869_1#1$1",focus="m")]
+[name="Yi"]Vuole che Liang vi accompagni giù dalla montagna?
+[charslot(slot="m",name="avg_1043_leizi2_1#1$1",focus="m")]
+[name="Lin Qingyan"]Non occorre.
+[charslot(slot="m",name="avg_npc_1869_1#1$1",focus="m")]
+[name="Yi"]Ah, giusto, giusto! Maestra Celeste Lin, si fermi un momento: c'è ancora una cosa.
+[charslot(slot="m",name="avg_1043_leizi2_1#1$1",focus="m")]
+[name="Lin Qingyan"]Dica pure, signor Yi.
+[charslot(slot="m",name="avg_npc_1869_1#1$1",focus="m")]
+[name="Yi"]La spada che ha in mano è la Cangtong tramandata nella famiglia Lin, non è vero?
+[charslot(slot="m",name="avg_1043_leizi2_1#1$1",focus="m")]
+[name="Lin Qingyan"]Esatto.
+[charslot(slot="m",name="avg_npc_1869_1#10$1",focus="m")]
+[name="Yi"]Sarebbe disposta a separarsene? Pensavo proprio che alla mia collezione di spade mancasse giusto un'arma divina come—
+[charslot(slot="m",name="avg_1043_leizi2_1#12$1",focus="m")]
+[name="Lin Qingyan"]…Con permesso, tolgo il disturbo!
+[Dialog]
+[PlaySound(key="$d_avg_footstep_stonestep",volume=0.6,channel="step",loop=false)]
+[stopsound(channel="step",fadetime=3)]
+[charslot(duration=1)]
+[delay(time=1.5)]
+[charslot(slot="m",name="avg_4121_zuole_1#1$1",focus="m")]
+[delay(time=0.5)]
+[PlaySound(key="$d_gen_walk_n",volume=0.6)]
+[charslot(duration=1)]
+[delay(time=1.5)]
+[charslot(slot="m",name="avg_4196_reckpr_1#1$1",focus="m")]
+[delay(time=0.5)]
+[PlaySound(key="$d_avg_footstep_stonestep",volume=1,channel="step1",loop=false)]
+[stopsound(channel="step1",fadetime=2)]
+[charslot(duration=1)]
+[delay(time=1.5)]
+[charslot(slot="m",name="avg_npc_1869_1#4$1",focus="m")]
+[name="Yi"]Ehi, aspetti, sul prezzo possiamo trattare—
+[name="Yi"]Potrei farle davvero un'offerta generosa: che le costava ascoltarmi prima di andarsene…
+[charslot(slot = "m", name = "avg_npc_1870_1#1$1",focus="m")]
+[name="Liang"]Anche la spada del Reggicandela Zuo è un'eredità della famiglia Zuo: perché quella non la vuoi?
+[charslot(slot="m",name="avg_npc_1869_1#2$1",focus="m")]
+[name="Yi"]Una spada troppo feroce non sta bene in casa.
+[Dialog]
+[Delay(time=1)]
+[charslot(slot="m",name="avg_npc_1869_1#9$1",focus="m")]
+[name="Yi"]Che c'è, quelli del Ministero dei Lavori vengono già a cercarti per controllare i conti?
+[charslot(slot = "m", name = "avg_npc_1870_1#1$1",focus="m")]
+[name="Liang"]Sì.
+[charslot(slot="m",name="avg_npc_1869_1#8$1",focus="m")]
+[name="Yi"]Va' pure.
+[Dialog]
+[charslot(slot = "m", name = "avg_npc_1870_1#1$1",focus="m")]
+[Delay(time=0.2)]
+[charslot(duration=1)]
+[Delay(time=2.5)]
+[charslot(slot="m",name="avg_npc_1869_1#8$1",focus="m")]
+[name="Yi"]……
+[name="Yi"]Allora vado anch'io…
+[Dialog]
+[charslot]
+Lo sguardo di Yi si fa un po' smarrito; il nome che non riesce a pronunciare diventa, alla fine, un semplice “sorella”.
+Si volta a guardare il tempio, su cui non è scritta nemmeno una parola.
+[charslot(slot="m",name="avg_npc_1869_1#9$1",focus="m")]
+[name="Yi"]La proposta che hai fatto trecento anni fa ha dato i suoi frutti, sai.
+[name="Yi"]Spero che il calore e il viavai di gente di questo giardino ti rendano un po' più felice.
+[name="Yi"]Non ti dimenticheremo tanto facilmente.
+[Dialog]
+[stopmusic(fadetime=3)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2.5, block=true)]
+[charslot]
+[Image]

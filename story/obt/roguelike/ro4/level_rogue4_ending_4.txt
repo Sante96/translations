@@ -1,0 +1,88 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background]
+[delay(time=1)]
+[Dialog]
+[delay(time=2)]
+[PlayMusic(intro="$newhope01_intro", key="$newhope01_loop", volume=0.7)]
+[dialog]
+Il dibattito è come una battaglia: dalle rive dei laghi di Yan bordate di salici piangenti fino alle pianure alle porte di Kazdel, non è mai giunto a una conclusione.
+[Background(image="bg_black",screenadapt="coverall")]
+[Dialog]
+[charslot]
+[delay(time=1)]
+[Image(image="pic_rogue_4_39", x=0,y=0, xScale=0.9, yScale=0.9)]
+[ImageTween(image="pic_rogue_4_39", xTo=0,yTo=0, xScaleTo=0.85, yScaleTo=0.85, duration=40)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
+Così, anche ora che questi pellegrini giunti fin qui viaggiando verso occidente hanno scorto il tempio ai margini di Kazdel, a un passo dalla fine della storia, continuano a cercare prove, continuano a discutere.
+[Dialog]
+[charslot]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
+[delay(time=1)]
+[Image(image="pic_rogue_4_39", x=-100,y=20, xScale=1.4, yScale=1.4)]
+[ImageTween(image="pic_rogue_4_39", xTo=-160,yTo=40,  duration=40)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+Tra i Sarkaz che hanno scelto di viaggiare con Qui'lon, Mudrock è stata la prima a risvegliarsi come Anasa.
+Ha ascoltato gli insegnamenti del Re dei Sarkaz, ha osservato con rigore ogni precetto e nell'ascesi ha raggiunto l'illuminazione: su di lei si è levata la ruota nera.
+Ma questo risveglio non le ha portato la liberazione. Anzi, diventare Anasa ha riempito Mudrock di dubbi ancora più numerosi—
+Perché la ruota nera compare insieme al risveglio di un Anasa? Perché i Sarkaz nascono nella sofferenza?
+Il suo cuore si è fatto quieto, ma le sue domande continuano a moltiplicarsi.
+Ogni volta che può, interroga Qui'lon, ma le risposte di lui non fanno che lasciarle altre domande.
+Il suo cammino spirituale è appena cominciato.
+[Dialog]
+[charslot]
+[delay(time=2.5)]
+Come ponte tra le Anime morte e i narratori, Tin Man interviene di rado nello svolgersi delle storie; questa volta, però, ne fa parte anche lui.
+La sofferenza delle Anime morte penetra fin nell'anima, e Tin Man vuole provare a vedere se questa via illusoria possa liberarlo dalle catene antiche e irreversibili che porta addosso.
+Purtroppo, la pratica non porta alcun cambiamento.
+Per fortuna, si rende conto che quelle catene erano svanite molto prima che entrasse nella fornace.
+Se è già libero, che illuminazione può mai cercare? Così torna al suo posto, a osservare i narratori mentre danno vita alla storia.
+Quando però salta fuori un argomento che lo interessa, dice ancora volentieri la sua; poi asseconda le obiezioni degli altri e torna in silenzio.
+[Dialog]
+[charslot]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
+[delay(time=1)]
+[Image(image="pic_rogue_4_39", x=150,y=180, xScale=1.55, yScale=1.55)]
+[ImageTween(image="pic_rogue_4_39", xTo=260,yTo=160, duration=40)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+Nymph osserva ogni cambiamento. La ruota nera degli Anasa, più che una trasformazione, sembra un riconoscimento interiore.
+Pare che un Sarkaz diventi Anasa quando è disposto a lasciar andare l'ossessione per la sofferenza che gli si annida nel cuore fin dalla nascita.
+Eppure… Nymph ha aperto il proprio cuore, ha usato le chiavi per schiudere ogni ricordo impolverato e l'ha esaminato a fondo, ma non è riuscita a trovare la sua sofferenza.
+Con la vita a Kazdel sempre più bella, sembra che quelle sofferenze si siano sciolte e dissolte poco a poco.
+Non che Nymph debba per forza diventare Anasa, né il risveglio esercita su di lei un fascino particolare; vuole solo chiarire una cosa—
+Quell'“attaccamento all'io” nel profondo del cuore, quella parte dello spirito di cui perfino una Djall non sa nulla, che cos'è esattamente?
+La cosa la tormenta.
+[Dialog]
+[charslot]
+[delay(time=2.5)]
+Il Re dei Sarkaz risvegliato siede al fresco sotto un albero e accoglie con serenità i cambiamenti della terra.
+[multiline]Il vento che gli sfiora le orecchie, l'acqua che corre nel letto del fiume,
+[multiline(end=true)]la terra smossa dai germogli, il fuoco azzurro assopito nel cuore.
+Il tempo stravolge il mondo, tutto scorre e muta: la terra santa a un passo da qui potrebbe anche essere soltanto un rudere.
+Ogni cosa al mondo è un'illusione; e tra sé, che vi si trova immerso, e i discorsi che rivolge ai compagni, forse non c'è alcuna differenza.
+Eppure Qui'lon continuerà a parlare, continuerà ad agire. Tutti gli esseri soffrono: se anche solo poche sue parole potessero aiutare qualcuno a risvegliarsi e a salvarsi da sé—
+Le nubi si diradano, e Qui'lon si alza lentamente.
+[Dialog]
+[charslot]
+[PlaySound(key="$d_avg_clothmovement", volume=0.7)]
+[delay(time=2)]
+[ImageTween(image="pic_rogue_4_39", xTo=-300,yTo=-200, duration=20,block=false)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=1, g=1, b=1, fadetime=3, block=true)]
+[image]
+[delay(time=1)]
+[BackgroundTween(yFrom=0, yTo=-30, duration=5,block=false)]
+[gridbg(imagegroup="53_g16_sunnyday_L1/53_g16_sunnyday_R1/53_g16_sunnyday_L2/53_g16_sunnyday_R2", solidwidth="1280/1280/1280/1280", solidheight="720/720/720/720",x=-900,fadetime=2)]
+[largebgtween(duration = 30,yFrom = 300, yTo = 250,block = false)]
+[Blocker(a=0, r=1, g=1, b=1, fadetime=2, block=true)]
+[delay(time=2)]
+Al viaggio verso occidente manca ancora un passo. Kazdel—Katsidiya sarà la fine della storia? Qui'lon crede che ciascuno dei suoi fratelli abbia la propria risposta.
+Raccolgono i bagagli e si incamminano verso la terra santa degli Anasa.
+Se questa città potrà essere una risposta, che lo sia.
+[Dialog]
+[charslot]
+[stopmusic(fadetime=3)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
+[Image]

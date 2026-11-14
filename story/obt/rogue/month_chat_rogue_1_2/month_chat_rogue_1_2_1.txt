@@ -1,0 +1,18 @@
+[Title] MAIN_LOG_101_1
+//Vecchiaia e rinascita
+[Div] Part.01
+[Dialog(head="char_485_pallas", delay=0)]Nel Tempio degli Eroi si tramanda da sempre una leggenda.
+[Dialog(head="char_485_pallas", delay=0.5)]Narra che al sacerdote davvero devoto, impavido e valoroso sia concesso l'onore di stringere in mano l'Edera Sempreverde. Egli proteggerà i guerrieri che combattono per Minos, finché l'edera nella sua mano non avvizzirà…
+[Dialog(head="char_003_kalts", delay=1.5)]Nessuna pianta cresciuta in natura può restare davvero sempreverde, senza mai appassire.
+[Dialog(head="char_485_pallas", delay=0.5)]Ah, proprio così, proprio così! Che leggenda meravigliosa, e quanto crudele!
+[Dialog(head="char_485_pallas", delay=0.5)]Se è un'edera sempreverde, come può mai avvizzire?
+[Dialog(head="char_503_rang", delay=0.5)]Ah ah, le leggende sono fatte così, signorina sacerdotessa. Non serve rimuginarci troppo.
+[Dialog(head="char_503_rang", delay=0.5)]A proposito, anche questo vecchio ha sentito dire qualcosa di simile.
+[Dialog(head="char_485_pallas", delay=0.5)]Oh? Dev'essere una storia davvero affascinante, non è vero?
+[Dialog(head="char_503_rang", delay=0.5)]Risale a quando ero piccolo. Eh, è passato troppo tempo, non ricordo più bene.
+[Dialog(head="char_485_pallas", delay=0.5)]Oh, allora è una storia antica quanto un poema epico!
+[Dialog(head="char_503_rang", delay=0.5)]Non esageriamo. Ricordo solo che c'era un soldato venuto da un altro paese, che raccontava un sacco di storie a noi bambini.
+[Dialog(head="char_503_rang", delay=0.5)]Quel soldato parlava di un ramo secco da cui spuntavano di continuo nuovi germogli. Me ne sono ricordato solo adesso, sentendo parlare la signorina sacerdotessa.
+[Dialog(head="char_003_kalts", delay=2)]Quel soldato di cui parli veniva per caso da Gaul?
+[Dialog(head="char_503_rang", delay=0.5)]Proprio così. Lo sapevo che la dottoressa ne aveva sentito parlare.
+[Dialog(head="char_503_rang", delay=0.5)]A quei tempi Gaul era così potente, e oggi quasi nessuno la nomina più… Ah ah, sto divagando.

@@ -1,0 +1,27 @@
+[Title] MAIN_LOG_106_1
+[Div] Part.03
+[Dialog(head="char_208_melan", delay=1)]La Compagnia Cremisi.
+[Dialog(head="char_4025_aprot2", delay=0.5)]Sì, è la matrice di un biglietto per uno spettacolo della Compagnia Cremisi.
+[Dialog(head="char_338_iris", delay=0.5)]Però sopra non c'è scritto niente sullo spettacolo.
+[Dialog(head="char_4025_aprot2", delay=0.5)]Gli attori sono marionette dei loro ruoli, e il repertorio lo scelgono spontaneamente i ruoli stessi.
+[Dialog(head="char_4025_aprot2", delay=0.5)]Proprio per questo, quelle informazioni non hanno ragione di esistere.
+[Dialog(head="char_4025_aprot2", delay=1)]Signorina Iris, dove ha trovato questa matrice?
+[Dialog(head="char_338_iris", delay=0.5)]Tra i libri del Castello dei Sogni. Probabilmente ce l'ha lasciata la nonna, o qualche altro membro del Castello dei Sogni.
+[Dialog(head="char_4025_aprot2", delay=0.5)]Il Castello dei Sogni… quell'antica leggenda di Victoria?
+[Dialog(head="char_338_iris", delay=0.5)]Ah, ehm, sì, esatto.
+[Dialog(head="char_338_iris", delay=0.5)]Anche la Compagnia Cremisi è qualcosa del genere?
+[Dialog(head="char_4025_aprot2", delay=0.5)]Se questo può soddisfare la sua curiosità, posso darle una risposta chiara.
+[Dialog(head="char_4025_aprot2", delay=0.5)]Sì.
+[Dialog(head="char_4025_aprot2", delay=1)]Ma non è un bel sogno da fiaba per bambini: è una tragedia spaventosa, che può presentarsi in qualunque momento.
+[Dialog(head="char_208_melan", delay=1.5)]Signor Shalem, si sente bene?
+[Dialog(head="char_4025_aprot2", delay=0.5)]Perdonatemi, sembra che abbia reagito in modo un po' eccessivo.
+[Dialog(head="char_4025_aprot2", delay=0.5)]Ora che conosce la verità, che cosa intende farne, signorina Iris?
+[Dialog(head="char_338_iris", delay=0.5)]Forse dovrei rimetterla al suo posto?
+[Dialog(head="char_208_melan", delay=0.5)]Mi sembra una soluzione molto prudente.
+[Dialog(head="char_4025_aprot2", delay=0.5)]Fiu… la ringrazio, signorina Iris.
+[Dialog(head="char_338_iris", delay=1)]Oh, cielo, il tè si è raffreddato.
+[Dialog(head="char_338_iris", delay=0.5)]Le dispiacerebbe portarcene una tazza calda, signor Shalem?
+[Dialog(head="char_4025_aprot2", delay=0.5)](Sorride)
+[Dialog(head="char_4025_aprot2", delay=0.5)]Con piacere.
+
+

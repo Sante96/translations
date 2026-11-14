@@ -1,0 +1,124 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Image(image="pic_rogue_5_48",screenadapt="coverall",block=true)]
+[Delay(time=1)]
+[playMusic(intro="$ponder_intro", key="$ponder_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=0.5)]
+Zuo Le non aveva mai pensato di poter sconfiggere un Feranmut.
+Eppure ora sembra che sia proprio così.
+[Dialog]
+[Delay(time=1)]
+La Bestia Sui si allontana dalla vetta su cui si trovano e si contorce, rotolando nel cielo.
+Aveva letto negli antichi testi che, quando una “divinità” muore, cielo e terra si sconvolgono, le calamità si moltiplicano e la terra stessa piange.
+Ma a quanto pare, un Feranmut—
+…quando muore si trasforma in un libro?
+Spalanca gli occhi.
+Le squame della Bestia Sui si staccano e diventano pagine strappate; sul dorso affiora la carne viva, come un pesante libro aperto.
+Le pagine, ancora attaccate alla pelle del Feranmut, tremano impotenti; ogni carattere scritto sopra viene scagliato a mezz'aria e svanisce nel vento.
+E quella ferita mortale, ormai priva di ogni copertura, è esposta agli occhi di tutti.
+[Dialog]
+[PlaySound(key="$d_avg_hvygnthrtbt", volume=0, loop=true, channel="mhrt")]
+[SoundVolume(volume=1, fadetime=4,channel="mhrt")]
+[ImageTween(xFrom=0,xTo=70,xScaleFrom=1, yScaleFrom=1, xScaleTo=1.3, yScaleTo=1.3, duration=25, block=false)]
+[delay(time=3)]
+È il Suo cuore.
+Allora anche la Bestia Sui, come noi, ha un cuore che batte.
+Quel cuore ha il colore della luce del sole, e infonde calore.
+Rispetto al corpo della Bestia, che si dibatte con tutte le forze, il cuore batte piano, sereno.
+Come una donna immersa nel sonno, che attende in silenzio la propria fine.
+[Dialog]
+[StopSound(channel="mhrt", fadetime=1)]
+[delay(time=1.5)]
+…Un momento!
+Zuo Le si stropiccia gli occhi e torna a guardare con attenzione quel “cuore”.
+È sicuro di non essersi sbagliato—
+Lì dentro c'è una ragazza rannicchiata: corna sulla testa, coda alle spalle, mani coperte di decorazioni color terra.
+Le sue labbra si muovono. Che cosa sta dicendo, che cosa vuole dirci?
+Parole dimenticate? La verità di cento anni fa? O la fine che toccò a questa Bestia Sui?
+[stopmusic(fadetime=1)]
+No, no, questa non è “Sui”!
+Quegli occhi, quelle corna, quella coda!
+Ma questa è… questa è…!
+[Dialog]
+[PlaySound(key="$d_avg_drtywndblw", volume=1)]
+[delay(time=1.5)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
+[charslot]
+[image]
+[Background(image="63_mini04_mountaintop", screenadapt="coverall", block=true)]
+[delay(time=2)]
+[bgeffect(name="$eb_dim_openeye",layer=1)]
+[playMusic(key="$saferoom_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2.5, block=true)]
+[Delay(time=1.5)]
+[bgeffect]
+[charslot(slot="m",name="avg_npc_1870_1#1$1",focus="m")]
+[name="Liang"]Signor Zuo, sta bene?
+[Dialog]
+[charslot]
+[Delay(time=0.2)]
+[PlaySound(key="$d_avg_cloakmovement", volume=1)]
+[charslot(slot="m",name="avg_4121_zuole_1#10$1",duration=1)]
+[Delay(time=1.5)]
+[charslot(slot="m",name="avg_4121_zuole_1#10$1",focus="m")]
+[name="Zuo Le"]Ugh… eh? Siamo già fuori?
+[charslot(slot="m",name="avg_npc_1870_1#1$1",focus="m")]
+[name="Liang"]Il rito di quest'anno si è concluso senza intoppi. Prenda questo righello come sigillo: potete tornare a fare rapporto.
+[charslot(slot="m",name="avg_4121_zuole_1#10$1",focus="m")]
+[name="Zuo Le"]Grazie…
+[name="Zuo Le"]Mi scusi, ma ciò che abbiamo visto poco fa nel tempio…
+[charslot(slot="m",name="avg_npc_1870_1#1$1",focus="m")]
+[name="Liang"]Che cosa ha visto?
+[charslot(slot="m",name="avg_4121_zuole_1#3$1",focus="m")]
+[name="Zuo Le"]Mi pare… di aver visto… qualcosa di strano… non saprei dirlo…
+[Dialog]
+[charslot]
+Zuo Le si sente stordito: la scena di poco prima sembra un sogno, e quei frammenti fugaci non c'è modo di ricomporli in un ricordo completo.
+[Dialog]
+[charslot(slot="m",name="avg_npc_1870_1#1$1",focus="m")]
+[name="Liang"]Desiderate che vi accompagni giù dalla montagna?
+[charslot(slot="m",name="avg_4121_zuole_1#1$1",focus="m")]
+[name="Zuo Le"]Non serve. Con permesso.
+[Dialog]
+[PlaySound(key="$d_gen_walk_n",volume=0.6)]
+[charslot(slot = "m",posfrom = "0,0", posto = "-100,0",duration =2)]
+[charslot(slot = "m",afrom = 1, ato = 0,duration = 1)]
+[delay(time=2.5)]
+[PlaySound(key="$d_avg_runstop", volume=0.4)]
+[charslot(slot="m",name="avg_4121_zuole_1#10$1",duration=0.5)]
+[Delay(time=1.5)]
+[charslot(slot = "m",afrom = 1, ato = 0,duration =0)]
+Zuo Le si volta a guardare il tempio, che ha il portone spalancato.
+Oltre il rappresentante di Sui che, davanti alla porta, ha estratto di nuovo dalla manica un righello di giada e ci gioca, gli pare di scorgere la stele d'inchiostro che i visitatori gli hanno consegnato, ora posata sull'altare.
+E sopra l'altare sembra esserci un ritratto dal volto indistinto.
+[Dialog]
+[charslot(slot = "m",afrom = 0, ato = 1,duration =0)]
+[charslot(slot="m",name="avg_4121_zuole_1#10$1",focus="m")]
+[name="Zuo Le"]……
+[Dialog]
+[stopmusic(fadetime=3)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2.5, block=true)]
+[charslot]
+[Background(image="bg_black", screenadapt="coverall", block=true)]
+[delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]
+“Chi l'avrebbe detto… l'hanno trovata davvero.”
+Quando i visitatori sono ormai lontani, Yi lascia andare un sospiro appena percettibile, battendo piano il righello di giada sul palmo.
+[Dialog]
+[name="Liang"]In cento anni, sono i primi che riescono a entrare in questo tempio.
+[name="Yi"]Un incontro così fortunato è raro e prezioso…
+[name="Yi"]L'inchiostro l'abbiamo trovato, ma se non troviamo il modo di metterlo per iscritto, sarà stata tutta fatica sprecata.
+[name="Yi"]Liang, chiudi la porta.
+[Dialog]
+[delay(time=0.5)]
+[PlaySound(key="$d_avg_gatecloz", volume=1)]
+[delay(time=1.5)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Image]

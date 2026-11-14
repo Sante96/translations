@@ -1,0 +1,103 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background(image="24_RL_castlehall",screenadapt="coverall")]
+[Delay(time=1)]
+[PlayMusic(intro="$ponder_intro", key="$ponder_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[delay(time=2)]
+Il “Portavoce della compagnia” crolla sul palcoscenico.
+I fili che teneva in mano si spargono a terra, fitti e intricati come una ragnatela.
+Con quelli manovrava i meccanismi del castello e le sue malvagie marionette.
+Ma ora, con la caduta di questo ex membro della compagnia, è tutto finito.
+Phantom tira un sospiro di sollievo.
+Metà della sua vita è stata dominata dalla Compagnia Cremisi, e ora, ancora una volta, si è liberato delle sue catene.
+“La farsa è finita: è ora che la vita torni alla sua quiete.”
+Così pensa Phantom.
+Eppure…
+Le luci si accendono, il sipario si apre.
+Il palcoscenico sta ancora aspettando qualcosa.
+Senza rendersene conto, prende la sedia del Portavoce e la mette al centro del palco.
+Si siede, riflette, tace.
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[Subtitle(text="“Canta, canta.”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[subtitle]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[delay(time=1)]
+Una vocina gli risuona nella testa.
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[Subtitle(text="“Per te stesso.”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[subtitle]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[delay(time=1)]
+……
+Una sillaba sfugge dalle labbra di Phantom.
+Una, e poi un'altra.
+Subito dopo vengono le parole, poi un'aria.
+Il palco non è più muto: il primo attore canta a piena voce.
+Al suono di quella melodia ariosa, dall'ombra giungono rumori appena percettibili.
+Gli rispondono, cantano con lui.
+Anche l'annunciatore a terra si rialza, getta via i fili che aveva in mano e va a prendere il suo posto sul palco.
+[dialog]
+[character(name="avg_npc_291",blackstart=0.2,blackend=0.7,block=true)]
+[name="'Troupe Mouthpiece'"]…Gli attori sono al loro posto.
+[character(name="avg_npc_291")]
+[name="'Troupe Mouthpiece'"]…Anch'io devo, adempiere al mio dovere.
+[musicvolume(volume=0.2, fadetime=1)]
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character]
+……
+Shalem ha già sentito la voce: basta trovare Phantom, e la missione sarà compiuta.
+Spalanca il portone.
+[dialog]
+[Background(image="24_RL_castlehall",screenadapt="coverall")]
+[Delay(time=1)]
+[PlaySound(key="$d_avg_gateopen")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[musicvolume(volume=0.4, fadetime=1)]
+[Character(name="avg_npc_291",fadetime=1.5)]
+[delay(time=2)]
+[name="'Troupe Mouthpiece'"]Oh, il primo ospite.
+[Character(name="avg_4025_aprot2_1#4$1")]
+[name="Shalem"]Ma… come hai potuto…
+[Character(name="avg_npc_291")]
+[name="'Troupe Mouthpiece'"]Entrambi i figli smarriti sono tornati tra le braccia della compagnia.
+[name="'Troupe Mouthpiece'"]Rallegriamoci.
+[name="'Troupe Mouthpiece'"]Ebbene, qui dichiaro…
+[name="'Troupe Mouthpiece'"]Che lo spettacolo abbia inizio.
+[Dialog]
+[Character]
+[Image(image="24_RL03", fadetime=1, xScale=1.1, yScale=1.1)]
+[ImageTween(image="24_RL03", fadetime=1,xScaleTo=0.9, yScaleTo=0.9, duration=20)]
+[delay(time=3)]
+Davanti agli occhi di Shalem, gli incubi del passato riaffiorano uno a uno sul palcoscenico:
+Il cocchiere alza la lunga frusta.
+L'annunciatore sta ritto, superbo.
+L'attrezzista calibra i suoi strumenti.
+Il tecnico delle luci dà ordini a gran voce.
+Lo chef affila i coltelli.
+Il maggiordomo resta in silenzio.
+Il drammaturgo scrive a testa bassa.
+L'“Ombra” fluttua, inafferrabile.
+Le lame di “Danzalame” mandano gelidi bagliori.
+“Fiorbianco” ha un gran sorriso stampato in faccia.
+Quanto al capocomico in persona, sta fissando Shalem.
+Tutti i membri della compagnia si nascondono nell'ombra del palcoscenico, con gli occhi che brillano di rosso.
+L'unico illuminato dalla luce è Lucian, il “Diamante di sangue”.
+Si schiarisce la voce.
+Sta…
+per cantare.
+[Dialog]
+[Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[stopmusic(fadetime=3)]
+[Character]
+[Image]

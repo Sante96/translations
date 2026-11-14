@@ -1,0 +1,86 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background(image="63_mini04_mountaintop",screenadapt="coverall", block=true)]
+[Delay(time=1)]
+[playMusic(key="$wasteland_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+[delay(time=2)]
+Cielo vermiglio, terra scarlatta, monti tinti di rosso.
+La ferocia di questa guerra non si può più descrivere a parole.
+[dialog]
+[playsound(key="$smallearthquake", volume=0.3)]
+Il corpo della Bestia Ju è sparso ai quattro venti: questo Feranmut, che aveva lottato per fermare la guerra, ne è diventato alla fine la vittima sacrificale.
+La Bestia Hou giace prona, e l'albero gigante che Le era cresciuto sul dorso è avvizzito. Dal Suo corpo nasce un'ultima ribellione: un nastro di luce a forma di farfalla trafigge la Bestia Sui, attonita, poi vola lontano e da allora scompare da ogni cronaca.
+E chi ha dato inizio a tutto questo, il “vincitore” finale di questa lotta atroce, ora è coperto di ferite e precipita al suolo.
+[dialog]
+[charslot(slot="m",name="avg_4196_reckpr_1#1$1",focus="m",duration=1)]
+[delay(time=2)]
+Lin Qingyan e Zuo Le si sono lanciati in prima linea, lasciando Yun Qingping da solo nelle retrovie.
+Lui registra con precisione tutto ciò che accade qui: anche se poi, come nel Tempio Jianzi, delle sue note e dei loro ricordi non resterà traccia, lo farà comunque.
+È il suo dovere.
+Ciò che accadrà dopo, la storia lo ha già messo per iscritto: la Grande Yan conferisce per decreto titoli agli dèi, la Bestia Sui si addormenta, sorge la città di Baizao e comincia un'epoca di pace e prosperità.
+[dialog]
+[charslot]
+[delay(time=1)]
+Poco dopo, il Vero Drago esce dall'accampamento scortato dalla Guardia imperiale e si dirige verso la testa della Bestia Sui. Yun Qingping, intanto, raggiunge la prima linea e trova Lin Qingyan e Zuo Le.
+Grazie a questo lungo rotolo hanno visto quel ricordo, nelle profondità della coscienza della Bestia Sui. Forse, dal momento in cui sono entrati nel Mausoleo, il senso dell'intero rito era già cambiato.
+Ma ancora adesso gli esseri umani non sanno come quel rotolo potrà aiutarli a uscire dalle difficoltà del presente.
+Il Vero Drago si ferma davanti alla Bestia Sui e osserva quella mole immensa.
+Si trova in un punto da cui non deve né alzare lo sguardo verso il corpo di una divinità, né abbassarlo su un insetto sconfitto: ha scelto apposta una posizione da pari, per guardare il suo “alleato”.
+Dopo una breve riflessione, il Vero Drago prende la parola e proclama il destino degli dèi; e poi—
+Il rotolo si richiude e torna nella sua custodia.
+……
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Background(image="58_g7_forbiddencity",screenadapt="coverall")]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+I Reggicandela e i Maestri Celesti che hanno preso parte all'operazione affidano il rotolo alla Sovrintendenza di Sui; intanto, i Maestri Celesti incaricati di sorvegliare il Mausoleo trasmettono i dati a Baizao.
+Il risveglio della Bestia Sui resta inevitabile, ma la Sua natura, che trascende causa ed effetto, sembra essere in parte cambiata.
+La correzione apportata alla storia dagli esseri umani entrati nei ricordi della Bestia Sui, grazie alla creazione del rappresentante di Sui, si è impressa a fondo nella Sua mente.
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot]
+Forse, da questo momento, la Grande Yan ha una soluzione del tutto nuova alla questione della Bestia Sui.
+[dialog]
+[delay(time=2)]
+Nel Padiglione dei Tesori del Giardino delle Grottesche, Yi srotola lentamente un rotolo.
+[dialog]
+[Image(image="pic_rogue_5_59",screenadapt="coverall",fadetime=0,block=true)]
+[ImageTween(xScaleFrom=1.2, yScaleFrom=1.2, xScaleTo=1, yScaleTo=1, duration=20, block=false)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=1)]
+Per forma e dimensioni è identico a quello custodito dalla Sovrintendenza di Sui.
+Ma, mentre questo dipinto si svolge, nel punto che dovrebbe essere vuoto riappare l'epilogo della grande caccia.
+Il Feranmut che un tempo tagliava in due monti e fiumi, su questo foglio dipinto conserva ancora un'aria maestosa, ma non è più irraggiungibile come allora: assediato dagli esseri umani, non può sfuggire al destino di essere annientato.
+Più avanti, la Bestia Hou si trasforma in farfalle, la Bestia Sui precipita: ogni singolo evento coincide con quanto riportano le cronache, solo che—
+Nella scena in cui avrebbe dovuto investire gli dèi dei loro titoli, il Vero Drago fa invece una promessa: concede alla Bestia Sui l'identità di essere umano.
+Un tempo la Grande Yan temeva gli dèi, temeva il potere che avevano nelle mani di stravolgere cielo e terra.
+Per questo, con editti imperiali, li fece trucidare, scacciare, sigillare.
+Ma ora, dopo aver infuso nel passato, tramite il rotolo, la sapienza e lo spirito accumulati in mille e più anni, la Grande Yan ha una nuova scelta.
+Si sradica il male per paura; ma se l'uomo ha già superato il cielo da tempo, perché non si potrebbe perdonare, perché non si potrebbe accogliere?
+[dialog]
+[Image(image="pic_rogue_5_60",screenadapt="coverall",fadetime=2,block=true)]
+Yi continua a svolgere il dipinto.
+Lì dove avrebbe dovuto essere dipinta la Bestia Sui, ora resta solo una goccia d'inchiostro sbavata.
+Ma questa goccia d'inchiostro è davvero sul rotolo, e non è come le tante immagini illusorie di prima.
+Che rappresenti i ricordi della Bestia Sui, i suoi dubbi o quell'umanità rimasta incompiuta, di una cosa Yi è certo—
+Basta questa goccia, solo questa goccia, e se ne potranno trarre caratteri, scrivere libri, fondare scuole di pensiero, diventare esseri umani.
+E allora— Yi ci pensa un attimo, poi porta il rotolo al Tempio Jianzi.
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
+[charslot]
+Davanti al portone del tempio intinge le dita in nuvole e pioggia, sfiora la macchia d'inchiostro sul lungo rotolo e poi, quasi per prova, preme il dito sulla tavola con il nome del tempio.
+E così, per la prima volta in centoventi anni, su quel tempio resta il segno di una parola scritta.
+[Dialog]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2.5, block=true)]
+[stopmusic(fadetime=2)]
+[charslot]
+[Image]

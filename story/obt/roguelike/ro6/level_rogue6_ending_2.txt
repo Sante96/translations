@@ -1,0 +1,124 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background(image="75_mini05_provingground",screenadapt="coverall")]
+[Delay(time=1)]
+[PlayMusic(intro="$suspenseful_intro", key="$suspenseful_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=1)]
+Gli agenti della Maylander trattengono il fiato.
+Si aspettavano che quello che il ministero della Difesa e il Governo di coalizione stavano sviluppando fosse una superarma oltre ogni immaginazione, ma non avrebbero mai pensato che l'intero sito sperimentale fosse così vasto.
+Pur avendo visto i filmati top secret su “Theory-3”, davanti a un colosso simile non possono fare a meno di sentirsi minuscoli.
+Per arrivare fin qui hanno già fatto scattare parecchie trappole a sensori e si sono sfiancati a tenere testa ai sistemi di difesa automatici: a questo punto, continuare a nascondersi non ha più senso.
+[dialog]
+[PlaySound(key="$d_avg_crossbowbolts_fire", volume=0.85, channel="c1")]
+[PlaySound(key="$d_avg_crossbowbolts_fire", volume=0.8, channel="c2", delay=0.35)]
+[PlaySound(key="$d_avg_crossbowbolts_fire", volume=0.75, channel="c3", delay=0.7)]
+[delay(time=1)]
+[name="Agente impaziente della Maylander"]Ferma! Mani in alto, allontanati da quelle apparecchiature sospette e vieni avanti piano.
+[name="Agente calmo della Maylander"]Con quello che hai fatto sei già sospettata di diversi reati: fabbricazione di armi di distruzione, alto tradimento, rivelazione di segreti di Stato e altro ancora.
+[dialog]
+[charslot(slot="m",name="avg_4229_aphris_1#9$1",duration=1.5)]
+[Delay(time=1.5)]
+[charslot(slot="m",name="avg_4229_aphris_1#9$1",focus="m")]
+[name="Lorenz"]Mm? E allora non ci mettete anche roba come aver aiutato gente venuta da oltre il cielo e aver cospirato per rovesciare il governo di Columbia?
+[charslot(slot="m",name="avg_4229_aphris_1#9$1",focus="n")]
+[name="Agente impaziente della Maylander"]Non fare la spiritosa. Confessa da brava e sottoponiti al nostro interrogatorio: è l'unica via d'uscita che ti resta.
+[charslot(slot="m",name="avg_4229_aphris_1#9$1",focus="m")]
+[name="Lorenz"]Sembra il discorsetto di un poliziotto. Tranquilli, sono più che disposta a collaborare. Solo che… non dovreste anche fare un'offerta adeguata, invece di limitarvi alle minacce?
+[charslot(slot="m",name="avg_4229_aphris_1#9$1",focus="n")]
+[name="Agente impaziente della Maylander"]Credi che non sappiamo che cosa state combinando voialtri al soldo del ministero della Difesa? Tecoma non è una terra senza legge!
+[charslot(slot="m",name="avg_4229_aphris_1#9$1",focus="m")]
+[name="Lorenz"]Oh? Vuoi dire che per più di dieci anni Columbia ha sempre saputo che cosa succedeva davvero a Tecoma?
+[charslot(slot="m",name="avg_4229_aphris_1#1$1",focus="m")]
+[name="Lorenz"]La Fondazione Maylander, il governo di Columbia… in tutti questi anni hanno sempre saputo quello che accadeva in questa piccola città, a Tecoma?
+[charslot(slot="m",name="avg_4229_aphris_1#1$1",focus="n")]
+[name="Agente impaziente della Maylander"]Modera i toni e rimangiati le tue insinuazioni. Adesso sei tu a dover rispondere di questi crimini.
+[charslot(slot="m",name="avg_4229_aphris_1#1$1",focus="m")]
+[name="Lorenz"]Per che cosa? Per queste apparecchiature? Non riuscite nemmeno a capire a che cosa servano, eppure volete condannarmi in segreto, come avete fatto con Robert Lorenz?
+[charslot(slot="m",name="avg_4229_aphris_1#1$1",focus="n")]
+[name="Agente impaziente della Maylander"]Abbiamo visto tutti la distruzione. Non c'è prova più convincente.
+[charslot(slot="m",name="avg_4229_aphris_1#1$1",focus="m")]
+[name="Lorenz"]E se “Theory-3”, in origine, non fosse stata creata per distruggere?
+[name="Lorenz"]E se Robert Lorenz avesse provocato quel disastro proprio per eliminare l'arma, e la vera funzione di quell'arma fosse ancora più spaventosa?
+[charslot(slot="m",name="avg_4229_aphris_1#1$1",focus="n")]
+[name="Agente impaziente della Maylander"]Non cambiare discorso. Non sono affari tuoi, e nemmeno nostri. Adesso alza subito le mani e vieni qui senza fare storie.
+[charslot(slot="m",name="avg_4229_aphris_1#11$1",focus="m")]
+[name="Lorenz"]Io… mi rifiuto.
+[charslot(slot="m",name="avg_4229_aphris_1#11$1",focus="n")]
+[name="Agente calmo della Maylander"]Squadra, uscite allo scoperto! Va presa viva, a ogni costo!
+[Dialog]
+[stopmusic(fadetime=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Background(image="bg_black",screenadapt="coverall")]
+[Delay(time=1)]
+[name="Lorenz"]Mi sa che avete frainteso qualcosa.
+[dialog]
+[charslot]
+[Image(image="pic_rogue_6_42", screenadapt="coverall", fadetime=2, block=true)]
+[Delay(time=1)]
+[PlayMusic(key="$darkness_03_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[name="Lorenz"]Queste apparecchiature funzionano già da tempo nel modo corretto. Aspettano solo che la transizione di fase raggiunga il punto critico.
+[name="Lorenz"]Con che diritto pensate di potermi giudicare? Me, che fin da bambina Columbia ha abbandonato in una cittadina piena di morti che camminano?
+[name="Lorenz"]Sapevate tutto, eppure non avete mai pensato di salvare i bolivariani, e nemmeno i columbiani che vivevano lì.
+[name="Lorenz"]In più di dieci anni una bambina fa in tempo a diventare adulta. Avete lasciato una bambina chiusa in una gabbia piena di belve mangiauomini, e dopo più di dieci anni volete processarla.
+[name="Lorenz"]Solo perché ha creato qualcosa che voi non riuscite a capire, e che quelle bestie venerano?
+[name="Lorenz"]Anche la stupidità e la sfacciataggine dovrebbero avere un limite.
+[name="Agente impaziente della Maylander"]Che succede? Non riesco a muovermi, è come se l'aria mi avesse inchiodato sul posto…
+[name="Agente calmo della Maylander"]Non fare sciocchezze. Capiamo la tua situazione, ma non devi provocare altra sofferenza…
+[name="Lorenz"]Non l'avevo detto? Non ho nessuna intenzione di provocare altra sofferenza, quindi non avete motivo di giudicarmi. Sono riuscita a modificare la logica di funzionamento di “Theory-4”.
+[name="Lorenz"]Quello che è successo più di dieci anni fa non si ripeterà. Non dovete stare in ansia per qualche complotto del ministero della Difesa e del Governo di coalizione.
+[name="Lorenz"]Vi garantisco che avrete le prove che cercate. Ma di certo non saranno la deposizione in tribunale di una povera ragazza che Columbia ha dimenticato per più di dieci anni.
+[name="Lorenz"]Tornate da dove siete venuti. La vostra missione è compiuta.
+[Dialog]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[Blocker(a=0.3, r=255, g=255, b=255, fadetime=2.5, block=true)]
+[delay(time=1)]
+[charslot(slot="m",name="avg_4229_aphris_1#1$1",bstart=0.2,bend=0.8,focus="m")]
+[name="Lorenz"]Seguendo il Flusso Nero, tornerò alle fasce ancora tiepide, ai tempi lontani in cui questa terra si poteva ancora chiamare “neonata”.
+[Dialog]
+[stopmusic(fadetime=2)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=2, block=true)]
+[charslot]
+[Image]
+[Delay(time=1)]
+[Image(image="pic_rogue_6_41", screenadapt="coverall",block=true)]
+[Delay(time=1)]
+[playMusic(key="$saferoom_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[Image(image="pic_rogue_6_40", screenadapt="coverall", fadetime=3, block=false)]
+[PlaySound(key="$d_gen_walk_n")]
+[Delay(time=2)]
+[name="Lorenz"]Sono in ritardo? Com'è andata la chiacchierata?
+[name="Beagle"]Signorina Lorenz? Ma che cos'è tutto questo…
+[name="Lorenz"]Finalmente ho sbrigato tutto il lavoro che mi stava addosso. In parole povere, ho ricostruito più o meno mezza Foresta del Flusso Nero.
+[name="Beagle"]Eh?
+[name="Lorenz"]Anche a me pare una spiegazione un po' scarna, ma salterò la noiosa parte teorica. Insomma, ho corretto la logica che faceva sanguinare questo bestione all'infinito.
+[name="Lorenz"]Era destinato a essere manipolato e trasformato in un'arma terrificante. Se fosse successo, avrebbe potuto riempire di segugi un'intera città mobile in un istante.
+[name="Beagle"]Ma…
+[name="Lorenz"]Questo non è accaduto, ma a prezzo della sua forza vitale. La logica del dispositivo di controllo era stata modificata all'ultimo momento, trasformandolo in una semplice bomba di informazioni.
+[name="Lorenz"]Il suo corpo è stato squarciato, e il Flusso Nero è il suo sangue: è da lì che nascono i segugi. Sbranano tutto ciò che c'è su questa terra, lo scompongono in informazioni e lo riportano al corpo madre per ripararlo.
+[name="Lorenz"]Ma prima che potessero tornare al corpo madre, i segugi sono stati assoggettati da una tecnologia simile e addomesticati come armi viventi…
+[name="Beagle"]Quindi è questo che sono davvero quei segugi…
+L'enorme creatura abbassa la testa, come se si ritraesse d'istinto al ricordo di un dolore senza fine.
+[name="Lorenz"]E tu, signorina Beagle… la tua “anima”, dopo la tua morte, è arrivata nel suo corpo seguendo il Flusso Nero, come succede a molti malati di morbo del segugio in fase terminale.
+[name="Lorenz"]Quasi tutte le “anime”, una volta arrivate qui, vengono scomposte del tutto in Flusso Nero—è ciò che richiede quell'opera di riparazione—e poi il Flusso Nero le rimodella in segugi.
+[name="Lorenz"]Come un reagente versato tra i liquidi di scarto non si può più recuperare, così le loro “anime” cessano di esistere.
+[name="Lorenz"]Sono davvero sollevata di aver costruito almeno quel dispositivo di arresto e di aver conservato la tua “anima”.
+[name="Lorenz"]Ho letto alcune leggende e alcuni testi poco noti secondo cui le anime delle persone diventano bestie affini, ma per la sciagura immeritata che ha colpito questo bestione quel processo si è distorto.
+[name="Lorenz"]Ma ora ho rimodellato il concetto della sua “ferita insanabile”, e lui è riemerso dall'abisso del dolore ritrovando la coscienza di sé.
+[name="Lorenz"]D'ora in poi non lascerà più che il suo sangue scorra senza fine solo per generare nuovi segugi.
+[name="Lorenz"]Già che c'ero, ho anche ricomposto le mie informazioni, che si erano disperse nell'impatto, e mi sono trasformata in una forma di vita simile alla sua.
+[name="Beagle"]Eh? Si può fare una cosa del genere? Ma… è sicuro?
+[name="Lorenz"]Per distruggere certe invenzioni terribili bisogna sempre pagare un prezzo. Ma piuttosto che lasciare che la mia “anima” venisse ridotta in polvere e sparisse, tanto valeva volgere quell'energia a mio favore.
+[name="Lorenz"]Essere così ha un sacco di vantaggi: finalmente avrò una vera libertà accademica. State a vedere: da adesso in poi, per certi tizi saranno guai.
+[Dialog]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2.5, block=true)]
+[stopmusic(fadetime=2)]
+[charslot]
+[Image]

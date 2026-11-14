@@ -1,0 +1,109 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[stopmusic]
+[Dialog]
+[Background]
+[Dialog]
+[PlaySound(key="$d_avg_snowstormlp", volume=1, loop=true, channel="bgs")]
+[PlayMusic(intro="$drift_intro", key="$drift_loop", volume=0.7)]
+[Image(image="pic_rogue_3_31", x=-60,y=0, xScale=0.9, yScale=0.9)]
+[ImageTween(image="pic_rogue_3_31", xTo=0,yTo=0, xScaleTo=0.85, yScaleTo=0.85, duration=40)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+[delay(time=1)]
+“Dove sei diretta?”
+[name="Magallan"]——
+Magallan si guarda intorno allarmata e si copre le orecchie.
+Sto sentendo delle voci?
+Esce dai monti del Fjal Vetrtonn, e i ghiacci le si stendono davanti agli occhi.
+Tra cielo e terra rimbomba la tormenta, e il suo ruggito le trapassa il corpo.
+Il tremito della lotta tra le rocce di terra gelata e il ghiaccio eterno le sale dai piedi, e il freddo le sferza il viso.
+Ormai la tormenta l'ha inghiottita.
+Non riesce a escludere quella voce.
+[dialog]
+[Blocker(a=1, r=1, g=1, b=1, fadetime=2, block=true)]
+[Background]
+[Dialog]
+[Image(image="pic_rogue_3_28", x=-60,y=0, xScale=1, yScale=1)]
+[ImageTween(image="pic_rogue_3_28", xTo=0,yTo=0, xScaleTo=0.85, yScaleTo=0.85, duration=40)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=false)]
+[delay(time=1)]
+“Dove sei diretta?”
+[name="Magallan"]……
+Uno sguardo pesante come un macigno si posa sulla giovane straniera.
+Eppure lei non si sente oppressa, come sotto un interrogatorio: sente piuttosto il desiderio di confidarsi con quell'antica volontà.
+[name="Magallan"]Io… voglio esplorare l'ignoto.
+“Su che cosa conti, per andare avanti?”
+[name="Magallan"]Mmh…
+[name="Magallan"]Curiosità, coraggio, conoscenza, tecnica.
+[name="Magallan"]E poi… l'esperienza di chi è venuto prima di me, e l'aiuto dei miei amici di Sami.
+[name="Magallan"]Prima che la spedizione scientifica congiunta partisse, nella dichiarazione c'era scritto perfino che portavamo sulle spalle “la missione di aprire il futuro a tutta l'umanità”.
+[name="Magallan"]—Lusinga parecchio l'orgoglio, ma una frase del genere è troppo grande per me, eh eh. Un desiderio resta solo un desiderio.
+[name="Magallan"]Ecco, per me conta anche il desiderio.
+“Che cosa desideri portare via con te?”
+[name="Magallan"]Campioni ecologici, dati, appunti, foto…
+[name="Magallan"]Le conoscenze su Sami, la chiave che apre la via ai ghiacci.
+[name="Magallan"]E poi… me stessa!
+[name="Magallan"]Il mio insegnante dice che, durante una spedizione scientifica, la cosa più importante in assoluto è sopravvivere. Solo così si può portare agli altri ciò che si è raccolto, e tramandare il sapere.
+[name="Magallan"]……
+[name="Magallan"]Anch'io ho una domanda.
+[name="Magallan"]È Lei… Sami in persona?
+D'improvviso, il suono del vento sui ghiacci si fa più nitido.
+Lo spirito protettore la lascia uscire dal proprio abbraccio.
+Ha accolto la straniera, e la considera Sua figlia.
+Per questo la spinge verso il gelo e la tormenta dei ghiacci, verso il destino che il popolo di Sami accoglie con calma e fierezza.
+[name="Magallan"]…A dire la verità, all'inizio non ne ero tanto sicura, perché non esistono testimonianze di Sami che parli con degli stranieri.
+[name="Magallan"]Anche la gente di Sami dice che Lei dorme, e che fa sentire la Sua voce molto di rado.
+[name="Magallan"]Padre degli spiriti ancestrali… anche in passato ha posto domande come queste ad altri?
+[name="Magallan"]E gli esploratori che Le hanno risposto, dove sono andati poi?
+[dialog]
+[stopmusic(fadetime=2)]
+[stopSound(channel="bgs",fadetime=2)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
+[Background]
+[delay(time=1)]
+[Dialog]
+[Image]
+[charslot(slot = "m", name = "avg_248_mgllan_1#7$1")]
+[Background(image="40_g2_glacier",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+[PlaySound(key="$d_avg_snowstormflp", volume=1, loop=true, channel="bgs",fadetime=1)]
+[PlayMusic(intro="$newhope02_intro", key="$newhope02_loop", volume=0.7,fadetime=1,crossfade=1)]
+[delay(time=1)]
+[charslot(slot = "m", name = "avg_2012_typhon_1#6$1")]
+[name="Typhon"]Appena superati i monti del Fjal Vetrtonn, il tempo diventa terribile. Uff, proprio come adesso.
+[charslot(slot = "m", name = "avg_2012_typhon_1#1$1")]
+[name="Typhon"]Tutto bene, Maggy?
+[charslot(slot = "m", name = "avg_248_mgllan_1#7$1")]
+[name="Magallan"]Ormai i ghiacci non mi sono più tanto estranei, eh.
+[charslot(slot = "m", name = "avg_2012_typhon_1#1$1")]
+[name="Typhon"]Uff, allora prima eri davvero solo imbambolata?
+[charslot(slot = "m", name = "avg_248_mgllan_1#4$1")]
+[name="Magallan"]Eh?! Stavo solo pensando a una cosa!
+[dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Dialog]
+[Background]
+[Dialog]
+[Image(image="pic_rogue_3_31",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=false)]
+[delay(time=1)]
+[name="Magallan"]…Come diceva Simone, non ha senso che solo la gente di Columbia ami esplorare, che Ursus pensi solo ad allargare i suoi territori e che il popolo di Sami non abbia nessuna curiosità per il mondo esterno.
+[name="Magallan"]In ogni epoca ci saranno senz'altro esploratori che vorranno valicare le montagne, lasciare l'abbraccio di Sami e incamminarsi verso i ghiacci sconfinati.
+[name="Santalla"]Certo.
+[name="Santalla"]I guerrieri di Sami sono taciturni e conservatori, ma se qualcuno lo desidera, la volontà di Sami non lo ostacola.
+[name="Santalla"]Che c'è?
+[name="Magallan"]Eh eh, niente. Andiamo.
+Non le dice che le sembra di aver ricevuto, come in trance, una risposta evidente di per sé, e insieme di aver ascoltato migliaia di racconti di una storia lunghissima.
+In un attimo ha appreso innumerevoli nomi mai registrati negli annali: quegli esploratori non erano più tornati.
+E il volto dei ghiacci sconfinati non si è fatto quasi per niente più chiaro.
+Anche così, vuole andare avanti?
+Sami non aspetta più la risposta, e le montagne svaniscono lentamente nella tormenta alle sue spalle.
+Davanti a lei, soltanto un bianco argenteo senza confini e un'ombra che non ha fine.
+[Dialog]
+[charslot]
+[stopSound(channel="bgs",fadetime=2)]
+[stopmusic(fadetime=3)]
+[Blocker(a=1, r=1,g=1, b=1, fadetime=3, block=true)]
+[Image]
+[delay(time=1)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=0, block=true)]

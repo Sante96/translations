@@ -1,0 +1,22 @@
+[Title] MAIN_LOG_103_1
+[Div] Part.03
+[Dialog(head="char_260_durnar", delay=1)]Avete mai sentito la storia dei “Martelli Arrugginiti”?
+[Dialog(head="char_2013_cerber", delay=0.5)]Mmh… Ceobe non l'ha mai sentita.
+[Dialog(head="char_260_durnar", delay=0.5)]Sono predoni estremisti; si dice che ce ne siano in ogni paese e in ogni regione.
+[Dialog(head="char_260_durnar", delay=1)]Pianificano ogni rapina nei minimi dettagli, e come tattica non hanno niente da invidiare a certe milizie cittadine.
+[Dialog(head="char_260_durnar", delay=1)]E combattono in modo assolutamente folle: spesso i mercenari di scorta alle carovane se la fanno sotto prima ancora di muovere un dito. 
+[Dialog(head="char_260_durnar", delay=1)]Quando ero nell'esercito, erano nemici davvero ostici.
+[Dialog(head="char_379_sesa", delay=1)]Si vedono spesso anche nei dintorni di Sargon. Ma lì i Martelli Arrugginiti non derubano per forza le carovane di passaggio.
+[Dialog(head="char_379_sesa", delay=0.5)]Anzi, a volte aiutano di loro iniziativa chi è rimasto bloccato nelle terre selvagge.
+[Dialog(head="char_260_durnar", delay=0.5)]A sentirti, se i Martelli Arrugginiti di Sargon incontrassero quelli di Columbia, finirebbero per darsele di santa ragione.
+[Dialog(head="char_379_sesa", delay=0.5)]È “la barbarie che si ribella alla civiltà” o “la civiltà che plasma la barbarie”? Questo è il problema.
+[Dialog(head="char_260_durnar", delay=0.5)]Bella domanda, davvero…
+[Dialog(head="char_2013_cerber", delay=1)]I “Martelli Arrugginiti” di cui parlate sono quelli coi vestiti rotti che vivono nelle tende?
+[Dialog(head="char_2013_cerber", delay=0.5)]Hanno diviso il cibo con Ceobe, sono brave persone! 
+[Dialog(head="char_260_durnar", delay=1)]Ehm…
+[Dialog(head="char_379_sesa", delay=1)]Uhm…
+[Dialog(head="char_2013_cerber", delay=0.5)]Eh? Perché la sorellona Dur-nar e il fratellone Sesa non parlano più?
+[Dialog(head="char_260_durnar", delay=0.5)]N-niente, niente. Continuiamo ad avanzare.
+[Dialog(head="char_260_durnar", delay=0.5)]Ah, a proposito, Ceobe: il martello che avevi raccolto dov'è finito?
+[Dialog(head="char_2013_cerber", delay=0.5)]Uhm, a Ceobe non sembrava tanto comodo, così l'ha buttato via poco fa.
+

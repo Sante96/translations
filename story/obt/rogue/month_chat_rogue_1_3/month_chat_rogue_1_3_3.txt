@@ -1,0 +1,25 @@
+[Title] MAIN_LOG_102_1
+[Div] Part.03
+[Dialog(head="char_356_broca", delay=1)]Tu che leggi un libro?
+[Dialog(head="char_349_chiave", delay=0.5)]Be'? Guarda che il sottoscritto è…
+[Dialog(head="char_346_aosta", delay=1)]Cos'è… un libro di ricette?
+[Dialog(head="char_346_aosta", delay=0)]Vuoi imparare a cucinare?
+[Dialog(head="char_349_chiave", delay=0.5)]Ultimamente mi è presa la passione. Questo ricettario è interessante, voglio provarci.
+[Dialog(head="char_346_aosta", delay=0.5)]“Innovazioni della cucina di Terra, numero duecento”.
+[Dialog(head="char_346_aosta", delay=0)]Già dal titolo non promette niente di buono.
+[Dialog(head="char_349_chiave", delay=0.5)]Guarda questo piatto innovativo di Yan: “Mapo alle fragole”.
+[Dialog(head="char_356_broca", delay=1)]Che testa vuota…
+[Dialog(head="char_346_aosta", delay=0.5)]Mi raccomando, non far vedere questo libro a nessun operatore di Yan.
+[Dialog(head="char_349_chiave", delay=0.5)]Deciso: comincio da questo piatto.
+[Dialog(head="char_349_chiave", delay=1)]Pizza alla frutta in stile Siesta.
+[Dialog(head="char_356_broca", delay=1.5)]……
+[Dialog(head="char_346_aosta", delay=1.5)]……
+[Dialog(head="char_349_chiave", delay=1.5)]……
+[Dialog(head="char_346_aosta", delay=0.5)]Broca, trova una corda e lega Chiave.
+[Dialog(head="char_356_broca", delay=0.5)]Ok.
+[Dialog(head="char_356_broca", delay=1)]Sta' fermo, Chiave.
+[Dialog(head="char_349_chiave", delay=1)]Uwaah, ma che fate?!
+[Dialog(head="char_356_broca", delay=2)]…E poi?
+[Dialog(head="char_346_aosta", delay=0.5)]Trova una chiesa di Laterano, buttalo dentro e lascia che i religiosi di Laterano lo riempiano di botte.
+[Dialog(head="char_356_broca", delay=0.5)]Ok.
+[Dialog(head="char_349_chiave", delay=1.5)]Ma perché?!

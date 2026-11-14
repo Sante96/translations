@@ -1,0 +1,21 @@
+[Title] MAIN_LOG_105_1
+[Div] Part.03
+[Dialog(head="char_115_headbr", delay=1)]Il nastro da generale di Ursus, fammelo vedere… ehm, si può… per favore?
+[Dialog(head="char_188_helage", delay=0.5)]Certo. Ormai lontano da Ursus, non è altro che un semplice nastro di raso rosso.
+[Dialog(head="char_188_helage", delay=0.5)]Ho sentito che tra i giovani “generale” non è proprio un complimento.
+[Dialog(head="char_405_absin", delay=0.5)]È solo che, in quegli ultimi giorni, l'esercito non è mai entrato in città a riportare l'ordine, e per questo tutti erano così delusi…
+[Dialog(head="char_115_headbr", delay=0.5)]Ma a essere sinceri, anche prima nessuno si fidava granché dell'esercito.
+[Dialog(head="char_115_headbr", delay=0.5)]Comunque, chi se ne frega. A me il soprannome che mi hanno dato piace.
+[Dialog(head="char_115_headbr", delay=0.5)]…Lo so che sono lontanissima da un vero generale, adesso puoi pure guardarmi dall'alto in basso.
+[Dialog(head="char_115_headbr", delay=0.5)]Però proteggerò gli altri del Gruppo Autonomo e abbatterò qualsiasi ostacolo ci si pari davanti. Questa non è una bugia.
+[Dialog(head="char_188_helage", delay=1)]Se ti piace così tanto quel titolo, puoi prendere questo nastro, naturalmente.
+[Dialog(head="char_188_helage", delay=0.5)]Però si è spezzato in due durante la guerra, non ha alcun valore. Forse dovrei farti un regalo migliore.
+[Dialog(head="char_115_headbr", delay=0.5)]A-allora un libro. Istina dice che stai scrivendo un libro, vorremmo tanto leggerlo.
+[Dialog(head="char_188_helage", delay=1)]Il mio libro? Un libro sul passato non ha niente che valga la pena di leggere.
+[Dialog(head="char_188_helage", delay=0.5)]Forse ci sono libri che parlano del futuro: vedrò di trovarvene qualcuno.
+[Dialog(head="char_188_helage", delay=0.5)]Una caramella? Ne ho ancora qualcuna con me.
+[Dialog(head="char_115_headbr", delay=0.5)]…No, grazie, non mi piacciono i dolci.
+[Dialog(head="char_405_absin", delay=0.5)]…Neanche a me.
+[Dialog(head="char_188_helage", delay=1)]Non c'è da sentirsi in colpa per un po' di dolcezza: siete ancora delle bambine.
+[Dialog(head="char_188_helage", delay=0.5)]L'inverno di Ursus è lungo e molto freddo, ma lo sopportiamo per i giorni in cui la neve si scioglie.
+

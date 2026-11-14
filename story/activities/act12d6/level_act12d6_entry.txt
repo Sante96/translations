@@ -1,0 +1,21 @@
+[HEADER(key="title_test", is_skippable=false, fit_mode="BLACK_MASK")] 
+[stopmusic]
+[Dialog]
+[Delay(time=1)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_black",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[playMusic(intro="$darkness01_intro", key="$darkness01_loop", volume=0.4)]
+
+Ceobe sente qualcosa di caldo sul viso: sembra che qualcosa la stia leccando.
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_light",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+Apre gli occhi, ma davanti a lei non c'è nulla: intorno ci sono solo colori sgargianti.
+Abbassa lo sguardo e scopre di essere in piedi su un biscotto al miele, e la cosa la rende felice.
+Poi uno, due, tre: una strada lastricata di biscotti al miele comincia ad allungarsi in una direzione precisa.
+Sente una forza misteriosa che la chiama, e allora si mette in cammino.
+[Dialog]
+[Blocker(fadetime=3,block=true)]
+

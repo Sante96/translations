@@ -1,0 +1,99 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[PlayMusic(intro="$exciting_intro", key="$exciting_loop", volume=0.7)]
+[delay(time=2)]
+[Background(image="32_RL2_cliffday",screenadapt="coverall")]
+[dialog]
+[PlaySound(key="$d_avg_sea", volume=0.6, loop=true, channel="sea")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+[Blocker(a=0.5, r=1, g=1, b=1, fadetime=0.1, block=true)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=false)]
+[PlaySound(key="$e_skill_skulsrsword", volume=0.9)]
+[PlaySound(key="$d_avg_attack_heavy")]
+[PlaySound(key="$d_sp_ballista", volume=0.4)]
+[CameraShake(duration=0.5, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
+[delay(time=0.51)]
+[Character(name="char_empty",fadetime=0,block=true)]
+[characteraction(name="middle", type="move", xpos=-60,  fadetime=1, block=false)]
+[Character(name="avg_437_mizuki_1#6",fadetime=1,block=true)]
+[delay(time=2)]
+[name="Mizuki"]  Ugh…
+[dialog]
+[character]
+[Character(name="avg_npc_448_1#1$1",fadetime=1)]
+[delay(time=1)]
+[name="The Last Knight"]Sei tu che attiri le onde.
+[Character(name="avg_npc_463_1#1$1")]
+[name="Rocinante"](Un nitrito cupo e profondo)
+[Character(name="avg_npc_448_1#1$1")]
+[name="The Last Knight"]No, un nostro simile. Il profumo della terra…
+[Character(name="avg_npc_448_1#1$1")]
+[name="The Last Knight"]I semi cadono in mare, e sbocciano fiori cerulei…
+[Character(name="avg_npc_448_1#1$1")]
+[name="The Last Knight"]Questa non è la grande onda…
+[Character(name="avg_npc_463_1#1$1")]
+[name="Rocinante"](Rizza le orecchie, all'erta)
+[Character(name="avg_npc_448_1#1$1")]
+[name="The Last Knight"]La grande onda—
+[dialog]
+[stopmusic(fadetime=1)]
+[stopsound(fadetime=1,channel="sea")]
+Il soliloquio del cavaliere si interrompe di colpo.
+Il fragore dei flutti, le strida delle bestie piumate, l'ululato del vento furioso.
+In quell'istante svaniscono del tutto.
+Il vento si leva, le nubi si addensano, e non si ode alcun suono.
+[character]
+[dialog]
+[PlayMusic(intro="$calamity_intro", key="$calamity_loop", volume=0.7)]
+[PlaySound(key="$d_avg_sea", volume=1, loop=true, channel="sea")]
+[PlaySound(key="$d_avg_fish_howl", volume=0.4)]
+[PlaySound(key="$pourwater", volume=0.4)]
+[PlaySound(key="$d_avg_jump_water", volume=0.4)]
+[PlaySound(key="$d_avg_walk_water", volume=0.4)]
+Dopo un attimo di silenzio, le onde si ergono altissime, e la sciagura torna ad abbattersi,
+Ishar'mla emerge dai flutti alla guida della Moltitudine.
+Iberia non è più l'unica vittima: tutta la terra—
+affogherà nella Grande Quiete.
+[Character(name="avg_npc_463_1#1$1",name2="avg_npc_448_1#1$1")]
+Il cavaliere non sente più alcun suono. Strattona di colpo le redini della cavalcatura e punta la lancia verso l'altra sponda dell'oceano.
+Urla a gran voce, tanto che il cranio gli vibra, ma il suono che gli arriva alle orecchie è solo uno strano stridio.
+Le braccia tremano, il respiro si fa affannoso, Ronzinante continua a scuotere la testa.
+L'istinto dei Seaborn si ribella senza sosta a questo insensato massacro tra simili,
+ma il cavaliere non bada minimamente alla crudele realtà che si cela dietro queste reazioni del corpo: è fermamente convinto che siano l'esultanza incontenibile del suo cuore,
+perché—
+[dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background]
+[Dialog]
+[Image(image="pic_rogue_2_49", x=-100,y=0, xScale=1.2, yScale=1.2)]
+[ImageTween(image="pic_rogue_2_49", xTo=0,yTo=0, xScaleTo=0.85, yScaleTo=0.85, duration=80)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[delay(time=1)]
+Il colosso che ha davanti è ciò che insegue da tanto tempo
+È il destino che si compie, è l'origine della grande onda
+Ishar…mla… ricorda ancora quel nome
+È Lei a sollevare vento e onde, è Lei a spingere il mare a divorare la terra, è Lei a parlare in nome del mare
+Dunque, se questa vita grandiosa cadrà qui
+l'oceano tacerà per sempre, e non si leverà più nemmeno uno spruzzo
+[dialog]
+[delay(time=1)]
+L'acqua del mare si schianta sull'armatura con il fragore di un Feranmut d'acciaio che travolge la terra
+La pioggia diluisce il sapore di ruggine nel respiro, ma gli porta al naso il lezzo dei viventi
+Le onde cercano di abbassargli la lancia, la corrente lo trascina verso terra
+Il mondo intero cerca di fermare il cavaliere
+[dialog]
+[delay(time=1)]
+Le spighe ondeggiano, i fiori di melograno chiamano
+La fedele cavalcatura sbuffa rumorosamente e, scontenta, batte la testa sulla superficie del mare
+Nel silenzio, il folle scoppia in una sonora risata
+[dialog]
+[delay(time=1)]
+L'ultimo cavaliere spicca il balzo.
+[stopSound(channel="sea",fadetime=3)]
+[Dialog]
+[Character]
+[stopmusic(fadetime=2)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[Image]

@@ -1,0 +1,25 @@
+[Title] MAIN_LOG_104_1
+[Div] Part.01
+[Dialog(head="char_411_tomimi", delay=1)]Se avessi tutti questi soldi…
+[Dialog(head="char_411_tomimi", delay=0.5)]Cosa ci vorresti fare?
+[Dialog(head="char_187_ccheal", delay=1)]Zumama sarebbe al settimo cielo: finalmente avrebbe i fondi per comprare i pezzi di ricambio.
+[Dialog(head="char_187_ccheal", delay=0.5)]Io sono già abbastanza forte, questi soldi non mi servirebbero a niente.
+[Dialog(head="char_411_tomimi", delay=0.5)]Io voglio comprarmi vestiti nuovi!
+[Dialog(head="char_127_estell", delay=1)]Io… io non ci ho mai pensato…
+[Dialog(head="char_411_tomimi", delay=0.5)]Ci sarà pure qualcosa che vuoi fare!
+[Dialog(head="char_411_tomimi", delay=0.5)]Prima volevo solo stare sempre insieme a Gavial.
+[Dialog(head="char_411_tomimi", delay=0.5)]Adesso voglio comprare bei vestiti~ e fare le cose che mi rendono felice.
+[Dialog(head="char_411_tomimi", delay=1)]Però…
+[Dialog(head="char_411_tomimi", delay=0)]Però voglio anche stare insieme a Gavial!
+[Dialog(head="char_127_estell", delay=1)]Io… io vorrei…
+[Dialog(head="char_187_ccheal", delay=0.5)]Fai tutto quello che vuoi fare, no? Semplice.
+[Dialog(head="char_411_tomimi", delay=0.5)]Sì! Se c'è qualcosa che vuoi fare, basta farla~
+[Dialog(head="char_187_ccheal", delay=0.5)]Estelle! Guarda qui! Non muoverti!
+[Dialog(head="char_187_ccheal", delay=0.5)]Se non trovi niente che ti piace, partecipa alle prove di Gavial!
+[Dialog(head="char_187_ccheal", delay=0.5)]Prima prova: lotta di code!
+[Dialog(head="char_127_estell", delay=1)]Ehm…
+[Dialog(head="char_127_estell", delay=1)]Uh, uhm…! Per favore, abbi paura di me!
+[Dialog(head="char_411_tomimi", delay=0.5)]Uaah! Si stanno sfidando! Gavial è fantastica!
+
+
+

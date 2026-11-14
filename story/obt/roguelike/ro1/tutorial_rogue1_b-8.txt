@@ -1,0 +1,7 @@
+[HEADER(is_skippable=true,is_autoable=false)] rogue1_b-8关卡内剧情
+[PopupDialog(dialogHead="$avatar_csphtm")] Sei tu l'ultimo superstite della compagnia, Portavoce?
+[PopupDialog(dialogHead="$avatar_cshost")] Eh, eh eh… Tu non conosci la compagnia, “novellino”.
+[PopupDialog(dialogHead="$avatar_csphtm")] Non ho bisogno, né motivo, di conoscerla.
+[PopupDialog(dialogHead="$avatar_csphtm")] Da qualunque luogo tu venga, incubo del passato, torna da dove sei venuto.
+[PopupDialog(dialogHead="$avatar_csphtm")] È ora che su questa farsa cali il sipario.
+[Blocker(fadetime=0.3, block=true, a=0)] 

@@ -1,0 +1,125 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background(image="bg_black",screenadapt="coverall", block=true)]
+[Delay(time=1)]
+[playMusic(key="$wasteland_loop", volume=0.6)]
+[delay(time=3)]
+Per quanto tempo Wang ha accarezzato tra le dita questa pietra del weiqi?
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=false)]
+[Image(image="pic_rogue_5_47", fadetime=2, xScale=1.05, yScale=1.05,screenadapt="coverall")]
+[ImageTween(xScaleFrom=1.05, yScaleFrom=1.05, xScaleTo=1, yScaleTo=1,duration=6)]
+[Delay(time=4)]
+Dalla vetta al Mausoleo, dalla mossa geniale alla mossa ortodossa.
+[Dialog]
+[Image(image="pic_rogue_5_24",xScale=1.2, yScale=1.2,fadetime=2,block=true)]
+[ImageTween(xScaleFrom=1.2, yScaleFrom=1.2, xScaleTo=1, yScaleTo=1, duration=20, block=false)]
+[Delay(time=3)]
+Con i celebranti del rito come pedine, gioca con il nero e si batte su una scacchiera dove il tempo non scorre in linea retta.
+Ricucendo strati di tempo sovrapposti, lega cause ed effetti che non si erano mai incontrati.
+Il rito di pacificazione nel Giardino, la ricerca dei ricordi nel passato, la discesa nel Mausoleo per trovare la via, il rotolo disteso a raccogliere l'inchiostro—
+Alla fine, superate mille difficoltà e sacrificato ogni resto della partita, posa l'ultima pietra, quella che si affida agli esseri umani.
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Delay(time=1)]
+[Background(image="63_mini04_mountaintop",screenadapt="coverall", block=true)]
+[image]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+Questa era forse la più pericolosa tra le tante ossessioni della Bestia Sui.
+Se al risveglio abbandonasse il Suo corpo, divorasse i Suoi rappresentanti, si impossessasse del corpo di Chongyue e si nascondesse nell'ombra della terra, nessuno saprebbe come, nel corso degli anni, edificherebbe la Sua fortezza della vendetta.
+Ma ora questo delirio è giunto alla fine.
+[dialog]
+[charslot(slot="l",name="avg_npc_1237_1#1$1",focus="all",duration=2)]
+[charslot(slot="r",name="avg_2024_chyue_1#8$1",focus="all",duration=2)]
+[delay(time=3)]
+[dialog]
+[PlaySound(key="$d_avg_clothmovement", volume=1)]
+[PlaySound(key="$bodyfalldown1", volume=1)]
+[charslot(slot="r",focus="all",afrom=1,ato=0,duration=0.5)]
+[delay(time=2)]
+Wang sorregge la marionetta che sta per crollare e la adagia con cura a terra.
+Gli occhi di quel guscio vuoto fissano ancora dritto davanti a sé, ma Wang sa che, ora che la coscienza della Bestia Sui è stata sconfitta, quegli occhi non possono vedere altro che buio e vuoto.
+[dialog]
+[PlaySound(key="$d_avg_magicchange", volume=1)]
+[Blocker(a=1, r=1, g=1, b=1, fadetime=0.2, block=true)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=false)]
+[delay(time=2)]
+Dove passa la sua manica, il corpo si dissolve, lasciando soltanto qualche punto di luce.
+È stata una battaglia: con i poteri corrispondenti ai suoi fratelli e sorelle, e approfittando dello stallo tra gli esseri umani e “Chongyue”, Wang ha abilmente strappato a quella follia emozioni, memoria, coscienza e cognizione.
+Quando l'immaginazione non ha più dove andare, la volontà non ha più modo di agire; e ciò che resta è proprio ciò che Wang aveva architettato.
+Puro, immacolato, come i pensieri nati da quei dodici sogni.
+[charslot]
+[dialog]
+[delay(time=2)]
+[PlaySound(key="$d_avg_phantommagic", volume=1)]
+[ShowItem(image="item_rogue5_2", fadetime=1)]
+[delay(time=2)]
+[hideitem]
+“Tentennino” vola fuori dal gruppo del rito e si aggira cauto accanto ai punti di luce.
+Strumento nato dall'inchiostro per seguire le tracce dei ricordi, inseguire l'immaginazione è nella sua natura. È proprio questa natura che gli ha permesso di guidare tutti fino al pensiero più letale della Bestia Sui.
+[dialog]
+[ShowItem(image="item_rogue5_1", fadetime=0.7)]
+[delay(time=1)]
+[hideitem]
+Ma il futuro che gli spetta in quanto essere vivente non è qui.
+Sazio e contento, il piccoletto si addormenta tranquillo, e resta solo uno dei suoi creatori che, con una cautela mai mostrata a nessuno, se lo stringe piano tra le braccia.
+[dialog]
+[charslot(slot="m",name="avg_npc_1237_1#1$1",focus="m",duration=2)]
+[delay(time=2)]
+[name="Wang"]Chi di voi riceve il sigillo?
+[dialog]
+[charslot]
+[playsound(key="$d_gen_walk_n",channel="a")]
+[charslot(slot="m",name="avg_4121_zuole_1#6$1",focus="all",duration=1)]
+[delay(time=1)]
+[stopsound(channel="a")]
+[charslot(slot="m",name="avg_4121_zuole_1#4$1",focus="all")]
+[CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=15, randomness=90, fadeout=true, block=false)]
+[PlaySound(key="$d_avg_clothmovement")]
+[delay(time=1)]
+[charslot(slot="m",posfrom="0,0",posto="50,0",duration=1)]
+[charslot(slot="m",ato=0,afrom=1,duration=0.5)]
+[charslot(slot="r",posfrom="0,0",posto="-200,0",duration=0)]
+[charslot(slot="r",name="avg_1043_leizi2_1#9$1",duration=2)]
+[delay(time=2)]
+[name="Leizi"]Che cosa ci hai mandati a fare, esattamente?
+[name="Leizi"]Le visioni che questo sigillo ci ha svelato lungo il cammino: le fiamme di Yan che crollano, il popolo ridotto alla rovina… E dopo aver sconfitto il corpo del Gran Maestro, non è cambiato nulla…
+[dialog]
+[charslot]
+Wang non risponde alla sua domanda: si limita a sollevare “Tentennino” e a far cenno a Leizi di prenderlo.
+Dopo un attimo di esitazione, Leizi allunga la mano, prende il “sigillo” addormentato e lo passa al Reggicandela alle sue spalle.
+[charslot(slot="m",name="avg_1043_leizi2_1#9$1")]
+[name="Leizi"]Ora, puoi darci una—
+[dialog]
+[stopmusic(fadetime=2)]
+[PlaySound(key="$d_avg_magicchange", volume=1)]
+[charslot(duration=1)]
+[delay(time=3)]
+Leizi vorrebbe ancora vederci chiaro, ma Wang la spedisce fuori dal Mausoleo, e con lei se ne va l'intera squadra del rito.
+[playMusic(key="$m_avg_destiny_loop", volume=0.6)]
+Anche se rispondesse, chi lascia il Giardino delle Grottesche non ricorderebbe bene quella risposta: Wang lo sa benissimo. È sempre stato avaro di parole, e non gli è mai piaciuto fare mosse a vuoto.
+Qui, il percorso degli esseri umani sulla scacchiera è finito; fuori dal Mausoleo, tra i monti e i fiumi della Grande Yan, li attende ancora una partita chiamata vita.
+Quanto all'altro motivo—
+[dialog]
+[charslot(slot="m",name="avg_npc_1237_1#1$1",focus="m",duration=2)]
+[delay(time=3)]
+Questa pietra, una delle centottantuno, deve restare ancora in questo mausoleo solitario, a continuare la partita con quella divinità non ancora desta.
+Il destino lasciato nelle mani degli uomini è arduo, ma si tratta pur sempre di un male che segue le leggi comuni, per quanto calpesti ogni legge umana. Ciò che non cambia è facile da calcolare.
+Solo dopo averli allontanati, aver congedato “Tentennino” e aver strappato via ogni umanità e compassione, Wang può giocare a mani libere e affrontare la malevolenza della Bestia Sui, che non smette di evolversi e scava le ossa fino a succhiarne il midollo.
+Prima di strappare la mossa che dà la vita, ha già soffocato la propria speranza.
+[dialog]
+[charslot(duration=1)]
+[delay(time=3)]
+[Dialog]
+[Image(image="pic_rogue_5_64",xScale=1.05, yScale=1.05,fadetime=3,block=true)]
+[ImageTween(xScaleFrom=1.05, yScaleFrom=1.05, xScaleTo=1, yScaleTo=1, duration=15, block=false)]
+[Delay(time=15)]
+[Dialog]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2.5, block=true)]
+[stopmusic(fadetime=2)]
+[charslot]
+[Image]

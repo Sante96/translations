@@ -1,0 +1,17 @@
+[Title] MAIN_LOG_101_1
+//Vecchiaia e rinascita
+[Div] Part.02
+[Dialog(head="char_003_kalts", delay=0)]Un ramo secco.
+[Dialog(head="char_003_kalts", delay=0.5)]Germoglia là dove è più avvizzito, e marcisce là dove è più rigoglioso.
+[Dialog(head="char_003_kalts", delay=0.5)]Un ramo che cresce in eterno, in cui morte e rigoglio si avvinghiano l'una all'altro: la parte nuova si nutre di ciò che è morto, e la morte rinasce dall'interno della sua stessa vita.
+[Dialog(head="char_503_rang", delay=1.5)]Riascoltarla dopo tanti anni, questa storia mi sembra ancora incredibile.
+[Dialog(head="char_485_pallas", delay=0.5)]Che meraviglia…!
+[Dialog(head="char_003_kalts", delay=0.5)]Non è soltanto una storia.
+[Dialog(head="char_003_kalts", delay=0.5)]Quel ramo esiste davvero. L'ho visto presso un nobile di Gaul di altissimo rango.
+[Dialog(head="char_003_kalts", delay=1)]Ma ormai, tra le fiamme della guerra, se ne sono perse le tracce.
+[Dialog(head="char_485_pallas", delay=0.5)]Che peccato, davvero. Se solo si potesse vederlo…
+[Dialog(head="char_503_rang", delay=0.5)]Eh, questo vecchio pensa che sia meglio di no.
+[Dialog(head="char_485_pallas", delay=0.5)]E perché mai?
+[Dialog(head="char_003_kalts", delay=0.5)]A questa domanda posso rispondere io.
+[Dialog(head="char_003_kalts", delay=1)]Si dice che chi ottiene quel ramo possa rinascere e avere la vita eterna.
+

@@ -1,0 +1,71 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+E così, la storia giunge al termine.
+Le luci si spengono, gli attori lasciano la scena, il sipario rosso si chiude lentamente.
+Finita la musica, il pubblico se ne va, e tutto torna di nuovo nel silenzio.
+[dialog]
+[Background(image="24_RL_castlehall",screenadapt="coverall")]
+[Delay(time=1)]
+[PlayMusic(intro="$loneliness_intro", key="$loneliness_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[delay(time=2)]
+Phantom è tornato in sé.
+Ricorda ancora tutto ciò che ha fatto.
+Sa bene che lui, il primo attore, non era che l'esca preparata dalla compagnia.
+Per attirare, una volta dopo l'altra, quei mortali fervidi e nobili in quella trappola senza ritorno.
+Un cammino irto di pericoli, su cui non serve spendere parole.
+Ora, per sua fortuna, è stato salvato. Ma prima?
+Qualcuno si sarà mai smarrito in questo labirinto svettante?
+E lui, avrà mai spinto giù dal palco i compagni che gli tendevano una mano?
+Non osa immaginarlo.
+Prova vergogna.
+[dialog]
+[playsound(key="$d_gen_walk_n")]
+[character(name="avg_4025_aprot2_1#1$1",blackstart=0.2,blackend=0.7,block=true,fadetime=1.5)]
+[delay(time=2)]
+[name="？？？"]È ora di tornare a casa, Lucian.
+[Character(name="avg_npc_293_1#3$1")]
+[name="Phantom"]Tu sei…
+[Character(name="avg_4025_aprot2_1#2$1")]
+[name="Shalem"]Hai procurato un bel guaio a Rhodes Island. Spero che tu abbia già preparato la battuta da recitare davanti al Dottore.
+[Character(name="avg_npc_293_1#7$1")]
+[name="Phantom"]…Recitare una battuta davanti al Dottore non farebbe che accrescere il mio rimorso.
+[Character(name="avg_npc_293_1#10$1")]
+[name="Phantom"]Ripagherò Rhodes Island con i fatti.
+[Character(name="avg_4025_aprot2_1#1$1")]
+[name="Shalem"]Bene così.
+[Character(name="avg_4025_aprot2_1#7$1")]
+[name="Shalem"]……
+[Character(name="avg_4025_aprot2_1#8$1")]
+[name="Shalem"]A proposito, questo posto mi è davvero familiare.
+[Character(name="avg_4025_aprot2_1#8$1")]
+[name="Shalem"]Un palcoscenico, un teatro: il luogo che ogni attore sogna.
+[Character(name="avg_4025_aprot2_1#9$1")]
+[name="Shalem"]Non ti va di cantare qualcosa?
+[Character(name="avg_npc_293_1#7$1")]
+[name="Phantom"]Il mio canto porta solo sventure. Se potessi evitarlo…
+[Character(name="avg_4025_aprot2_1#9$1")]
+[name="Shalem"]Fiuu…
+[Character(name="avg_4025_aprot2_1#1$1")]
+[name="Shalem"]Scusami, volevo solo esserne sicuro.
+[Character(name="avg_4025_aprot2_1#1$1")]
+[name="Shalem"]Sei tornato davvero.
+[Character(name="avg_4025_aprot2_1#9$1")]
+[name="Shalem"]Ti serve una mano?
+[Character(name="avg_npc_293_1#10$1")]
+[name="Phantom"]……
+[Character(name="avg_npc_293_1#9$1")]
+[name="Phantom"]…Grazie.
+[Dialog]
+[Character]
+[Image(image="24_RL01", fadetime=2, xScale=1.1, yScale=1.1)]
+[ImageTween(image="24_RL01", fadetime=1,xScaleTo=0.9, yScaleTo=0.9, duration=40)]
+[delay(time=5)]
+[Dialog]
+[Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=5, block=true)]
+[stopmusic(fadetime=5)]
+[Character]
+[Image]

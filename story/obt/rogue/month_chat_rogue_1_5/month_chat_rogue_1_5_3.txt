@@ -1,0 +1,23 @@
+[Title] MAIN_LOG_104_1
+[Div] Part.03
+[Dialog(head="char_411_tomimi", delay=1)]Con tutto quest'oro puro, verrà qualcuno a rubarcelo?
+[Dialog(head="char_187_ccheal", delay=0.5)]Davvero qualcuno avrebbe il coraggio? Lo stendo.
+[Dialog(head="char_127_estell", delay=0.5)]Sì! Anch'io posso buttare giù tutti i nemici a cornate!
+[Dialog(head="char_127_estell", delay=0.5)]Adesso nessuno oserà derubarci!
+[Dialog(head="char_411_tomimi", delay=0.5)]La sorellona Estelle può stendere tutti i nemici con le sue corna!
+[Dialog(head="char_411_tomimi", delay=0.5)]Wow, sorellona Estelle, sei un po' cambiata rispetto a prima.
+[Dialog(head="char_127_estell", delay=0.5)]Uh, davvero?
+[Dialog(head="char_411_tomimi", delay=0.5)]Davvero!
+[Dialog(head="char_411_tomimi", delay=0.5)]Allora, che ne dite di tornare insieme a casa a cercare il tesoro?
+[Dialog(head="char_127_estell", delay=0.5)]Adesso?
+[Dialog(head="char_187_ccheal", delay=0.5)]E chi ha detto che il tesoro esiste davvero?
+[Dialog(head="char_187_ccheal", delay=0.5)]E poi adesso abbiamo altro da fare.
+[Dialog(head="char_187_ccheal", delay=0.5)]Per esempio, portare insieme questo carretto d'oro puro dalla fabbrica al magazzino.
+[Dialog(head="char_411_tomimi", delay=0.5)]Oooh-op!
+[Dialog(head="char_127_estell", delay=1.5)]Chi c'è là davanti… chi è…
+[Dialog(head="char_127_estell", delay=0.5)]È arrivato davvero qualcuno a rubarci l'oro puro?	
+[Dialog(head="char_127_estell", delay=0.5)]Ah! Non avvicinatevi! Yaah!!
+[Dialog(head="char_411_tomimi", delay=0.5)]Aspetta, sorellona Estelle!
+[Dialog(head="char_411_tomimi", delay=0.5)]Gavial, fermala, presto!
+[Dialog(head="char_411_tomimi", delay=0.5)]Ha spedito Gavial in aria con una cornata!!
+

@@ -1,0 +1,41 @@
+
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")] 
+[stopmusic]
+[Dialog]
+[Delay(time=1)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_desert_1",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[playMusic(intro="$path_intro", key="$path_loop", volume=0.4)]
+Alla fine di tutto si stende una pianura deserta: la terra polverosa giace sotto un cielo avvolto da una fitta nebbia grigia. Qui non ci sono boschi fitti, né i chiassosi abitanti delle terre desolate. Qui non c'è niente.
+Lei contempla la pianura sconfinata, immersa in questo nulla di quiete assoluta; le avventure e le fatiche di prima ormai non hanno più alcun senso. È arrivata alla meta, alla fine del viaggio.
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_light",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+D'un tratto il cielo comincia a sciogliersi e a riversarsi giù come un fluido; il terreno si fa morbido e sprofonda lentamente in forme irregolari, la nebbia si sfilaccia in bioccoli di cotone che sfiorano ogni cosa nel campo visivo, l'orizzonte si contorce e si deforma, tutto si fonde, niente è più nitido.
+Da profondità lontane e inconoscibili erompono fasci di luce variopinti, sfavillanti, indescrivibili.
+La luce prende a poco a poco la forma di figure umane che si contorcono, saltellando e fluttuando in uno spazio caotico. È come una festa meravigliosa che la invita a unirsi, a vagare in quella luce senza forma, dove quiete e caos convivono.
+[Dialog]
+[delay(time=1)]
+Ma la nebbia grigia si trasforma in grossi massi durissimi, che la colpiscono in testa.
+Si sente precipitare. Forse si è già fusa con i massi, o forse è lei stessa un masso.
+Vorrebbe allungare la mano, ma la nebbia e la luce sfolgorante stanno svanendo, la quiete e il caos si ritirano.
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_village_2",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+Ceobe apre gli occhi e vede volti familiari: i suoi compagni la guardano con aria perplessa.
+È questa la realtà? Il dolore che le pulsa in testa, dove è stata colpita, glielo ricorda.
+Si guarda intorno, osserva i suoi compagni e quel posto sconosciuto, e sorride.
+Tutto ciò che ha sognato sta svanendo lentamente dalla sua testolina.
+Ma proprio in quel momento si accorge di stringere qualcosa in mano.
+[Dialog]
+[delay(time=1)]
+—Un sacco di iuta rigonfio, pieno zeppo di biscotti al miele.
+È stato davvero tutto un sogno?
+[Dialog]
+[Blocker(fadetime=3,block=true)]
+
+
+

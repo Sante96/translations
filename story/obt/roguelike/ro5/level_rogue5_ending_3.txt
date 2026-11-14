@@ -1,0 +1,104 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Image(image="pic_rogue_5_24",screenadapt="coverall",fadetime=0,block=true)]
+[ImageTween(xScaleFrom=1.2, yScaleFrom=1.2, xScaleTo=1, yScaleTo=1, duration=20, block=false)]
+[Delay(time=1)]
+[PlayMusic(intro="$suspenseful_intro", key="$suspenseful_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=1)]
+Mentre questa squadra di visitatori sale al cielo ed entra nel Mausoleo di Sui, esultando per un'impresa senza precedenti, sembra che tutti abbiano dimenticato una cosa—
+Fare degli oggetti il proprio cielo e la propria terra per penetrare nelle profondità del Giardino delle Grottesche serve a salire in vetta e a celebrare il rito di pacificazione.
+Ma ora che hanno aperto il Mausoleo facendo delle pietre del weiqi e dei caratteri il loro cielo e la loro terra, a quale scopo l'hanno fatto? I visitatori non hanno una risposta.
+Forse è proprio questa avventatezza, questa ignoranza, ad aver irritato il rappresentante di Sui che hanno di fronte.
+E così, benché i visitatori abbiano calcolato ogni pollice di lama e ogni filo di fulmine, quel rappresentante famoso per le sue strategie riesce comunque a scuotere questo falso cielo e questa falsa terra.
+Il cielo di pietre crolla, la terra di caratteri si solleva, come a voler ridurre in polvere ogni essere vivente che sta nel mezzo.
+Nell'istante in cui cielo e terra si chiudono, un lampo azzurro trascina via i visitatori.
+[Dialog]
+[stopmusic(fadetime=1.5)]
+[delay(time=1)]
+[PlaySound(key="$d_avg_magicchange", volume=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=1, block=true)]
+[charslot]
+[image]
+[Background(image="63_mini04_mountaintop", screenadapt="coverall", block=true)]
+[delay(time=0.1)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=2, block=true)]
+[delay(time=0.5)]
+Liang depone con delicatezza il gruppo, ancora sconvolto, sullo spiazzo davanti al tempio.
+Dopo averli rassicurati e aver consegnato loro il sigillo, Liang fa un cenno a Yi; poi, rispondendo alle domande che continuano a fioccare, li accompagna giù dalla montagna.
+[Dialog]
+[stopmusic(fadetime=2)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2.5, block=true)]
+[charslot]
+[image]
+[Background(image="bg_black",screenadapt="coverall")]
+[delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=0.5)]
+Quando i visitatori, pieni di dubbi, scompaiono alla vista, Yi volge lo sguardo verso il tempio.
+Ha appena congedato degli ospiti, ed ecco che arriva una visita rara.
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2.5, block=true)]
+[charslot]
+[image]
+[Image(image="pic_rogue_5_49",screenadapt="coverall",block=true)]
+[delay(time=1)]
+[PlayMusic(key="$midautumn", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
+[Delay(time=2)]
+Nel tempio, un altro rappresentante di Sui se ne sta in piedi, solo.
+È lui in persona? O forse soltanto uno dei suoi doppi? Non ha più importanza…
+Wang ha bisogno di un po' di tempo per assimilare questo ricongiungimento dopo centoventi anni.
+[Dialog]
+[ImageTween(yFrom=0,yTo=-30,xScaleFrom=1, yScaleFrom=1, xScaleTo=1.1, yScaleTo=1.1, duration=8, block=false)]
+[Delay(time=4)]
+Lei, nel ritratto, ha il nome ormai consumato dal tempo, ma l'espressione serena di sempre.
+Sia il volto dei suoi ricordi, sia quella traccia di presenza percepita nel Mausoleo, esprimono lo stesso desiderio—
+Insegnare e tramandare, lasciare il proprio inchiostro ai secoli a venire.
+Per questa terra, lei ha sempre nutrito grandi speranze.
+[Dialog]
+[Image(image="pic_rogue_5_49",screenadapt="coverall",fadetime=2,block=true)]
+[Delay(time=1)]
+È la prima volta che Wang mette piede in questo tempio.
+In questi centoventi anni ha rimuginato senza sosta il senso di colpa, il rimorso e l'odio…
+Odia tutto ciò che l'ha sepolta qui, e ovviamente anche se stesso.
+Non ha mai osato venire qui.
+Fino a oggi, quando quel gruppo di visitatori avventati gli ha steso davanti il cielo di pietre e la terra di caratteri…
+[name="Yi"]Credevi che potessero riportarla indietro: allora perché li hai cacciati?
+[name="Wang"]Per la loro avventatezza, avrei dovuto lasciare che ci restassero sepolti.
+[name="Yi"]…Ma?
+[name="Wang"]……
+Wang non risponde, e non c'è bisogno che lo faccia. In tanti anni, è la prima volta che qualcuno riporta quella stele dall'immensità del passato.
+E a lui basta ritrovare, nei ricordi del Feranmut, quella goccia d'inchiostro…
+Con l'inchiostro si formano i caratteri, e con i caratteri le si può restituire il suo significato.
+Può sperarci? Deve crederci?
+[Dialog]
+[PlaySound(key="$d_avg_cloakmovement", volume=1)]
+[Delay(time=1.5)]
+Yi tende la mano, come a chiedere qualcosa. Sotto lo sguardo severo del fratello maggiore, sorride con disinvoltura.
+Wang resta di nuovo a lungo in silenzio…
+Il passato si addensa su di lui come un banco di nubi, e alla fine prende una decisione.
+Nelle sue mani, la scacchiera e i caratteri si fondono in un rotolo senza scritte; Wang si volta deciso—
+[Dialog]
+[PlaySound(key="$d_avg_hgsldpn", volume=1)]
+[Image(image="pic_rogue_5_50",screenadapt="coverall",fadetime=2.5,block=true)]
+[Delay(time=2)]
+Il rotolo senza scritte si posa leggero alle spalle di Wang, come due braccia aperte.
+Il volto nel dipinto continua a sorridere con dolcezza.
+Wang consegna il rotolo nelle mani di Yi.
+[name="Wang"]…Lo affido a te.
+[name="Yi"]Farò tutto il possibile.
+[Dialog]
+[Delay(time=1.5)]
+La carta accoglie l'inchiostro, l'inchiostro accoglie le parole.
+Separati da tanti anni, potranno… rivedersi?
+[Dialog]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2.5, block=true)]
+[stopmusic(fadetime=2)]
+[charslot]
+[Image]

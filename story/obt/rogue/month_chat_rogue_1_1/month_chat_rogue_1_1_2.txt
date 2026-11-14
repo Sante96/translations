@@ -1,0 +1,15 @@
+[Title] MAIN_LOG_100_1
+[Div] Part.02
+[Dialog(head="char_290_vigna", delay=0)]L'altra volta ho dimenticato di chiedertelo: perché voi Vampiri mettete il timbro sui vostri migliori amici?
+[Dialog(head="char_171_bldsk", delay=0.5)]Dire “timbro” è davvero rozzo. Si chiama marchio, prego.
+[Dialog(head="char_290_vigna", delay=0.5)]Va bene… e a cosa serve, questo marchio?
+[Dialog(head="char_171_bldsk", delay=1)]Ogni Vampiro ha un odore che ama e a cui è particolarmente sensibile. Il marchio lascia per sempre quell'odore addosso a un'altra persona: così, anche quando i nostri cari sono a qualche chilometro di distanza, riusciamo a sentirli.
+[Dialog(head="char_171_bldsk", delay=1)]E naturalmente, in un certo senso, agli altri Vampiri manda anche un messaggio del tipo “questa persona è sotto la mia protezione”.
+[Dialog(head="char_311_mudrok", delay=0.5)]Anche tu mostri la tua amicizia in questo modo, Vampira?
+[Dialog(head="char_171_bldsk", delay=0.5)]Macché! Ormai solo quei vecchi fossili testardi usano ancora sistemi così all'antica per riconoscere gli amici. Io sono una persona molto pratica.
+[Dialog(head="char_171_bldsk", delay=0.5)]Gli amici si tengono nel cuore, e basta. Che bisogno c'è di stranezze del genere?
+[Dialog(head="char_290_vigna", delay=0.5)]Chi l'avrebbe mai detto, Warfarin, che su queste cose avessi tanto buonsenso.
+[Dialog(head="char_171_bldsk", delay=0.5)]Certo, se voleste firmare una liberatoria e partecipare a un mio esperimento, non direi mica di no, eh.
+[Dialog(head="char_311_mudrok", delay=1)]Vampira, io torno a prendermi cura della mia terra fertile.
+[Dialog(head="char_290_vigna", delay=0.5)]Mi sa che devo andare alle prove anch'io. Mudrock, andiamo insieme.
+[Dialog(head="char_171_bldsk", delay=0)]A-aspettate, potete partecipare all'esperimento anche senza firmare la liberatoria! Non andatevene!

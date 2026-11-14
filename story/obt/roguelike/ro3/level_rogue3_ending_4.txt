@@ -1,0 +1,69 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background]
+[delay(time=1)]
+[Dialog]
+[Background(image="bg_laccolith",screenadapt="coverall")]
+[PlaySound(key="$d_avg_sandwnd", volume=0, loop=true, channel="a")]
+[SoundVolume(volume=1, fadetime=4,channel="a")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
+[delay(time=1)]
+Questa è una terra di sabbia gialla che gli studiosi alla corte del Re dei Re non hanno mai cartografato.
+Qui le creature vengono disperse dal vento, l'oro e il ferro si fondono, e persino la sabbia viene consumata fino a sparire.
+Il tempo torna al caos; il tempo non si misura più con la vita e con la morte; il tempo è sconfinato.
+[dialog]
+[CameraShake(duration=3, xstrength=3, ystrength=2, vibrato=30, randomness=90, fadeout=true, block=false)]
+[PlaySound(key="$d_avg_mgcbttlfld", volume=0, loop=true, channel="b")]
+[PlaySound(key="$d_avg_sldrchrg", volume=0, loop=true, channel="z")]
+[SoundVolume(volume=0.4, fadetime=3,channel="b")]
+[SoundVolume(volume=0.2, fadetime=3,channel="z")]
+[delay(time=3)]
+Qui esistono, nitidi, soltanto il suono dei corni e il ruggito delle belve, soltanto due eserciti sterminati che caricano l'uno contro l'altro senza sosta, dall'orizzonte sfocato fino a un passo dagli occhi.
+Forse è una guerra iniziata per effetto dell'osservazione e della percezione degli esploratori. Forse è una guerra mai finita, e per questo mai cominciata.
+Gli esploratori riconoscono questo luogo.
+[Dialog]
+[StopSound(channel="a", fadetime=3)]
+[StopSound(channel="b", fadetime=3)]
+[StopSound(channel="z", fadetime=3)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
+[Image(image="pic_rogue_3_35",  screenadapt="coverall",xScale=1,xScale=1)]
+[ImageTween(xScaleTo=1.2, yScaleTo=1.2,yTo=50, duration=45, block=false)]
+[PlayMusic(intro="$snowmonster_intro", key="$snowmonster_loop", volume=0.6)]
+[PlaySound(key="$d_avg_churchfire", volume=0, loop=true, channel="c")]
+[SoundVolume(volume=0.4, fadetime=3,channel="c")]
+[bgeffect(name="$eb_burn",layer=1,y=-100)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+Kharanduu Khagan calpesta la terra, e nega che il suo Cammino celeste possa incontrare abissi invalicabili, o la sua conquista una fine.
+Lugalszargus decreta la vita e la morte, come se nella polvere del campo di battaglia non esistessero alba e tramonto perché il tempo è ancora stretto nel suo pugno.
+Gli antichi eroi dominano ogni cosa.
+Chi ci entra per errore non torna più indietro, e diventa vassallo della guerra.
+—Le Terre ardenti del Foehn.
+La guerra tra il Re dei Re e il Khagan dei Nightzmora ha lasciato questa terra di morte all'estremo sud del mondo.
+I passi degli esploratori, come quelli degli intrusi inceneriti dal vento rovente nel corso dei millenni, non sono che uno sbuffo di polvere in questa terra di morte.
+Gli esploratori stanno già dando fondo a tutte le loro forze solo per non essere spazzati via.
+La postazione difensiva montata in fretta sta per crollare; i membri della squadra sopravvivono a stento al caldo solo grazie a diversi mezzi di supporto, con cui hanno regolato le funzioni del proprio corpo.
+Pieni di paura, guardano con reverenza gli eroi che inseguono la meta ultima della loro grande impresa.
+Il tempo, privato di ogni misura, sembra dilatarsi all'infinito. Finalmente la megastruttura si riattiva, tra la sabbia gialla compare una luce di stelle, e gli esploratori corrono verso quella porta in preda al panico.
+“Lo stato di funzionamento di questa megastruttura è estremamente instabile.”
+“Il dispositivo di stabilizzazione spaziale è danneggiato… resterà attiva per poco… mi sentite? Andate via, presto.”
+[ImageTween(xScaleTo=1.5, yScaleTo=1.5, duration=45, block=false,yTo=150)]
+Nell'istante in cui varca la soglia in rovina, Magallan, in coda alla squadra, si volta ancora una volta a guardare il campo di battaglia.
+Respira la paura, sente il calore che si irradia.
+Poi ricorda l'annientamento a cui avevano assistito tanti anni prima, quando per la prima volta erano giunti alla fine della distesa ghiacciata senza fine, e la neve sciolta che le era caduta addosso.
+Ora capisce quale sia stata davvero l'ultima grande impresa dei due sovrani.
+L'energia spaventosa che ha trasformato la foresta pluviale in deserto non è nata dalla guerra tra loro due. Loro avevano respinto dei nemici simili a Crazelyseon, venuti attraverso l'anello.
+Il primo avvio della megastruttura ha dato risultati entusiasmanti. Per la prima volta l'umanità ha ottenuto informazioni sulle Terre ardenti del Foehn, per la prima volta ha potuto osservare con tanta chiarezza un frammento di storia di mille anni fa—
+anche gli eroi che lottarono contro l'eternità erano esseri umani, partiti un giorno da una landa desolata all'inseguimento dell'ignoto.
+Ora la porta è spalancata.
+I territori che si possono raggiungere non hanno più confini.
+Lo sguardo degli esploratori si è spinto fino a un passato remoto, mai immaginato prima.
+E gli esploratori andranno incontro a un futuro lontano, che nessun destino può predire.
+[Dialog]
+[charslot]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[StopSound(channel="c", fadetime=3)]
+[bgeffect]
+[stopmusic(fadetime=3)]
+[Image]

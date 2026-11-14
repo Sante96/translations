@@ -1,0 +1,26 @@
+[Title] MAIN_LOG_102_1
+[Div] Part.01
+[Dialog(head="char_349_chiave", delay=0.5)]Decidetevi! Questo “Ristorante Reale Classico”, ci andiamo o no?!
+[Dialog(head="char_346_aosta", delay=0)]No.
+[Dialog(head="char_356_broca", delay=0)]No.
+[Dialog(head="char_349_chiave", delay=1)]Ma che vi prende?! Un ristorante così caro, un'occasione così bella! E voi non ci volete andare?!
+[Dialog(head="char_356_broca", delay=0.5)]Chi te li ha dati, questi buoni sconto…?
+[Dialog(head="char_349_chiave", delay=0.5)]Ovvio, le conoscenze del sottoscritto…
+[Dialog(head="char_346_aosta", delay=0)]Li ha vinti a un concorso bevendo succhi di frutta per bambini.
+[Dialog(head="char_349_chiave", delay=0.5)]Non fatevi tante domande: ci andiamo o no?
+[Dialog(head="char_346_aosta", delay=0.5)]Ma la scritta in lingua di Gaul, su questo buono, non è sbagliata?
+[Dialog(head="char_349_chiave", delay=0.5)]Sbagliata? Aspetta, e tu come fai a conoscere la lingua di Gaul?
+[Dialog(head="char_356_broca", delay=0.5)]Che vuol dire “sconto del duecento per cento”? Ci pagano loro per mangiare?
+[Dialog(head="char_346_aosta", delay=0.5)]E poi questo buono è fatto proprio male: guarda, qui si sta pure scolorendo.
+[Dialog(head="char_349_chiave", delay=1)]Ah!
+[Dialog(head="char_349_chiave", delay=1)]È vero.
+[Dialog(head="char_356_broca", delay=1)]Ci sarà cascato di nuovo, scommetto.
+[Dialog(head="char_346_aosta", delay=0.5)]Senza dubbio.
+[Dialog(head="char_349_chiave", delay=1.5)]E dai, non fatevi tante domande! Se non andiamo a vedere, non lo sapremo mai.
+[Dialog(head="char_346_aosta", delay=0.5)]Usa un po' il cervello. Come fa un ristorante di lusso a fare dei buoni ridotti così?
+[Dialog(head="char_346_aosta", delay=0.5)]E anche se esistesse un posto del genere, non servirebbe certo gli infetti.
+[Dialog(head="char_346_aosta", delay=0.5)]Si vede lontano un miglio che è falso.
+[Dialog(head="char_349_chiave", delay=1.5)]Uff… davvero?
+[Dialog(head="char_356_broca", delay=0.5)]Aspetta, qual è il piatto forte che pubblicizzano qui…
+[Dialog(head="char_349_chiave", delay=0.5)]Vediamo… maccheroni alla marmellata d'arancia?
+[Dialog(head="char_346_aosta", delay=1)]Ma che razza di ristorante è?!

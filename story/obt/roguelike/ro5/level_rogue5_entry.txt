@@ -1,0 +1,67 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[stopmusic]
+[Dialog]
+[Delay(time=1)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="25_g09_teahouse",screenadapt="showall")]
+[Delay(time=1)]
+[playMusic(intro="$ponder_intro",key="$ponder_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=0.5)]
+[charslot(slot="m",name="avg_npc_1870_1#1$1",duration=1)]
+[Delay(time=1.5)]
+[charslot(slot="m",name="avg_npc_1870_1#1$1",focus="m")]
+[name="Liang"]Grazie a tutti di essere venuti. Seguitemi: più avanti c'è l'ingresso del Giardino delle Grottesche.
+[charslot(slot="m",name="avg_1043_leizi2_1#14$1",focus="m")]
+[name="Lin Qingyan"]È qui che si celebra il rito di pacificazione? Non sembra diverso da un comune giardino… Non c'è il rischio che qualcuno della gente comune ci entri per sbaglio?
+[charslot(slot="m",name="avg_npc_1870_1#1$1",focus="m")]
+[name="Liang"]Quando Yi scelse questo luogo così propizio, intendeva proprio costruirvi un giardino comune.
+[name="Liang"]Chi non ha legami con “Sui” ed entra per caso, vede soltanto un giardino comune; e chi non ha gusto per la “raffinatezza” non riesce nemmeno a trovarlo.
+[charslot(slot="m",name="avg_4121_zuole_1#1$1",focus="m")]
+[name="Zuo Le"]Da anni la Sovrintendenza di Sui sorveglia rigorosamente questa montagna, e i miei colleghi hanno fatto il possibile per ridurre al minimo l'influenza della Bestia Sui.
+[name="Zuo Le"]Dai piedi del monte fino al tempio sulla vetta: in origine era il percorso di prova che la Sovrintendenza di Sui aveva stabilito per i Reggicandela.
+[name="Zuo Le"]Ai piedi del monte non sembra esserci alcun pericolo, c'è solo gente in gita; ma più si sale, più diventa imprevedibile.
+[name="Zuo Le"]Solo i Reggicandela più colti e capaci di adattarsi riescono a salire in vetta, a completare il rito e quindi a superare la prova.
+[charslot(slot="m",name="avg_1043_leizi2_1#1$1",focus="m")]
+[name="Lin Qingyan"]E tu, l'hai già superata la prova?
+[charslot(slot="m",name="avg_4121_zuole_1#3$1",focus="m")]
+[name="Zuo Le"]Ho fatto domanda tante volte… Quando sarà il momento giusto, la supererò di sicuro.
+[charslot(slot="m",name="avg_4196_reckpr_1#10$1",focus="m")]
+[name="Yun Qingping"]Signor Liang, c'è una cosa che mi incuriosisce ancora: il signor Yi, che ci ha invitati qui, non ci conosce affatto. Perché si fida così tanto di noi?
+[charslot(slot="m",name="avg_npc_1870_1#1$1",focus="m")]
+[name="Liang"]Una volta nel Giardino, se il destino vorrà, lo incontrerete. Allora potrai chiederglielo tu stesso.
+[name="Liang"]Ah, a proposito: anche se vi ho invitati per il rito di pacificazione, il Giardino in sé custodisce molti tesori di Yi.
+[name="Liang"]Le cose belle vanno ammirate con gli occhi giusti. Mentre salite, perché non prendere il viaggio come una gita, e godervelo con calma?
+[name="Liang"]Solo che dietro le “cose” si nascondono spesso le vicende delle “persone”: alcune si possono toccare, altre no. Vi prego di stare attenti e di regolarvi di conseguenza.
+[name="Liang"]Un piccolo pensiero: vi prego di accettarlo.
+[charslot(slot="m",name="avg_4196_reckpr_1#10$1",focus="m")]
+[name="Yun Qingping"]E questi cosa sono?
+[charslot(slot="m",name="avg_npc_1870_1#1$1",focus="m")]
+[name="Liang"]Alcuni Tongbao speciali. Considerateli una piccola protezione.
+[charslot(slot="m",name="avg_1043_leizi2_1#11$1",focus="m")]
+[name="Lin Qingyan"]Grazie, signor Liang. Il rito sta per cominciare, quindi ci mettiamo in cammino.
+[charslot(slot="m",name="avg_npc_1870_1#1$1",focus="m")]
+[name="Liang"]Buon cammino.
+[Dialog]
+[charslot(slot="m",name="avg_1043_leizi2_1#11$1",focus="m")]
+[Delay(time=0.3)]
+[PlaySound(key="$d_avg_footstep_stonestep",volume=0.6,channel="step",loop=false)]
+[stopsound(channel="step",fadetime=2.5)]
+[charslot(duration=1)]
+[Delay(time=2)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
+[Background(image="bg_black",screenadapt="showall")]
+[Delay(time=0.5)]
+[Subtitle(text="Il gruppo varca l'ingresso ed entra nel Giardino delle Grottesche.", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Un giardino costruito con le sue mani da un rappresentante di Sui, che ha trasformato il passato in una roccia artificiale, un sigillo inciso, un carattere mobile, una macchia d'inchiostro.", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Calpesteranno terre proibite e toccheranno con le proprie mani un passato coperto di polvere.", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Il portone è aperto: prego, entrate nel Giardino.", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[subtitle]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[delay(time=1)]
+[Dialog]
+[stopmusic(fadetime=3)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Image]

@@ -1,0 +1,68 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background(image="52_mini03_sarkazfurnace",screenadapt="coverall")]
+[charslot]
+[Delay(time=1)]
+[playMusic(intro="$drift_intro",key="$drift_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+[Delay(time=2)]
+[PlaySound(key="$d_avg_clothmovement", volume=1)]
+[charslot(slot="m",name="avg_4146_nymph_1#10$1",focus="m",duration=2)]
+[charslot(slot="m",name="avg_4146_nymph_1#10$1",focus="m",posfrom="0,-30",posto="0,0",duration=2)]
+[delay(time=2.5)]
+[name="Nymph"]Ahi ahi ahi…
+[charslot(slot="m",name="avg_4146_nymph_1#7$1",focus="m")]
+[name="Nymph"]Dove sono?
+[Dialog]
+[charslot]
+[charslot(slot="m",name="avg_4151_tinman_1#1$1",focus="m",duration=1)]
+[delay(time=2)]
+[name="Tin Man"]Nella Fornace delle Anime. La Fornace delle Anime di Kazdel.
+[charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
+[name="Nymph"]Signor Tin Man?
+[charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
+[name="Nymph"]Cos'è appena successo? Qui c'è qualcosa che… non va?
+[charslot(slot="m",name="avg_4151_tinman_1#1$1",focus="m")]
+[name="Tin Man"]Non avevi promesso alle Anime morte della fornace di raccontare una storia migliore, di mettere in scena una Kazdel ancora più straordinaria?
+[charslot(slot="m",name="avg_4151_tinman_1#1$1",focus="m")]
+[name="Tin Man"]Ora ci hanno messo la penna in mano.
+[charslot(slot="m",name="avg_4151_tinman_1#3$1",focus="m")]
+[name="Tin Man"]Sbizzarrisciti pure, Nymph. Comincia da qui, dalla fornace che conosciamo meglio di ogni altro posto.
+[charslot(slot="m",name="avg_4151_tinman_1#3$1",focus="m")]
+[name="Tin Man"]Tira fuori tutte le idee che hai in testa e scrivi la terra dei Sarkaz con fantasie che nessuno ha mai osato raccontare.
+[charslot(slot="m",name="avg_4151_tinman_1#1$1",focus="m")]
+[name="Tin Man"]Fai in modo che quei vecchiacci si incuriosiscano, trasaliscano, si arrabbino e ridano.
+[charslot(slot="m",name="avg_4151_tinman_1#1$1",focus="m")]
+[name="Tin Man"]Fai riassaporare il gusto della vita a quelle anime bruciate fino a perdere i contorni.
+[Dialog]
+[charslot]
+La fornace è calma: dentro non si avvertono il dolore e la rabbia delle Anime morte che bruciano.
+Non sono lì.
+Ma Nymph le sente: le Anime morte sono radunate da qualche parte, e osservano, commentano, litigano.
+[charslot(slot="m",name="avg_4146_nymph_1#15$1",focus="m")]
+[name="Nymph"]Allora, appena si sono svegliati tutti, partiamo.
+[charslot(slot="m",name="avg_4146_nymph_1#14$1",focus="m")]
+[name="Nymph"]Intanto vado a dare un'occhiata più avanti.
+[charslot(slot="m",name="avg_4151_tinman_1#8$1",focus="m")]
+[name="Tin Man"]Non allontanarti troppo.
+[charslot(slot="m",name="avg_4146_nymph_1#1$1",focus="m")]
+[name="Nymph"]Sì, starò attenta.
+[Dialog]
+[charslot]
+[PlaySound(key="$d_gen_walk_n")]
+[delay(time=3)]
+[Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
+[Sticker(id="st1", multi = true, text="All'inizio di questa storia, i Sarkaz si risvegliano nel cuore di Kazdel.", x=300,y=270, alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="\nNessun passato opprimente, nessun futuro senza speranza. ",block = true)]
+[Sticker(id="st1", multi = true, text="\nNulla è ancora accaduto, nulla è ancora finito.",block = true)]
+[Sticker(id="st1")]
+[Sticker(id="st1", multi = true, text="Così, una volta pronti, lasciano la fornace e si dirigono verso l'ignoto ancora da raccontare. ",x=300,y=270, alignment="left", size=26, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="\nLa storia volta pagina.",block = true)]
+[Sticker(id="st1")]
+[Dialog]
+[charslot]
+[stopmusic(fadetime=3)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
+[Image]

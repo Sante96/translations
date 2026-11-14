@@ -1,0 +1,35 @@
+[Title] MAIN_LOG_107_1
+[Div] Part.03
+[Dialog(head="char_183_skgoat", delay=0.5)]Bene, ultimo colpo! Appena finisco di registrare questi dati, possiamo andare.
+[Dialog(head="char_183_skgoat", delay=0.5)](Rumore di scrittura)
+[Dialog(head="char_183_skgoat", delay=0.5)]La raffinatezza della manifattura reale dipende in certa misura dai cristalli di Originium ad alta purezza incastonati…
+[Dialog(head="char_148_nearl", delay=0.5)]L'ora dell'appuntamento con Maria si avvicina: potrebbe affidarmi la spilla per un po'?
+[Dialog(head="char_426_billro", delay=0.5)]Mmh… mi fido che non la romperai, ma vengo con te a tenerla d'occhio.
+[Dialog(head="char_426_billro", delay=1)]Ah, giusto: Maria è tua sorella?
+[Dialog(head="char_148_nearl", delay=0.5)]Sì.
+[Dialog(head="char_426_billro", delay=0.5)]E quella piccola peste di casa tua parla mai male di te nel sonno?
+[Dialog(head="char_148_nearl", delay=0.5)]Cosa? …Assolutamente no.
+[Dialog(head="char_426_billro", delay=0.5)]Oh? Allora mi sa che non andate poi così d'accordo.
+[Dialog(head="char_148_nearl", delay=0.5)]Eh?
+[Dialog(head="char_183_skgoat", delay=0.5)](Rumore di scrittura)
+[Dialog(head="char_183_skgoat", delay=0.5)]Facendo affidamento sui circuiti a purezza di cristallo di Originium è possibile migliorare…
+[Dialog(head="char_148_nearl", delay=0.5)]Parlare male di qualcuno nel sonno sarebbe segno di un buon rapporto?
+[Dialog(head="char_426_billro", delay=0.5)]È un segno di intimità, sai.
+[Dialog(head="char_426_billro", delay=0.5)]Da brava sorella maggiore, è fondamentale mantenere un'immagine gentile davanti alla sorellina.
+[Dialog(head="char_426_billro", delay=0.5)]Però, a quella piccola peste di casa mia, chissà cosa piace?
+[Dialog(head="char_183_skgoat", delay=0.5)]…I processi di accumulo energetico sono troppo complessi, riprodurli non è fattibile.
+[Dialog(head="char_148_nearl", delay=0.5)]A Maria piace riparare macchinari: fin dall'inizio voleva diventare un'artigiana.
+[Dialog(head="char_148_nearl", delay=0.5)]Le piacciono molto anche i dolci a base di frutta.
+[Dialog(head="char_426_billro", delay=0.5)]La piccola peste di casa mia, ogni volta che inciampa nell'orlo del vestito e cade, viene da me a farsi consolare.
+[Dialog(head="char_148_nearl", delay=0.5)]Maria dice che da piccola la cosa che amava di più era guardarmi allenare in giardino.
+[Dialog(head="char_426_billro", delay=1)]…La spilla.
+[Dialog(head="char_148_nearl", delay=0.5)]…Lasciamo perdere. Signorina Earthspirit, noi ci allontaniamo un momento.
+[Dialog(head="char_183_skgoat", delay=0.5)]…Mm mm, va bene…
+[Dialog(head="char_426_billro", delay=0.5)]Torniamo subito.
+[Dialog(head="char_183_skgoat", delay=0.5)]Sì, sì, ho sentito. Sulla base di quanto sopra, ritengo che la ricerca possa concentrarsi sull'aggiornamento tecnologico…
+[Dialog(head="char_183_skgoat", delay=0.5)](Rumore di scrittura)
+[Dialog(head="char_183_skgoat", delay=0.5)]…Mm, perfetto.
+[Dialog(head="char_183_skgoat", delay=0.5)]Bene, ragazze, il rapporto di missione è compilato, vado a consegnarlo. Quando uscite, ricordatevi di spegnere la luce.
+[Dialog(head="char_183_skgoat", delay=2)]…Ehi? Dove siete finite?
+
+

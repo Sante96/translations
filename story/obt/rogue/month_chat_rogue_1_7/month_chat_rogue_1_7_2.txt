@@ -1,0 +1,25 @@
+[Title] MAIN_LOG_106_1
+[Div] Part.02
+[Dialog(head="char_4025_aprot2", delay=0.5)]Questa è…
+[Dialog(head="char_338_iris", delay=0.5)]Sembra che il signor Shalem sappia di che si tratta.
+[Dialog(head="char_208_melan", delay=0.5)]Che bello, hai proprio trovato la persona giusta, signorina Iris.
+[Dialog(head="char_4025_aprot2", delay=0.5)]Perdonatemi, lasciatemi riflettere un momento.
+[Dialog(head="char_338_iris", delay=0.5)]Va bene, non ho fretta.
+[Dialog(head="char_208_melan", delay=0.5)](Lievi sorsi di tè)
+[Dialog(head="char_4025_aprot2", delay=0.5)]Ah, credo di ricordare.
+[Dialog(head="char_4025_aprot2", delay=0.5)]Questa è—
+[Dialog(head="char_338_iris", delay=0.5)]È?
+[Dialog(head="char_208_melan", delay=0.5)](Fruscio di coda)
+[Dialog(head="char_4025_aprot2", delay=0.5)]È un buono sconto di una pasticceria di Londinium, signorine.
+[Dialog(head="char_338_iris", delay=0.5)]Lei…
+[Dialog(head="char_338_iris", delay=0.5)]Sta mentendo, vero?
+[Dialog(head="char_4025_aprot2", delay=0.5)]Non avrei alcun motivo di—
+[Dialog(head="char_208_melan", delay=0.5)]A Londinium non amano molto un rosso così scuro…
+[Dialog(head="char_338_iris", delay=0.5)]Oh? Quindi c'entra il colore?
+[Dialog(head="char_4025_aprot2", delay=1.5)]Ehm…
+[Dialog(head="char_338_iris", delay=1)]Oh oh, signor Shalem, ha cambiato espressione.
+[Dialog(head="char_338_iris", delay=0.5)]A guardarlo meglio, questo colore… non sarà per caso della Cremisi… qualcosa?
+[Dialog(head="char_4025_aprot2", delay=0.5)]Hmph…
+[Dialog(head="char_4025_aprot2", delay=0.5)]Lei è molto perspicace, signorina Iris.
+
+

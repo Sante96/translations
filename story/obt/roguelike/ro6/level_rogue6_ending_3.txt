@@ -1,0 +1,109 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[playMusic(key="$calm_loop", volume=0.6)]
+[Image(image="pic_rogue_6_43", screenadapt="coverall", fadetime=2, block=true)]
+[Delay(time=2)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
+[Delay(time=1)]
+Senza rendersene conto, è rimasta lì in piedi a fissare il vuoto per un bel pezzo.
+Lorenz ha la sensazione di aver dimenticato qualcosa di importante, ma per quanto ci provi non riesce a ricordarlo.
+Contempla rapita il paesaggio davanti a sé. Una distesa dorata così sconfinata è uno spettacolo che non ha mai avuto occasione di fermarsi ad ammirare.
+Per la prima volta le sembra di capire davvero quell'espressione letta nei libri: “il cielo e la terra”.
+[name="Lorenz"]Organismo anomalo oggetto di ricerca, nome in codice d'archivio Cadejo, origine di tutti i segugi, artefice del Flusso Nero.
+[name="Lorenz"]Niente di tutto questo sei più tu. Tu sei soltanto tu, come dovrebbe essere per ogni forma di vita.
+[name="Lorenz"]Le tue ferite alla fine guariranno, e il tuo sangue smetterà di divorare senza fine ogni vita di questa terra.
+[name="Lorenz"]I luoghi dove scorre quell'oro diventeranno, col tempo, distese di prati bellissimi che nutriranno la vita di ogni cosa, e ogni cosa nutrirà la tua.
+[name="Lorenz"]Sia benedetta questa terra, Bolívar.
+[name="Lorenz"]Sia benedetto tu, Ca—
+[Dialog]
+[stopmusic(fadetime=0.2)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[PlaySound(key="$d_gen_thunders_amb", volume=0.35)]
+[CameraShake(duration=0.5, xstrength=15, ystrength=18, vibrato=25, randomness=90, fadeout=true, block=false)]
+[Image]
+[charslot]
+[Background(image="75_mini05_provingground",screenadapt="coverall")]
+[Delay(time=0.2)]
+[charslot(slot="m",name="avg_4229_aphris_1#12$1")]
+[PlayMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[name="Lorenz"]……
+[name="Lorenz"]Che succede? Non ho attivato nessuno dei dispositivi collegati. Perché sono finita in un sogno, poco fa… Era il sogno di Cadejo?
+[name="Lorenz"]Le sue ferite non possono assolutamente essere già guarite, e né io né lui dovremmo sognare così facilmente. Non è una cosa normale…
+[charslot(slot="m",name="avg_4229_aphris_1#6$1")]
+[name="Lorenz"]Un momento, questo segnale… la belva rinchiusa nella “Gabbia” si è attivata…
+[Dialog]
+[charslot]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[charslot(slot="m",name="avg_4234_pedro_1#10$1",duration=1.5)]
+[Delay(time=2)]
+[charslot(slot="m",name="avg_4234_pedro_1#10$1",focus="m")]
+[name="Pedro"]Signorina Lorenz, c'è qualcosa che non va. Meglio andarcene, per ora.
+[name="Pedro"]La tua presenza… sembra un po' diversa.
+[charslot(slot="m",name="avg_4229_aphris_1#1$1",focus="m")]
+[name="Lorenz"]Il mio piano è compiuto. Riesci perfino ad accorgerti che sono cambiata: a quanto pare, i misteri che ti riguardano sono aumentati di uno. Però mi sa che sono vicina alla risposta.
+[charslot(slot="m",name="avg_4234_pedro_1#10$1",focus="m")]
+[name="Pedro"]Lasciamo stare, per ora. Ci sono molti segugi che si avvicinano, e sembra che qualcosa li stia inseguendo.
+[charslot(slot="m",name="avg_4229_aphris_1#1$1",focus="m")]
+[name="Lorenz"]L'ho percepito anch'io, vagamente. La Foresta del Flusso Nero non è certo a corto di segreti e sorprese.
+[charslot(slot="m",name="avg_4229_aphris_1#1$1",focus="m")]
+[name="Lorenz"]Non preoccuparti, quei segugi non vengono ad attaccarci: sono solo in preda al panico. Quanto alle altre cose, nemmeno loro cercano noi o i segugi.
+[name="Lorenz"]A quanto pare ho disturbato certi tipi arrivati qui prima di me, che hanno cambiato questo posto. Probabilmente vengono a controllare che cosa è successo.
+[charslot(slot="m",name="avg_4234_pedro_1#10$1",focus="m")]
+[name="Pedro"]E adesso che facciamo?
+[charslot(slot="m",name="avg_4229_aphris_1#5$1",focus="m")]
+[name="Lorenz"]Potrebbero diventare il mio prossimo oggetto di studio. Mi piacerebbe andarci d'accordo, ma per adesso è meglio spostarci.
+[Dialog]
+[charslot]
+[delay(time=1)]
+[playsound(key="$d_avg_magic_1")]
+[Background(image="75_mini04_treedeep",screenadapt="coverall",fadetime=2)]
+[Delay(time=3)]
+[charslot(slot="l",name="avg_4234_pedro_1#4$1",duration=1.5)]
+[charslot(slot="r",name="avg_4229_aphris_1#1$1",duration=1.5)]
+[Delay(time=2)]
+[charslot(slot="l",name="avg_4234_pedro_1#4$1",focus="l")]
+[name="Pedro"]Questo posto è… Vorrei proprio chiederti che razza di trucco sia questo teletrasporto istantaneo, ma credo che dovrei farci l'abitudine.
+[charslot(slot="r",name="avg_4229_aphris_1#1$1",focus="r")]
+[name="Lorenz"]Prenditi pure tutto il tempo per abituarti. È una tecnica che ho imparato da poco.
+[charslot(slot="l",name="avg_4234_pedro_1#4$1",focus="l")]
+[name="Pedro"]Allora, che cosa è successo esattamente? Che cosa ha messo in agitazione i segugi che si erano calmati? E che cos'è che corre verso il sito sperimentale?
+[charslot(slot="r",name="avg_4229_aphris_1#11$1",focus="r")]
+[name="Lorenz"]Qualcuno ha scoperto degli indizi, ha trovato il tumore di Cadejo e ha provato a eliminarlo. Una mossa decisamente troppo avventata: vorrei che avessero un minimo di giudizio.
+[name="Lorenz"]Immagino sia qualche esploratore sfortunato venuto da chissà dove. Quelli della Maylander e del Governo di coalizione difficilmente avrebbero voglia di sobbarcarsi una seccatura simile.
+[name="Lorenz"]A Cadejo non provoca nessun dolore, ma temo che a lui e ai segugi dia comunque una strana sensazione.
+[charslot(slot="l",name="avg_4234_pedro_1#4$1",focus="l")]
+[name="Pedro"]Che cosa succederà, se eliminano il tumore?
+[charslot(slot="r",name="avg_4229_aphris_1#5$1",focus="r")]
+[name="Lorenz"]Niente. Ho imprigionato quel tumore proprio perché qualsiasi cosa si faccia è inutile: anche uccidendolo a livello informativo e concettuale, si rigenera.
+[name="Lorenz"]Ormai fa parte del corpo di Cadejo. Finché Cadejo sarà vivo, finché Bolívar esisterà, non potrà essere eliminato.
+[name="Lorenz"]Comunque, dopo l'attivazione di “Theory-4”, la mia “piccola teoria”, e per effetto di quel tumore, è venuto allo scoperto proprio ciò che intendevo studiare. Non tutto il male viene per nuocere.
+[name="Lorenz"]Gli “abitanti” e gli altri strani fenomeni che i vecchi rapporti sulla Foresta del Flusso Nero non hanno mai menzionato sono probabilmente tutti opera di qualcuno che ha rimaneggiato questo posto prima di me.
+[name="Lorenz"]Davvero inquietante. Devono essere state quelle cose a trascinare me e Cadejo, senza che ce ne accorgessimo, dentro un sogno creato da loro… Ma che cosa sono, in realtà?
+[Dialog]
+[stopmusic(fadetime=2)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=4, block=true)]
+[charslot]
+[Image(image="pic_rogue_6_44", screenadapt="coverall", fadetime=2, block=true)]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
+[name="Cadejo"]……
+[name="Creatura prodigiosa"]Ideale.
+[name="Creatura prodigiosa"]Idea.
+[name="Creatura prodigiosa"]Direttiva.
+[name="Creatura prodigiosa"]Futuro.
+[name="Creatura prodigiosa"]Utopia.
+[name="Creatura prodigiosa"]Non ancora trovata.
+[name="Creatura prodigiosa"]Va' a crearla.
+[Dialog]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2.5, block=true)]
+[stopmusic(fadetime=2)]
+[charslot]
+[Image]

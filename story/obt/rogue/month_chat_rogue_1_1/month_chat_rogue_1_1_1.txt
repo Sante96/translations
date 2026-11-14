@@ -1,0 +1,18 @@
+[Title] MAIN_LOG_100_1
+[Div] Part.01
+[Dialog(head="char_171_bldsk", delay=0)]Insomma, noi Vampiri di solito marchiamo soltanto le persone a cui siamo legati da un rapporto stretto.
+[Dialog(head="char_171_bldsk", delay=0.5)]Se qualcuno ha il nostro sigillo intero, vuol dire che o ci ha uccisi, o che tra noi c'è un legame tale da affidarsi la vita a vicenda. Chiaro?
+[Dialog(head="char_290_vigna", delay=1)]Aspetta, fammi capire bene…
+[Dialog(head="char_311_mudrok", delay=0)]Ho capito.
+[Dialog(head="char_290_vigna", delay=0)]Eh?
+[Dialog(head="char_311_mudrok", delay=0.5)]Donare terra fertile e offrire dura pietra non sono la stessa cosa.
+[Dialog(head="char_171_bldsk", delay=0.5)]Ah, quindi è così che i figli della terra e della pietra trattano amici e parenti. Uff, oggi ho davvero imparato qualcosa.
+[Dialog(head="char_290_vigna", delay=0.5)]Cosa?
+[Dialog(head="char_290_vigna", delay=0.5)]No, aspettate, ma di che state parlando?
+[Dialog(head="char_311_mudrok", delay=0.5)]E tu, Vigna? Che regalo faresti a un amico?
+[Dialog(head="char_290_vigna", delay=0.5)]Io…
+[Dialog(head="char_290_vigna", delay=1)]Io, probabilmente, tirerei fuori la chitarra e gli suonerei un bel pezzo.
+[Dialog(head="char_290_vigna", delay=0.5)]Anzi, la pausa pranzo non è ancora finita: ve ne suono un po' adesso, così tiriamo su l'atmosfera.
+[Dialog(head="char_290_vigna", delay=0.5)](Suono di chitarra)
+
+

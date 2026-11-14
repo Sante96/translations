@@ -1,0 +1,142 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background]
+[delay(time=1)]
+[Dialog]
+[delay(time=2)]
+[playMusic(intro="$distressed_intro", key="$distressed_loop",volume=0.6)]
+[dialog]
+[Background(image="38_g21_skystarry_r1",screenadapt="coverall")]
+[Dialog]
+[charslot]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=5, block=true)]
+Portando con sé le idee e la premura di Nymph, la chiave affonda nel corpo di “Amiya”; un'oscurità simile all'Originium l'avvolge, e lei svanisce nel nulla.
+[dialog]
+[charslot(slot="m",name="avg_4146_nymph_1#10$1",focus="m",duration=1.5)]
+[delay(time=2)]
+[name="Nymph"]Scusami, Amiya…
+[dialog]
+[charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
+[name="Nymph"]Uff, con una storia raccontata così, gli antenati non saranno contenti…
+[charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
+[name="Nymph"]Signor Tin Man, adesso cosa facciamo?
+[dialog]
+[charslot]
+[delay(time=2.5)]
+[charslot(slot="m",name="avg_4146_nymph_1#7$1",focus="m")]
+[name="Nymph"]Signor Tin Man? Ermi? Signora Qalaiša?
+[dialog]
+[charslot]
+[PlaySound(key="$d_avg_clothmovement", volume=1)]
+[delay(time=1)]
+Nymph si volta, ma non c'è nessuno.
+Le storie raccontate, le strade percorse: ora tutto è svanito senza lasciare traccia.
+Solo le stelle che brillano in lontananza forse ne hanno serbato memoria.
+[dialog]
+[PlaySound(key="$d_gen_walk_n")]
+[charslot(slot="m",name="avg_npc_6666_1#1$1",focus="m",duration=1.5)]
+[delay(time=3)]
+[charslot(slot="m",name="avg_4146_nymph_1#2$1",focus="m")]
+[CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="Nymph"]Amiya?!
+[dialog]
+[charslot]
+La chiave senza fine, che avrebbe dovuto aprire la serratura del suo cuore, ricompare a mezz'aria; “Amiya” la prende e la restituisce a Nymph.
+[dialog]
+[charslot(slot="r",name="avg_npc_6666_1#3$1",focus="all")]
+[charslot(slot="l",name="avg_4146_nymph_1#17$1",focus="all")]
+[charslot(slot="r",posfrom="0,0",posto="-90,0",focus="all",duration=1.5)]
+[delay(time=1.5)]
+[delay(time=1)]
+[charslot(slot="r",posfrom="-90,0",posto="0,0",focus="all",duration=2)]
+[delay(time=2)]
+[charslot(slot="l",name="avg_4146_nymph_1#17$1",focus="l")]
+[name="Nymph"]G-grazie…
+[dialog]
+[charslot]
+Nymph ne è certa: chi le sta davanti è ancora l'incarnazione della fine, ed è davvero venuta a chiudere ogni cosa.
+Ma al tempo stesso è ancora l'Amiya che Nymph conosce bene: la sua compassione e la sua bontà non sono sbiadite con il mutare della sua natura.
+Davanti a lei, Nymph non prova la minima paura.
+Le ha persino restituito la chiave sorridendo, e quel sorriso la Djall lo conosce fin troppo bene.
+Ma che cosa sta succedendo?
+Nymph ricorda soltanto che, rimasta a corto di idee, aveva accettato l'immaginazione dei vecchi antenati.
+Cos'è successo nel frattempo?
+Crac.
+[dialog]
+[charslot(slot="m",name="avg_4146_nymph_1#7$1",focus="m")]
+[name="Nymph"]Eh?
+[dialog]
+[charslot]
+Dalla sua mano proviene uno strano rumore, come quello di un guscio d'uovo che si incrina, ma al contrario.
+Abbassando lo sguardo, Nymph scopre che la chiave che teneva in mano, chissà da quando, è diventata un bozzolo bianco e luminoso, e che frammenti di guscio nero ci si stanno attaccando sopra lentamente, risalendo dal basso.
+Nella luce riflessa dal bozzolo bianco e dal guscio nero, Nymph vede una storia dopo l'altra:
+Morte per mano dell'uomo, morte per l'Originium, morte per la Catastrofe.
+Sono le storie di “Amiya”. Forse per ringraziare Nymph della gentilezza che le ha mostrato, ha condiviso il proprio passato con questa amica mai incontrata prima.
+[dialog]
+[charslot(slot="m",name="avg_npc_6666_1#1$1")]
+[delay(time=1)]
+[charslot(duration=3)]
+[delay(time=4.5)]
+Ma al tempo stesso ha messo un punto fermo al viaggio di Nymph.
+[dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=4, block=true)]
+[Background(image="bg_black",screenadapt="coverall")]
+[Dialog]
+[charslot]
+[delay(time=1)]
+Tutti i narratori, prima o poi, devono affrontare questo momento.
+Quando l'immaginazione si esaurisce e l'ispirazione svanisce, si rincorre ciecamente un finale.
+E così, si arriva al proprio ultimo giorno.
+[dialog]
+[Image(image="pic_rogue_4_48", x=-20,y=0, xScale=0.87, yScale=0.87)]
+[ImageTween(image="pic_rogue_4_48", xTo=0,yTo=0, xScaleTo=0.85, yScaleTo=0.85, duration=10)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
+[delay(time=2)]
+Il bozzolo bianco, che emana una luce calda, avvolge delicatamente i narratori; Amiya ha compiuto questo passo prima ancora che se ne accorgessero.
+Come la sonnolenza che precede il riposino pomeridiano, e che dolcemente accompagna nel sonno.
+Dopodiché, nulla cambia più.
+Il dolore viene reciso, la gioia resta per sempre, e perfino la morte, scacciata, se ne va mortificata da ogni storia.
+Dopodiché, un “Originium” nero come il cielo notturno vi si arrampica lentamente e fissa tutto ciò che c'è attorno: così nessuna forza esterna potrà più cambiare la storia di una virgola.
+Nel tempo senza fine, i racconti fissati ruotano come pianeti attorno a colei che li ha conclusi, e vedono una storia dopo l'altra unirsi alle loro file.
+Eppure…
+[dialog]
+[Image(image="pic_rogue_4_47", x=0,y=0, xScale=0.85, yScale=0.85,fadetime=2)]
+[delay(time=2)]
+Amiya, senza dire una parola, osserva la storia sigillata a metà davanti a sé.
+Dove un tempo c'erano Nymph e i suoi compagni, ora restano soltanto dei vuoti a forma di persona.
+Compiuta la loro missione, possono tornare sereni da dove sono venuti.
+Restano soltanto i racconti fissati, che continuano a ruotare attorno ad Amiya.
+Una volta partiti i narratori, queste fiabe non avranno più fine; e così la sofferenza di quelle storie non arriverà mai.
+Ma come i narratori sono impotenti davanti a tante cose della storia, così la storia stessa non può nulla contro ciò che fanno i narratori.
+Loro possono andarsene, ma Amiya, che fa parte della storia, resterà per sempre in questo vuoto.
+Volge lo sguardo lontano.
+[dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Image(image="pic_rogue_4_47", x=-90,y=-70, xScale=1.3, yScale=1.3)]
+Forse, da qualche parte, in un altrove che lei non può raggiungere…
+c'è un'altra persona, un'altra storia, un'altra ricerca della fine.
+Quella persona ha superato innumerevoli ostacoli, sconfitto innumerevoli nemici e, negli ultimi istanti prima del finale, ha ricevuto un messaggio da lontano.
+È un'immagine fatta di emozioni, e la sua protagonista ha un volto familiare.
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=2)]
+Voleva salvare ogni cosa, e invece ha potuto solo guardare impotente la sofferenza avvicinarsi a quella persona.
+Eppure quella persona ha spezzato ogni catena e ora si trova davanti alla porta del traguardo.
+Ne è felice: non chiede nulla, se non di poter offrire la sua benedizione.
+È questo che vuole comunicare.
+Prima che tutto finisca, quella persona vorrà certo rispondere a questo messaggio.
+Prendiamolo come il punto fermo sull'ultima pagina.
+[dialog]
+[delay(time=1)]
+[Decision(options="Se sei stanca, chiudi gli occhi e riposa un po'. Resto io con te.;Scusami, Amiya. Vorrei tanto poter fare qualcosa per te.;(Silenzio)", values="1;2;3")]
+[Predicate(references="1;2;3")]
+[delay(time=1)]
+[Image(image="pic_rogue_4_48", x=-90,y=-70, xScale=1.3, yScale=1.3,fadetime=2)]
+[delay(time=5)]
+[Dialog]
+[charslot]
+[stopmusic(fadetime=3)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[Image]

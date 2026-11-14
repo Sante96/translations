@@ -1,0 +1,155 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background(image="bg_black",screenadapt="coverall")]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=1)]
+[Subtitle(text="L'ultima cosa che i membri della spedizione vedono prima di perdere i sensi sono due strani individui che arrivano di corsa e, con fasci di luce incredibili, tengono a bada i nemici per qualche istante.", x=300, y=340, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Ma i due sembrano finire subito in una lotta disperata. Bisognerebbe farsi avanti e dargli una mano, ma che cosa si può fare con dei semplici attrezzi da scavo archeologico…", x=300, y=340, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="Forse perché in questa giornata sono successe troppe cose, e troppo confuse, le loro menti stremate alla fine staccano la spina, e i membri della spedizione sprofondano in un sonno vischioso.", x=300, y=340, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Dialog]
+[charslot]
+[Background(image="75_mini03_highland",screenadapt="coverall")]
+[Delay(time=2)]
+[PlayMusic(intro="$newhope01_intro", key="$newhope01_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+Al risveglio, i membri della spedizione si sentono esausti. Erano venuti qui solo per fare un'esplorazione un po' fuori dal comune: perché mai hanno dovuto vedere tante cose incomprensibili?
+Quella testa calda di Casas diceva di aver trovato una mappa, e invece era solo una strana lastra di pietra che si illuminava come una torcia. Eppure, dove puntava la sua luce, comparivano sentieri che prima non esistevano.
+Seguendo le sue indicazioni hanno trovato le rovine di una grande civiltà antica dove nessuno aveva mai messo piede, ma si sono ritrovati circondati da creature bizzarre e da soldati.
+E Casas, che tutto eccitato aveva dissotterrato un reperto della civiltà antica, in un istante ha ridotto tutti i nemici a una nebbia di sangue e si è trasformato in un omone dal costume stravagante…
+Un caos totale, non si capisce proprio che cosa sia successo! Se quei due non fossero sbucati da chissà dove… Comunque sia, bisogna ringraziarli.
+[charslot(slot="l",name="avg_npc_534_1$1",focus="l")]
+[name="Membro della spedizione A"]Non so davvero come ringraziarvi. Se non ci aveste aiutati, saremmo spacciati di sicuro.
+[Dialog]
+[PlaySound(key="$d_avg_clothmovement", volume=1)]
+[charslot(slot="r",name="avg_npc_1796_1#1$1",posfrom="0,-150", posto="0,0",afrom=0, ato=1,duration=1.5,focus="r")]
+[Delay(time=2)]
+[name="Membro della spedizione B"]Ugh… mi gira ancora la testa, e non ho forze in tutto il corpo…
+[charslot]
+[charslot(slot="m",name="avg_npc_1663_1#1$1",focus="m")]
+[name="Payucaca"]Siete rimasti svenuti per mezza giornata e non vi siete ancora ripresi del tutto. Stanotte è meglio accamparsi qui e rimettersi in cammino domani.
+[charslot]
+[charslot(slot="l",name="avg_npc_534_1$1",focus="l")]
+[charslot(slot="r",name="avg_npc_1796_1#1$1",focus="l")]
+[name="Membro della spedizione A"]Ma questo posto è sicuro? Quei soldati di prima non salteranno fuori di nuovo?
+[charslot]
+[charslot(slot="m",name="avg_4229_aphris_1#5$2",focus="m")]
+[name="Lorenz"]Non credo che abbiate altra scelta, visto che non tutti i vostri compagni si sono ancora svegliati.
+[charslot]
+[charslot(slot="l",name="avg_npc_534_1$1",focus="r")]
+[charslot(slot="r",name="avg_npc_1796_1#1$1",focus="r")]
+[name="Membro della spedizione B"]Eh, già. Facciamo come dite voi.
+[charslot]
+Lorenz guarda la lastra di pietra e il disco, ormai spenti e in frantumi, e sospira. Probabilmente non è più possibile analizzarli, ma forse possono ancora servire a qualcos'altro.
+In passato aveva già visto e analizzato altri manufatti simili, e ne aveva dedotto che una qualche volontà interferisce con la Foresta del Flusso Nero, plasmando il Flusso Nero in tante “Realtopie” e “Utopie”.
+Anche se Lorenz non ne conosce gli scopi, né le interessano, non riesce a trattenere la curiosità: che razza di esseri possiedono una tecnologia simile, e su che cosa si basa?
+Questa tecnologia controlla l'informazione molto più di Theory-4 o di Cadejo, eppure chi la usa sembra impiegarla soltanto per creare di continuo, dentro la Foresta del Flusso Nero, forme di quasi-vita ed ecosistemi sempre diversi.
+Il sentiero percorso da questi esploratori, e perfino le intere “rovine della civiltà antica”, in sostanza sono probabilmente aggregati di informazione: un progetto scartato, risvegliato dal desiderio di Casas.
+Ora che le due Fonti dell'ideale sono state distrutte, gli “abitanti” di questa zona, e forse la zona stessa, dovrebbero dissolversi a poco a poco nel giro di due o tre giorni.
+Fino ad allora, meglio lasciare che questi esploratori si riposino per bene e ripartano domani. Dopo aver visto con i propri occhi entità informative così dense, svenire per mezza giornata è il minimo.
+Quanto a quel giovane di nome Casas… dopo essere stato posseduto in quel modo da una Fonte dell'ideale, sarà già un miracolo se avrà conservato il suo io originario. Di certo non si sveglierà prima di due o tre…
+[Dialog]
+[PlaySound(key="$d_avg_clothmovement", volume=1)]
+[charslot(slot="m",name="avg_npc_2327_1#6$1",posfrom="0,-150", posto="0,0",afrom=0, ato=1,duration=1.5)]
+[Delay(time=2)]
+[charslot(slot="m",name="avg_npc_2327_1#6$1",focus="m")]
+[multiline(name="Casas")]Uh, che mal di testa… Mi sono addormentato?
+[charslot(slot="m",name="avg_npc_2327_1#3$1",focus="m")]
+[multiline(name="Casas")]Non sarò mica svenuto per l'emozione di aver trovato il tesoro, eh? Ahah.
+[charslot]
+[charslot(slot="l",name="avg_4229_aphris_1#14$2",focus="l")]
+[charslot(slot="r",name="avg_npc_1663_1#3$1",focus="l")]
+[name="Lorenz"]……
+[charslot(slot="r",name="avg_npc_1663_1#3$1",focus="r")]
+[name="Payucaca"]……
+[charslot]
+[charslot(slot="m",name="avg_npc_2327_1#3$1",focus="m")]
+[name="Casas"]Sentite questa: ho fatto un sogno. Ho sognato che i due sovrani dell'antica civiltà di Bolívar si facevano la guerra per contendersi il diritto di interpretare il sole e di celebrarne il culto, e poi…
+[charslot(slot="m",name="avg_npc_2327_1#5$1",focus="m")]
+[name="Casas"]Aspettate, questo non è… Uaaah! Perché i miei tesori sono tutti in pezzi?! Per comprare quella lastra della civiltà antica al mercato nero ci ho speso più di mezzo anno di risparmi e la borsa di studio!
+[charslot(slot="m",name="avg_npc_2327_1#6$1",focus="m")]
+[name="Casas"]E anche questo appena dissotterrato… Adesso è finita, è proprio finita.
+[charslot(slot="m",name="avg_npc_2327_1#5$1",focus="m")]
+[name="Casas"]Ehm… perché state tutti zitti e mi fissate? Ho qualcosa in faccia…
+[Dialog]
+[CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=60, fadeout=true, block=false)]
+[PlaySound(key="$d_avg_clothmovement_heavy2", volume=1)]
+[charslot(slot="m",name="avg_npc_2327_1#5$1",afrom=1, ato=0,duration=1.5)]
+[Delay(time=1.5)]
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Dialog]
+[charslot]
+[Image(image="pic_rogue_6_48", screenadapt="coverall", xScale=1.3, yScale=1.3, block=true)]
+[ImageTween(xFrom = -120, xTo = 120, duration=40, block=false)]
+[Delay(time=2)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[name="Compagno di Casas A"]Brutto idiota, e hai pure il coraggio di chiederlo! Ci hai trascinati fin qui con la scusa di una ricerca, poi all'improvviso ti sei trasformato in uno strambo e mi hai riempito di botte!
+[name="Compagno di Casas B"]Credevo di morire! Adesso ti faccio provare io cosa vuol dire rischiare di finire schiacciato da un macigno!
+[name="Casas"]Ehi, parliamone con calma! Non fate così! Mi arrendo, mi arrendo! Ma giuro che non so cosa sia successo! Quando mai io…
+[name="Compagno di Casas B"]E fai pure il finto tonto! Prendi questa: Pugno Tornado con Sforbiciata del popolo dell'Eclissi!
+[name="Casas"]Ma va', il popolo dell'Eclissi non ha mai avuto una mossa del genere! Ahia!
+[name="Membro della spedizione A"]Fanno sul serio? Andiamo a separarli?
+[name="Membro della spedizione B"]Si vede che all'università non hai frequentato molto i club. Certi ragazzi sono fatti così: più si azzuffano, più diventano amici. Lasciali fare.
+[Image(image="pic_rogue_6_48", screenadapt="coverall",fadetime=1, xScale=1.9, yScale=1.9, block=false)]
+[ImageTween(xFrom = 0, xTo = -80, yFrom=0, yTo=-60,duration=0, block=false)]
+[name="Lorenz"]…Anche tu e mio padre vi azzuffavate così, a quei tempi?
+[name="Payucaca"]Non te ne ha mai parlato? Roba tipo il Mietitore, il Distruttore della Terra… soprannomi che ci eravamo dati da soli.
+[name="Lorenz"]Che soprannomi pacchiani. Non è proprio il suo gusto in fatto di nomi.
+[name="Payucaca"]Che cattiveria. E “piccola teoria” uno, due e tre sarebbe un gusto raffinato in fatto di nomi?
+[name="Lorenz"]Secondo me è sempre meglio di roba come “Tappo” e “Spilungone”, quelli che proponeva un suo collega più giovane.
+[name="Payucaca"]Su questo mi riservo il giudizio.
+[name="Payucaca"]E la persona o la cosa che stavi cercando? L'hai trovata?
+[name="Lorenz"]No. Ho solo captato in tempo reale alcuni segnali di una profonda trasformazione della struttura interna della Foresta del Flusso Nero, e così ho pensato di trascinarti con me per vedere se riuscivamo a trovare qualche indizio.
+[name="Lorenz"]Peccato che qui siano rimasti solo i risultati di quei cambiamenti.
+[name="Payucaca"]Salvare qualche vita è comunque una buona cosa. Però, a pensarci bene, che cos'erano quelle cose? L'antica civiltà di Bolívar? Il popolo del Sole e il popolo dell'Eclissi? Nemmeno io ne avevo mai sentito parlare.
+[name="Lorenz"]Neanche nelle informazioni di Cadejo c'è nulla di simile. Probabilmente una civiltà del genere non è mai esistita nella storia. Oppure non appartiene alla storia di Terra…
+[Image(image="pic_rogue_6_48", screenadapt="coverall",fadetime=1, xScale=1, yScale=1, block=false)]
+[name="Membro della spedizione A"]Ehi! Voi due laggiù, non venite a mangiare qualcosa con noi?
+[name="Lorenz"]Magari più tardi. Voi intanto mangiate pure.
+[name="Membro della spedizione B"]E voi studenti smettetela di azzuffarvi e mangiate qualcosa, che domani vi servono le forze per uscire di qui.
+[name="Casas"]Basta, smettila col solletico, ahahah, soffro il solletico, ahahah… pietà…
+Cala la notte, come se avesse fretta di chiudere questi giorni di spedizione.
+Al campo tutti allentano finalmente la tensione; solo Lorenz e Payucaca continuano a scrutare in lontananza la nebbia che nemmeno i riflettori riescono a squarciare.
+[stopmusic(fadetime=2)]
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Dialog]
+[Image]
+[charslot]
+[Image(image="pic_rogue_6_49", screenadapt="coverall", xScale=1, yScale=1, block=true)]
+[Delay(time=2)]
+[PlaySound(key="$d_avg_equipment_running_loop",loop=true,channel="1")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[Blocker(a=0.6, r=0, g=0, b=0, fadetime=0, block=true)]
+[Sticker(id="st1",multi = true, text="Il modello di Utopia scartato, riavviatosi in modo anomalo, ha smesso di rispondere. Avvio del riordino dei frammenti di informazione…",x=200,y=200, alignment="left", size=24, delay=0.04, width=900,block = true)]
+[Sticker(id="st1", multi = true,text="\n\nRilevata perturbazione anomala dell'osservazione…",size=24, alignment="left",block = true)]
+[Sticker(id="st1",multi = true, text="\n\nRilevata unità di memoria sconosciuta…",size=24, alignment="left",block = true)]
+[Sticker(id="st1",multi = true, text="\n\nRilevata origine anomala di un tentativo di rilevamento inverso…",size=24, alignment="left",block = true)]
+[Sticker(id="st1",multi = true, text="\n\nRegistro dell'anomalia caricato nell'unità di memoria. In attesa delle prossime istruzioni dal nucleo centrale…",size=24, alignment="left",block = true)]
+[Dialog]
+[stopsound(channel="1",fadetime=1)]
+[Sticker(id="st1",duration=1)]
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Image]
+[charslot]
+[Background(image="bg_black",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot(slot="m",name="avg_4229_aphris_1#11$1",afrom=0, ato=1,duration=1.5)]
+[Delay(time=2)]
+[name="Lorenz"]……
+[charslot(slot="m",name="avg_4229_aphris_1#12$1",focus="m")]
+[name="Lorenz"]Peccato. A quanto pare, il trasmettitore che avevo nascosto nel flusso di informazioni da recuperare è stato neutralizzato.
+[Dialog]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2.5, block=true)]
+[stopmusic(fadetime=2)]
+[charslot]
+[Image]

@@ -1,0 +1,77 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background]
+[delay(time=1)]
+[Dialog]
+[Background(image="40_g2_glacier",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=1)]
+[PlaySound(key="$d_avg_snowstormflp", volume=1, loop=true, channel="bgs",fadetime=1)]
+[PlayMusic(intro="$drift_intro", key="$drift_loop", volume=0.7)]
+Si sa che la volontà di Sami, a volte, ha i suoi prediletti.
+Ha insegnato a una figlia nata nel gelo a domare la tormenta, e ha donato a un guerriero morente la forza vitale di un ramo.
+Al sacerdote delle nevi più venerato tra i guerrieri del nord la terra stessa ha ricucito le ferite mortali, e il corno perduto è stato sostituito da un ramo.
+[charslot(slot = "m", name = "avg_341_sntlla_1#5$1")]
+[name="Santalla"]…Lasciate che sia io a fermare la tormenta. Voi andatevene subito da qui.
+[charslot(slot = "m", name = "avg_341_sntlla_1#5$1")]
+[name="Santalla"]Portate la notizia agli altri guerrieri del nord, il prima possibile.
+[charslot(slot = "m", name = "avg_341_sntlla_1#5$1")]
+[name="Santalla"]“Ci siamo trovati ancora una volta davanti a un fenomeno funesto che supera ogni cronaca del passato.”
+[charslot(slot = "m", name = "avg_341_sntlla_1#5$1")]
+[name="Santalla"]“La minaccia che viene dalla distesa ghiacciata si fa sempre più grave.”
+[charslot(slot = "m", name = "avg_341_sntlla_1#5$1")]
+[name="Santalla"]E poi…
+[dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Background]
+[Dialog]
+[charslot]
+[Image(image="pic_rogue_3_32", x=-60,y=0, xScale=0.9, yScale=0.9)]
+[ImageTween(image="pic_rogue_3_32", xTo=0,yTo=0, xScaleTo=0.85, yScaleTo=0.85, duration=40)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=1)]
+Ora il suo corno si è spezzato.
+La benedizione è tornata alla terra, la vita donata è avvizzita, e quel corpo, che non potrà più tornare ai monti, alle paludi e ai boschi, è percorso da crepe nere.
+[charslot(slot = "m", name = "avg_341_sntlla_1#5$1")]
+[name="Santalla"]…“Una posizione cruciale sulla linea del fronte è caduta.”
+[charslot(slot = "m", name = "avg_341_sntlla_1#5$1")]
+[name="Santalla"]“Tuttavia, grazie agli sforzi di tutti, i guerrieri trasformati dai demoni sono stati tenuti sotto controllo.”
+[charslot(slot = "m", name = "avg_341_sntlla_1#5$1")]
+[name="Santalla"]…“Il rito del commiato è stato affidato alla sciamana ‘Santalla’.”
+Dopo centinaia, migliaia di battaglie, la notte d'inverno è finalmente calata.
+I guerrieri delle montagne sanno meglio di chiunque altro che la corruzione dei demoni è irreversibile, e che la loro volontà e la loro vita sono destinate a diventare territorio e nutrimento del nemico.
+Sono rimasti immobili nell'ultimo gesto della loro marcia, i corpi ormai in mano alla morte e al nulla.
+Ma Santalla sa che la scintilla della loro volontà resiste ancora al vento gelido della distesa ghiacciata, che un filo di coscienza li sorregge ancora nell'attesa.
+Hanno sopportato tutte le sofferenze e i tormenti che il destino aveva in serbo per loro, sopportano anche questa misera fine: stanno aspettando chi verrà dopo di loro.
+Aspettano che una brina pura ricopra i loro corpi corrosi dalle ferite nere, e cancelli le ultime tracce che i “Treescar” hanno lasciato sulla terra.
+Così Santalla leva in alto il bastone per dare loro l'ultimo saluto.
+E l'eroe guida i suoi guerrieri incontro al loro ultimo avversario, incontro al destino che alla fine dovranno subire.
+Nessuno ruggisce, nessuno chiede perché, nessuno si volta indietro.
+Il destino non cambia mai, e i guerrieri non si lasciano mai smuovere dal tempo.
+O giovane che verrai dopo di noi—
+Così la vita dei guerrieri resta congelata per sempre.
+I loro sguardi oltrepassano Santalla e continuano a vegliare sull'eterna distesa ghiacciata.
+[dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Background]
+[delay(time=1)]
+[Dialog]
+[Image]
+[charslot]
+[Background(image="40_g2_glacier",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=1)]
+[PlaySound(key="$d_avg_snowfootstep")]
+Santalla si addentra tra i guerrieri, ritti come una selva di lapidi, li attraversa e si dirige verso il prossimo accampamento sulla linea del fronte.
+Lei, che un tempo aveva goduto dell'immensa tenerezza di Sami, ora si sente di nuovo stretta nell'abbraccio della tormenta.
+Comanda al vento di spazzare via la neve dal corno spezzato del guerriero, ma in un attimo la traccia del vento torna a sparire sotto la neve che cade fitta.
+Eppure sa che, da oggi in poi, continuerà ostinatamente, una volta dopo l'altra, a spazzare via da questa terra i fiocchi di neve nera.
+Finché—
+[Dialog]
+[charslot]
+[stopSound(channel="bgs",fadetime=2)]
+[stopmusic(fadetime=3)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[Image]
