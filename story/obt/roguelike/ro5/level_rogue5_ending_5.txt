@@ -6,7 +6,7 @@
 [Delay(time=1)]
 [playMusic(key="$wasteland_loop", volume=0.6)]
 [delay(time=3)]
-Per quanto tempo Wang ha accarezzato tra le dita questa pietra del weiqi?
+Per quanto tempo Wang ha accarezzato tra le dita questa pietra del go?
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=false)]
 [Image(image="pic_rogue_5_47", fadetime=2, xScale=1.05, yScale=1.05,screenadapt="coverall")]
