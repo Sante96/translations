@@ -694,7 +694,7 @@
  },
  "crimson-chalice-knightclub": {
   "name": "Ordine del Calice Cremisi",
-  "text": "L'ordine cavalleresco a cui appartiene il Cavaliere di Sangue."
+  "text": "L'ordine cavalleresco a cui appartiene il Cavaliere del Sangue."
  },
  "karlan-trade": {
   "name": "Karlan Trade",
@@ -769,8 +769,8 @@
   "text": "Funzionari dell'Ufficio Notarile di Laterano, inviati nelle varie città-stato a eseguirne la volontà."
  },
  "blood-knight": {
-  "name": "Cavaliere di Sangue",
-  "text": "Titolo ottenuto a Kazimierz dal campione del Kazimierz Major."
+  "name": "Cavaliere del Sangue",
+  "text": "Titolo ottenuto in Kazimierz dal campione del Kazimierz Major."
  },
  "lazurite": {
   "name": "Lapislazzuli",
