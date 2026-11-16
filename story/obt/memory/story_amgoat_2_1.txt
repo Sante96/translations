@@ -1,0 +1,299 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")] 
+[stopmusic]
+[Dialog]
+[Delay(time=1)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_black",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+16:32 Meteo/Coperto
+Lande settentrionali di Leithanien – Fascia vulcanica, punto di campionamento n. 7
+…Non si preoccupi: la missione si avvia felicemente alla conclusione. La signorina Eyjafjalla è molto stanca, ma le sue condizioni di salute sono sostanzialmente stabili.
+I risultati precisi di questa indagine non sono ancora chiari ma, a giudicare dalle reazioni della signorina Eyjafjalla, dovrebbero esserci stati dei progressi: piccoli, e difficilmente definibili una svolta.
+Durante il viaggio di ritorno continuerò ad assicurarmi che lei…
+[playMusic(intro="$warm_intro", key="$warm_loop", volume=0.4)]
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_desert_3",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(name="char_180_amgoat",fadetime=1,block=true)]
+[delay(time=1)]
+[name="Eyjafjalla"]  Signor Barty?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[delay(time=0.6)]
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="Operator Barty"]  Ah… ah! Signorina Eyjafjalla, t-ti serve qualcosa?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Ecco… lo strumento del punto di campionamento più vicino, quello davanti a sinistra, sembra essersi spostato un po': il rumore di fondo dei dati in tempo reale ha cominciato a oscillare all'improvviso…
+[name="Eyjafjalla"]  Potrebbe darci un'occhiata e vedere cosa succede?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  M-Mi dispiace!
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Eh?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Sono stato io a spostarlo poco fa! Mi dispiace tantissimo, io-io-io non volevo sbirciare i dati—
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Mmh… quindi lei stava guardando i dati, signor Barty?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="Operator Barty"]  Coff, coff coff…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Ah, ecco… allora va tutto bene. Pensavo fosse colpa del vento troppo forte: se è così, non c'è bisogno di controllare gli altri strumenti.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Fiu… eh? Non ti sei arrabbiata per niente?
+[name="Operator Barty"]  Non te la prendi perché mi sono messo a curiosare tra i tuoi dati?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  …Curiosare? I-Io non sono sicura di aver sentito bene… Mi sta chiedendo se lo trovo curioso, signor Barty?
+[name="Eyjafjalla"]  Be', un pochino curioso lo è, sì. Non pensavo che anche lei si interessasse a questi dati di ricerca.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ahah… in effetti. Uno zoticone come me…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Ma no, non intendevo questo.
+[name="Eyjafjalla"]  È che la vulcanologia non è proprio un campo di moda. Il più delle volte si va nelle lande come adesso, si sta seduti a osservare per un giorno intero e poi ci si immerge nell'analisi dei dati… La maggior parte della gente lo troverebbe noioso, no?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Se è per la noia, la vita della stragrande maggioranza della gente a questo mondo è noiosa.
+[name="Operator Barty"]  Ti alzi tutte le mattine, mangi, di giorno ti sbatti con un lavoro o con l'altro, e la sera ti butti a letto e dormi.
+[name="Operator Barty"]  Invece una studiosa come te ha sempre a che fare con cose nuove. Questo, come minimo, ha molto più senso!
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  ……
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[CameraShake(duration=0.2, xstrength=10, ystrength=12, vibrato=30, randomness=70, fadeout=true, block=false)]
+[name="Operator Barty"]  …H-Ha riso! Ho detto una cosa così stupida?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  No, no. È che il tono con cui ha parlato adesso, signor Barty, mi ha ricordato un pochino certe persone che conoscevo all'università.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ahah, be', dopotutto anch'io in passato ho avuto a che fare con gente dell'università.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Eh? Ma lei, signor Barty, non ha sempre lavorato nella sicurezza?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Eh, è roba di tanto tempo fa. All'epoca io stavo… È stato grazie a un giovane docente che si è preso a cuore la mia situazione se ho avuto la mia prima occasione di lavoro.
+[name="Operator Barty"]  Mi ha aiutato parecchio, e mi ha fatto capire che fare ricerca è una cosa che ha senso e che… ehm, come dire… non è così semplice. Ecco, non è così semplice.
+[stopmusic(fadetime=5)]
+[Dialog]
+[Character]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_black",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(name="avg_npc_012",fadetime=1,block=true)]
+[delay(time=1)]
+…Dall'ultima conversazione con la dottoressa Kal'tsit ho saputo che lei, signor Barty, ora lavora a Rhodes Island. Avrei un'altra cosa da chiederle…
+Riguarda la signorina Naumann… A Rhodes Island il suo nome in codice è Eyjafjalla.
+È l'unica figlia di chi mi ha insegnato tutto…
+Spero che lei, signor Barty, possa prendersi cura di questa ragazza per quanto le è possibile.
+Non soltanto della sua salute, benché la sua oripatia sia ormai davvero piuttosto grave…
+Ma anche delle sue ricerche.
+La prego di seguire con attenzione i suoi progressi e, se necessario, di mettersi in contatto con me.
+[playMusic(intro="$dignified_intro", key="$dignified_loop", volume=0.4)]
+[name="Operator Barty"]  Signor Kahn…
+[name="Operator Barty"]  Prima della partenza la dottoressa Kal'tsit mi ha consegnato questa lettera, ma la dottoressa dovrebbe saperlo bene: anche se lei non me l'avesse chiesto, signor Kahn, avrei protetto comunque la signorina Eyjafjalla.
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_desert_3",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  A proposito, signorina Eyjafjalla, la tua prima spedizione su un vulcano è stata parecchi anni fa, vero?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Sì, la prima spedizione… sono passati più di tre anni, credo.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Accidenti, allora eri ancora una bambina!
+[Character(name="avg_npc_012")]
+[name="Operator Barty"]  (Sottovoce) Ma gli istituti di ricerca oggi sono tutti così senza scrupoli?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  In questo momento l'apparecchio acustico funziona benissimo, signor Barty. Ho sentito tutto, eh.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="Operator Barty"]  Ah, non parlavo di Rhodes Island, n-non fraintendermi, ti prego!
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Scherzavo… In realtà nemmeno l'Università Wilhelm era così: all'epoca l'università non voleva che partecipassi così presto.
+[name="Eyjafjalla"]  È solo che, nei documenti lasciati da papà e mamma, c'erano cose che solo io sapevo interpretare.
+[name="Eyjafjalla"]  Non volevo che il progetto si interrompesse… e credo che non lo volessero nemmeno papà e mamma. Sono stata io a insistere per prendere il loro posto nella spedizione successiva.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Papà e mamma… ah! Scusa, scusa, stavo per dimenticare che i tuoi genitori sono…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Non si preoccupi, signor Barty. È passato tanto tempo.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  È stato per… un vulcano?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Sì… I vulcani sono molto pericolosi. La mamma me lo ripeteva fin da quando ero piccola.
+[name="Eyjafjalla"]  —Basta il fuoco da solo per divorare una casa in un attimo. E un vulcano è un colosso con la pancia piena di energia.
+[name="Eyjafjalla"]  Forse il colosso non pensa a niente di particolare, ma quando apre la bocca e respira, o tossisce, così come gli viene—cambia la faccia della terra.
+[name="Eyjafjalla"]  Fa un po' sorridere, ma da piccolissima non capivo davvero il lavoro di papà e mamma. Per me, allora, erano eroi che sfidavano i colossi.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Be', chiamarli eroi non è esagerato, no? Sapevano che era pericoloso, eppure continuavano a farlo. Ci vuole un coraggio enorme!
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  …Però avevano paura anche loro.
+[name="Eyjafjalla"]  La prima volta che ho visto un vulcano con i miei occhi… i miei occhi non erano ancora come adesso. Ci vedevo benissimo. E anche le orecchie erano ancora fini.
+[name="Eyjafjalla"]  Ricordo ancora quella distesa rossa che ribolliva e scorreva, e quel boato enorme nelle orecchie… come se un mostro volesse liberarsi dalle catene della terra e arrampicarsi fino a me, ruggendo.
+[name="Eyjafjalla"]  Non assomigliava a niente di quello che avevo letto o visto disegnato nei libri… era un colosso vivo.
+[name="Eyjafjalla"]  Le… le gambe mi si erano come pietrificate. Non riuscivo a muovere un passo. Per un bel po' non ho nemmeno osato respirare, finché non ce l'ho fatta più e ho tossito fino alle lacrime.
+[name="Eyjafjalla"]  In quell'istante ho capito.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Capito… cosa?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Sì, ho capito tante cose.
+[name="Eyjafjalla"]  Ho capito perché, prima di ogni spedizione, la mamma si infilava nel mio lettino e mi stringeva forte finché non mi addormentavo.
+[name="Eyjafjalla"]  Ho capito perché, ogni volta che tornava da una spedizione, il papà, mentre riordinava i suoi appunti, veniva sempre ad accarezzarmi la testa ripetendo di continuo: “Meno male, meno male”.
+[name="Eyjafjalla"]  Forse… ogni volta partivano con quella stessa paura nel cuore.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Eh… Dopo una cosa del genere, che tu sia riuscita ad andare avanti è davvero ammirevole.
+[name="Operator Barty"]  Ho sentito di tante tragedie simili. Tipo un figlio adorato che viene inghiottito da un fiume: da quel momento i genitori odiano il fiume e traslocano in fretta e furia.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Cose simili… mi pare che allora me le avesse dette anche qualcun altro.
+[name="Eyjafjalla"]  Il giorno dopo l'incidente di papà e mamma sono venuti a cercarmi in tanti, adulti e ragazzi più grandi, soprattutto dopo aver saputo che volevo unirmi alla spedizione sul vulcano.
+[name="Eyjafjalla"]  Li capisco, e sono grata a tutti loro. Temevano solo che il rancore mi spingesse a fare qualche sciocchezza impulsiva.
+[name="Eyjafjalla"]  Quasi tutti speravano che lasciassi perdere tutto e continuassi ad andare a scuola come sempre. Ma io non ci riuscivo.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Quindi, signorina Eyjafjalla… non provi proprio nessun rancore?
+[Dialog]
+[Character]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_black",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(name="avg_npc_012",fadetime=1,block=true)]
+[delay(time=1)]
+…Dopo l'incidente della professoressa Naumann, ho cercato senza sosta le cause della tragedia…
+Non credo che una vulcanologa di primissimo livello e suo marito, un maestro delle Arti dell'Originium, possano essere morti in un banale disastro vulcanico.
+Le loro ricerche avevano attirato fin troppi sguardi. In fondo alla loro strada non li attendeva soltanto la verità.
+C'era chi voleva sfruttare più a fondo quei risultati, e c'era chi voleva che restassero sepolti per sempre sotto un flusso piroclastico.
+…Adele è ancora giovane, e non so se sia in grado di capire i pericoli che si nascondono dietro queste ricerche. E prima ancora che le nubi si addensassero, ha avuto la sventura di contrarre l'oripatia.
+Ho fiducia in Rhodes Island, così come la dottoressa Kal'tsit ha fiducia in me.
+Solo che, se fosse possibile, vorrei che Adele si fermasse… La dottoressa Kal'tsit, però, mi ha detto che dovrei vedere quanto è cresciuta.
+Il lavoro mi impedisce di allontanarmi, perciò ho chiesto alla dottoressa Kal'tsit di trovare lei, signor Barty.
+La prego, la osservi bene al posto mio, questa ragazza…
+Spero che, prima che tutto diventi irreparabile, lei possa proteggerla quanto più possibile dagli sguardi che si celano dietro quelle nubi, e impedire che il mondo là fuori le ferisca gravemente il corpo e l'anima.
+[Dialog]
+[Character]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_desert_3",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Comunque sia, i vulcani ti hanno portato via i genitori, e ti hanno causato… la malattia…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Mmh…
+[name="Eyjafjalla"]  Se proprio devo parlare di rancore… un po' ce n'è.
+[name="Eyjafjalla"]  No, non è giusto. Più che rancore, direi tristezza.
+[name="Eyjafjalla"]  Mi manca tanto il papà… e mi manca tanto la mamma. Quando ho saputo dell'incidente, non riuscivo a credere che fosse vero.
+[name="Eyjafjalla"]  Le Arti dell'Originium del papà erano così potenti… e la mamma aveva già fatto tantissime spedizioni sul campo.
+[name="Eyjafjalla"]  In quelle notti mi addormentavo senza nemmeno rendermene conto, nei sogni vedevo sempre il vulcano che mi immaginavo, e poi mi svegliavo urlando o in lacrime… Non ero affatto ammirevole come dice lei, signor Barty.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  No, no, no! È normalissimo! E poi tu all'epoca eri così piccola!
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  A pensarci, dover lavorare alla spedizione e intanto badare a una bambina piagnucolona… i ragazzi e le ragazze della squadra di allora hanno avuto davvero vita dura.
+[name="Eyjafjalla"]  Mmh… alla prima occasione devo proprio scrivere qualche lettera di ringraziamento in più.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ahahah…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Per fortuna, dopo aver visto un vulcano con i miei occhi per la prima volta, quella disperazione ha cominciato pian piano a passare.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Eh? Ma prima non avevi detto che avevi paura…?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Sì, avevo tanta paura. Ma oltre alla paura, ho sentito anche un filo di serenità. Le sembrerà difficile da capire, vero, signor Barty?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Serenità? In effetti… non me l'aspettavo.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  In quel momento, inevitabilmente, ho pensato a papà e mamma. E all'improvviso mi sono chiesta: il vulcano che vedevano loro era lo stesso che vedevo io?
+[name="Eyjafjalla"]  Anche gli studiosi del passato avranno visto il vulcano così, no? E anche fra qualche secolo—nello stesso posto o in un altro—questa lava rossa potrebbe ribollire viva proprio come adesso.
+[name="Eyjafjalla"]  E anche se non mi fossi ammalata, anche se non mi capitasse nessun incidente, e passassi tutta la vita a studiarlo e a cercare di capirlo… quanto potrei mai conoscere di quel colosso eterno che ho davanti?
+[name="Eyjafjalla"]  “Perché papà e mamma hanno scelto questa strada?”, “Perché papà e mamma sono morti?”
+[name="Eyjafjalla"]  Le risposte a queste domande… di fronte all'eterna domanda che avevo davanti agli occhi, d'un tratto non erano più così importanti.
+[name="Eyjafjalla"]  Il tempo che mi resta è così, così poco. Credo proprio di non avere scuse per tirarmi indietro, né per continuare a lasciarmi andare alla tristezza e alla paura.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Signorina Eyjafjalla…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Credo che anche papà e mamma la pensassero così.
+[name="Eyjafjalla"]  Con i documenti che mi hanno lasciato, percorro la strada che hanno percorso loro. È come se non avessero mai lasciato questo mondo. Vivono proprio davanti a me, e mi guidano avanti.
+[name="Eyjafjalla"]  Se… un giorno dovessi lasciare questo mondo anch'io, ci sarà comunque qualcuno che raccoglierà quello che ho lasciato, e continuerà ad andare avanti, sempre più avanti, vero?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Incredibile. Così, passando da uno all'altro senza mai interrompersi, è come un'altra forma di eternità.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Mmh… eternità? Non ci avevo mai pensato… coff coff coff…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Accidenti, il vento si è rinforzato di nuovo?
+[name="Operator Barty"]  Siediti un po' più in qua, signorina Eyjafjalla. Con la salute che hai, il vento non ti fa bene.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Coff coff… grazie. Sì, così va molto meglio.
+[name="Eyjafjalla"]  Oggi ho parlato tanto, e forse si è fatto un'idea sbagliata, signor Barty… A dire il vero, non sono così coraggiosa.
+[name="Eyjafjalla"]  Continuo… continuo a ripensare alle spedizioni di qualche anno fa.
+[name="Eyjafjalla"]  Allora stavo molto meglio di adesso. Non ero chissà quanto robusta, ma almeno non andavo a sbattere dappertutto, dando fastidio agli altri.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ma no, ma no, nessun fastidio! Sei bravissima, signorina Eyjafjalla. Lungo tutta la strada sei stata tu a badare di più a noi.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Che freddo… c-che vento…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="Eyjafjalla"]  Uuh… ho già addosso tutti i vestiti che ho… eppure mani e piedi continuano a tremare.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ehi, è da prima che volevo dirlo: sembri soffrire tanto il freddo, signorina Eyjafjalla, eppure quando ti stiamo vicino si sente un calore che quasi scotta.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Sono le mie Arti dell'Originium… forse, siccome sento troppo freddo, mi viene spontaneo usarle un po'.
+[name="Eyjafjalla"]  Mi scusi, signor Barty: se non vuole scottarsi, si allontani un pochino da me.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ma figurati! Se ti fa stare un po' meglio, anche qualche grado in più non mi fa niente. Non preoccuparti per me.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  …Non serve a molto. È solo una reazione involontaria: al massimo mi dà un po' di conforto, e alla fine sono comunque qui a tremare come una foglia, che figura.
+[name="Eyjafjalla"]  Con delle Arti dell'Originium così, e per di più da Caprinae… lei pensa che non dovrei soffrire tanto il freddo, vero, signor Barty?
+[name="Eyjafjalla"]  In realtà… in realtà, una volta il freddo non mi dava nessun fastidio.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Eh…
+[name="Operator Barty"]  Non fa niente! La p-prossima volta portiamo qualche vestito in più!
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Sì, qualche vestito in più…
+[name="Eyjafjalla"]  E dovrò anche regolare per bene l'apparecchio acustico. Capisco sempre le cose a metà e combino delle gaffe… Le avrò fatto venire il mal di testa, signor Barty.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ehm… signorina Eyjafjalla… la tua, ehm, la tua gamba…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Eh? Cos'ha la mia gamba?
+[name="Eyjafjalla"]  Ah… pare che si muova da sola…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ahah, stai tenendo il tempo, eh? È per colpa di quel tipo: è seduto laggiù, lontano, e canticchia per conto suo da un bel pezzo.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[stopmusic(fadetime=2)]
+[name="Eyjafjalla"]  Mh?
+[Dialog]
+[Character]
+[Character(name="avg_npc_068",fadetime=1,block=true)]
+[delay(time=2)]
+[playMusic(intro="$storyendjp_intro", key="$storyendjp_loop", volume=0.4)]
+[Character(fadetime=1,block=true)]
+[Delay(time=2)]
+♪ La neve continua a cadere
+♪ Tutto tace, piano piano tace
+♪ Amo questa danza, e ancor più i monti lontani
+♪ Le mie speranze e i miei desideri
+♪ Su questa terra libera
+♪ Nessuno potrà fermarli
+[Dialog]
+[Character(name="char_180_amgoat",fadetime=1,block=true)]
+[delay(time=1)]
+[name="Eyjafjalla"]  Mi sembra di sentirla… e insieme di non sentirla…
+[name="Eyjafjalla"]  Mmh… è una canzone che sentivo da piccola. Senza accorgermene, mi è rimasta in testa a risuonare.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  S-Si è messa a canticchiarla anche lei…
+[name="Operator Barty"]  A vedere la signorina Eyjafjalla così, all'improvviso mi sento in pace.
+[Dialog]
+[delay(time=0.5)]
+[Character]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_black",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+Signor Kahn, riguardo a ciò che mi ha chiesto—
+[Dialog]
+[delay(time=0.5)]
+Lei ritiene che possa trovarsi in pericolo, risucchiata in un vortice di conflitti e, temendo che il suo animo ne esca ferito, mi ha chiesto di vegliare con particolare attenzione sulla signorina Naumann—sulla signorina Eyjafjalla.
+[Dialog]
+[delay(time=0.5)]
+Comprendo la sua preoccupazione, ma devo anche farle notare—
+[Dialog]
+[delay(time=0.5)]
+Per la signorina Eyjafjalla, una simile preoccupazione forse non è necessaria.
+[Dialog]
+[delay(time=0.5)]
+Il suo cuore è stato forgiato nella lava dei vulcani: è la cosa più dura e più pura che esista al mondo.
+[Dialog]
+[delay(time=0.5)]
+Credo che quelle nubi che la seguono non riusciranno mai a scuoterla.
+[Dialog]
+[Character]
+[delay(time=2)]
+[Image]

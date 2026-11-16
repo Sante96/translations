@@ -1,0 +1,374 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")] 
+[stopmusic]
+[Dialog]
+[Delay(time=1)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_laccolith",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[playMusic(intro="$path_intro", key="$path_loop", volume=0.4)]
+[Character(name="char_180_amgoat",fadetime=1,block=true)]
+[delay(time=1)]
+[name="Eyjafjalla"]  …Posso cominciare? Mi è sembrato che il tasto di registrazione lampeggiasse, ma forse me lo sono immaginato… Mmh… al tatto si sta scaldando piano piano… Forse sta funzionando?
+[name="Eyjafjalla"]  Ehm, ehm… dunque… Oggi è il terzo giorno della missione sul campo, e siamo riusciti ad arrivare nei pressi dell'area da esaminare.
+[name="Eyjafjalla"]  Sono le dieci e trent… ehm, questa cifra è un uno? Chiedo scusa, non ci vedo molto bene…
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=70, fadeout=true, block=false)]
+[name="Eyjafjalla"]  …È d-diventata un due! Sono le dieci e trentadue, e all'arrivo di Rhodes Island al punto d'incontro mancano… mmh, ancora dodici ore e ventotto minuti.
+[name="Eyjafjalla"]  Finora è andato tutto liscio: le rune di rilevamento le abbiamo preparate lungo la strada, e gli strumenti di campionamento gli altri mi stanno aiutando a montarli.
+[name="Eyjafjalla"]  …Eh? Cosa? Mi è sembrato che qualcuno mi chiamasse…
+[delay(time=0.4)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=70, fadeout=true, block=false)]
+[name="Eyjafjalla"]  Ah, ah! Per poco non mi cadeva il registratore… Fiu… fiu, calma, niente fretta.
+[name="Eyjafjalla"]  …Mi stanno facendo segno con la mano? Da questo gesto, vuol dire che hanno montato tutto? Avvio raccolta dati… avvio analisi sincronizzata… B-Bene!
+[Dialog]
+[Character(name="avg_npc_012",fadetime=1,block=true)]
+[delay(time=1)]
+[name="Field Operator"]  Signorina Eyjafjalla!
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Ah, è… è il signor Barty, vero? L'apparecchio acustico… ecco, l'apparecchio funziona.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Barty"]  Ehi, piano, non c'è fretta! Vai adagio e guarda dove metti i piedi.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  N-Non si preoccupi… signor Barty, non c'è bisogno che mi sorregga. Qui la visuale è molto aperta, non rischio di andare a sbattere da qualche parte.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Barty"]  Dici? Però c'è un vento fortissimo, e ci sono pietre sconnesse dappertutto. Non sarebbe meglio se tu restassi vicino al velivolo?
+[name="Barty"]  Del resto, prima di partire ho giurato alla dottoressa Kal'tsit e agli altri, scommettendoci il salario del mese prossimo, che ti avrei tenuta al sicuro.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Eh…?
+[name="Eyjafjalla"]  …Il salame? Con… la dottoressa Kal'tsit?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Eh? Ho detto il salario, il salario!
+[name="Operator Barty"]  (Sottovoce) Figurati se oserei mangiare salame con la dottoressa Kal'tsit.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Ah, c-capisco…
+[name="Eyjafjalla"]  Uuh… il mio apparecchio acustico… forse il vento di prima era troppo forte, e ne ha risentito un po'.
+[name="Eyjafjalla"]  Mi scusi, stava parlando del suo lavoro, vero?
+[name="Eyjafjalla"]  Lei è davvero affidabile, signor Barty. Meno male che in questa spedizione c'è lei: se fossi stata da sola, solo per montare quegli strumenti avrei perso un pomeriggio intero.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Eh, da sola? Con un'attrezzatura così pesante, tu da sola… sarebbe stata un'impresa.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Mi è già capitato, sa. Quando studiavo ancora, alcune ricerche dovevo portarle a termine da sola.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Eh? E i tuoi compagni di corso?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Ah… ecco, ognuno andava al suo ritmo… e per quei progetti, in effetti, serviva un po' di esperienza.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ah, già, a forza di chiacchierare me n'ero scordato: sei già una studiosa bravissima, gli altri compagni non dovevano riuscire a starti dietro.
+[name="Operator Barty"]  Anche così, però, che fatica dev'essere stata, a scuola.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  In realtà non era così terribile… N-Non si preoccupi: da sola, con calma, alla fine ci si riesce sempre.
+[name="Eyjafjalla"]  Però, da quando sono a Rhodes Island, che sia a bordo o nelle missioni sul campo, è tutto molto più facile.
+[name="Eyjafjalla"]  Il nuovo apparecchio acustico funziona meglio di tutti quelli che avevo prima, la dottoressa Kal'tsit e Prof appoggiano tanto le mie ricerche, e la signorina Closure mi ha perfino aiutata a sistemare la mia stanza…
+[name="Eyjafjalla"]  Proprio come lei, signor Barty, gli operatori si prendono sempre cura di me con tanta gentilezza. Mmh… sono davvero grata a tutti.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Per tutta la strada mi hai ringraziato non so quante volte. Accidenti, mi fai sentire sempre più in imbarazzo.
+[Dialog]
+[Character]
+[Character(name="avg_npc_068",fadetime=1,block=true)]
+[delay(time=1)]
+[name="Guide"]  Ehi! Ho fatto un giro di ricognizione più avanti. Si passa, ma il sentiero è stretto: quel vostro aggeggio grosso non ci passa.
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=2)]
+[name="Eyjafjalla"]  Ehm… vuol dire che non si può raggiungere l'ultimo punto di campionamento?
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=1)]
+[name="Guide"]  Le persone ci passano. Ci—pas—sa—no.
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ehi, non c'è bisogno di urlare così, no?
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=1)]
+[name="Guide"]  Be', mi sembra un po' imbambolata. Pare che non ci senta tanto bene.
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=2)]
+[name="Eyjafjalla"]  Mi scusi… adesso ho sentito.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Allora, signor Barty, andiamo subito?
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=1)]
+[name="Guide"]  Ehi, aspetta, vuoi venire pure tu? Ho detto che le persone ci passano, ma una come te… non è meglio lasciar perdere?
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=2)]
+[name="Eyjafjalla"]  Eh?
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=1)]
+[name="Guide"]  Quella strada là davanti è brutta da fare. Qui intorno ci sono terremoti di continuo, è tutto buche e avvallamenti, e non sai mai quando ci metti un piede dentro. Se non mi pagaste così bene, manco io ci verrei.
+[name="Guide"]  E tu, che già in piano non cammini spedita, vuoi per forza ficcarti in mezzo? Non fai altro che creare casini, no?
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Tu… come ti permetti di parlare così della signorina Eyjafjalla? Sarà anche giovane, ma è una vulcanologa di primissimo livello! In questa missione è lei che dà gli ordini!
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=1)]
+[name="Guide"]  A me non frega niente di vulcanologhe e compagnia bella: quella strada si fa con le gambe, punto.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ehm, a dire il vero… ecco, signorina Eyjafjalla… su una cosa ha ragione. Se la strada è davvero così brutta, forse è meglio che tu…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  …Capisco.
+[name="Eyjafjalla"]  Mi dispiace molto, signor Barty, signor guida… vi sto creando dei problemi.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Però io devo andarci.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Se ti preoccupano gli strumenti, posso montarli io per te—
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Sì, lo so, ha ragione lei, signor Barty. Ma più avanti c'è il centro della fascia di reazioni anomale dell'Originium di questa zona: servono metodi di rilevamento più precisi, e per quelli devo usare le mie Arti dell'Originium.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  E allora perché non usiamo i dati dei punti di campionamento qui intorno? Ce ne sono già parecchi, no?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Non va bene, signor Barty. Per avere i risultati più precisi non si può trascurare nessun dettaglio. Se qui mi risparmiassi la fatica, tutta la nostra missione potrebbe andare in fumo proprio sul più bello.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Di colpo la signorina Eyjafjalla si è fatta serissima… Se le cose stanno così, non resta che partire.
+[name="Operator Barty"]  Però mettiamoci d'accordo prima: se ti senti male, ci fermiamo subito, in qualunque momento. Come fare ricerca è il tuo lavoro, questo è il mio.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Mmh… ce la posso fare, signor Barty, non si preoccupi.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Uff. Si vede lontano un miglio che ti stai sforzando troppo!
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=1)]
+[name="Guide"]  Tsk, la verità vi dà fastidio, eh.
+[name="Guide"]  Ma ve lo dico chiaro: se succede qualcosa, io penso solo a me stesso.
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ma senti questo…
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=2)]
+[name="Eyjafjalla"]  Va bene, non fa niente. Signor guida, ci faccia strada, per favore.
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_desert_3",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(name="char_180_amgoat",fadetime=1,block=true)]
+[PlaySound(key="$transmission", volume=0.6)]
+[delay(time=1)]
+[name="Eyjafjalla"]  Riprendo la registrazione… Sono le dodici e venticinque, e stiamo andando verso l'ultimo punto di campionamento.
+[name="Eyjafjalla"]  I dati dei punti di campionamento alle nostre spalle sono ancora in analisi… Mmh, sono piuttosto vicini alle mie previsioni.
+[name="Eyjafjalla"]  Sono rocce ignee lasciate da un vulcano antico, eppure in profondità l'attività dell'Originium è ancora intensa, e la tendenza ad aumentare è… molto evidente.
+[name="Eyjafjalla"]  La chiave è il cuore della fascia anomala… Con quei dati potremo analizzare la direzione del cambiamento… Spero che non intralci Rhodes Island nelle prossime miss— Ahi!
+[Character(name="char_180_amgoat")]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Dialog]
+[PlaySound(key="$bodyfalldown2", volume=0.5)]
+[delay(time=1)]
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[CameraShake(duration=0.2, xstrength=10, ystrength=12, vibrato=30, randomness=60, fadeout=true, block=false)]
+[name="Eyjafjalla"]  H-Ho solo urtato una spalla… Mi scusi, signor Barty… non avevo visto bene.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Tutto bene? Camminiamo già da un'ora.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Ah… sì… sto bene.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Che vento, eh? È ancora più forte di prima. Si infila tra le fessure delle rocce, proprio come noi.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Sì… fa proprio freddo… le gambe mi fanno un po' male… e anche gli occhi…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="Eyjafjalla"]  Uuh…
+[name="Eyjafjalla"]  …C-Ce la faccio. Andiamo avanti, per favore.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Eh, lo sapevo: non c'è verso di farti fermare.
+[name="Operator Barty"]  Facciamo così: mettiti un po' dietro di me. Sono grosso, il vento te lo riparo io, e se ci sono pietre le scanso per primo.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  V-Va bene. Grazie, signor Barty.
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=1)]
+[name="Guide"]  Pff, ve l'avevo detto io che questa strada era dura.
+[name="Guide"]  Allora, insomma, che tesoro c'è là davanti per cui valga tanto la pena di andarci?
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Lo scopo della missione non te l'abbiamo già spiegato quando ti abbiamo ingaggiato? Siamo di Rhodes Island, un'azienda farmaceutica, e siamo qui per fare indagini e ricerche—
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=1)]
+[name="Guide"]  Sì, sì, i discorsi di circostanza risparmiateveli.
+[name="Guide"]  Ma quali indagini, quali ricerche? Alla fine non è sempre tutta questione di soldi?
+[name="Guide"]  Eh, soprattutto voi aziende farmaceutiche: ne avrete spillati di soldi dalle tasche di quei signoroni ricchi che pur di campare darebbero qualsiasi cosa, eh?
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Tu… lascia stare, tanto non capiresti.
+[name="Operator Barty"]  Guadagnare va bene, ma ci sono cose che non si misurano coi soldi.
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=1)]
+[name="Guide"]  Eh? Non lo fate per i soldi? Lo dicevo io… per far soldi, chi è che viene fin qui a scavare sassi?
+[name="Guide"]  Oh, ma ora che ci penso… c'è certa gente, gli scagnozzi di quei signori nobili, che passa il tempo a trafficare con magie, esperimenti, ricerche…
+[name="Guide"]  Roba da… roba da far paura, davvero.
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ehi, tu, cos'è quella faccia spaventata? Te l'abbiamo detto, non siamo gente di quel tipo…
+[Character(name="char_180_amgoat")]
+[stopmusic(fadetime=0.6)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="Eyjafjalla"]  Attenti!
+[Dialog]
+[Character(name="char_180_amgoat")]
+[PlaySound(key="$b_char_defboost", volume=0.6)]
+[CameraShake(duration=2, xstrength=4, ystrength=4, vibrato=20, randomness=30, fadeout=true)]
+[delay(time=0.6)]
+[Character]
+[CameraShake(duration=1, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
+[PlaySound(key="$d_sp_ballista", volume=0.5)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.25, block=true)]
+[delay(time=0.4)]
+[Character(name="avg_npc_068",fadetime=1,block=true)]
+[playMusic(intro="$path_intro", key="$path_loop", volume=0.4)]
+[delay(time=1)]
+[CameraShake(duration=0.6, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="Guide"]  Hff… hff… che macigno enorme, aaah!
+[name="Guide"]  La mia testa, la mia testa… Eh? Ce l'ho ancora?
+[name="Guide"]  Quel sasso di prima non stava volando dritto sulla mia testa? Pensavo me l'avesse già spiaccicata.
+[Character(name="avg_npc_068")]
+[CameraShake(duration=0.2, xstrength=10, ystrength=12, vibrato=30, randomness=70, fadeout=true, block=false)]
+[name="Guide"]  Ahi, cos'è questa roba rossa?! E quei frammenti per terra che ribollono… è lava? Un vulcano?
+[Character(name="avg_npc_068")]
+[name="Guide"]  È eruttato un vulcano?! A-Aiuto! Sono spacciato!
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=2)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="Operator Barty"]  Chiudi il becco—!
+[name="Operator Barty"]  Finalmente l'ho detto. Era da un pezzo che me lo tenevo dentro.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Signorina Eyjafjalla… signorina Eyjafjalla? Tutto bene?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Mi sta cercando, signor Barty? Sono qui, sto bene. Quel masso di prima vi ha fatto male?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  No, per fortuna. Quando l'ho visto pensavo fosse già troppo tardi— Aspetta, quel masso l'hai distrutto tu con le tue Arti?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Sì. L'importante è che stiate bene.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ma… nemmeno io ho fatto in tempo a reagire, e tu, con le orecchie e gli occhi che…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Ha ragione, signor Barty: prima non ho sentito nulla, e ho visto solo un'ombra sfocata.
+[name="Eyjafjalla"]  Però riesco a percepire… le variazioni di calore.
+[name="Eyjafjalla"]  Anche il signor guida l'ha detto: qui la struttura delle rocce non è stabile. Quando gli strati rocciosi si spezzano per la forza del vento, l'attrito tra la frattura e la roccia stessa produce un calore ben percepibile.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ah, ecco com'è! Signorina Eyjafjalla… sei davvero incredibile.
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=1)]
+[name="Guide"]  Davvero… incredibile. E fa una paura…
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=1)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="Guide"]  In un attimo, un attimo solo! Un macigno così grande, ridotto in frammenti fusi!
+[name="Guide"]  Santo cielo, se quel colpo fosse stato diretto alla mia testa—
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  ……
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=1)]
+[name="Guide"]  Lo so, sto zitto. Ecco, zitto.
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_desert_3",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(name="char_180_amgoat",fadetime=1,block=true)]
+[delay(time=1)]
+[name="Eyjafjalla"]  Mmh, finalmente siamo arrivati.
+[name="Eyjafjalla"]  Adesso sono le… ah, siamo un quarto d'ora in ritardo sulla tabella di marcia. Dobbiamo sbrigarci.
+[name="Eyjafjalla"]  Avvio degli strumenti… la precisione va ancora aumentata del quindici per cento… controllo della frequenza, stabilizzazione delle oscillazioni… mmh… nove per cento… tre per cento…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Ecco fatto, il rumore è sceso nell'intervallo ideale. Signor Barty, può lasciare.
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=1)]
+[name="Guide"]  E questa… anche questa è una magia?
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=2)]
+[name="Eyjafjalla"]  Ah, sì, anche questa è opera delle mie Arti dell'Originium… Lei può pure considerarla una magia, signor guida, ma io preferisco chiamarla un metodo di ricerca scientifica.
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=1)]
+[name="Guide"]  Comunque sia, che roba incredibile.
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=2)]
+[name="Eyjafjalla"]  Anche lei sarà stanco, signor guida. Adesso possiamo salire un po' più su a riposarci. La raccolta dei campioni richiede tempo: basterà tornare a recuperare gli strumenti fra cinque ore.
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=1)]
+[name="Guide"]  Una scienziata… una vera scienziata. Sembra così giovane, ma quando parla di queste cose pare proprio una del mestiere.
+[name="Guide"]  Eh, prima, alla fine, mi hai salvato la pelle. E io non sono uno che non sa riconoscere chi gli fa del bene.
+[name="Guide"]  Facciamo così: del compenso che avevamo pattuito per la guida, mi tengo l'anticipo. Il resto non dovete darmelo.
+[Character(name="avg_npc_068",name2="char_180_amgoat",focus=2)]
+[name="Eyjafjalla"]  Eh?
+[Character(name="avg_npc_068",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ma quante volte te lo devo dire? A noi di Rhodes Island quei quattro soldi non interessano—
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Mmh… ecco, signor Barty… se il signor guida insiste, accettiamo il suo ringraziamento.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Eh? Ah, d-davvero? Be', se lo dici tu, signorina Eyjafjalla, allora va bene.
+[Character(name="avg_npc_012")]
+[name="Operator Barty"]  (Sottovoce) Anche se un po' mi sorprende…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Cosa ha detto, signor Barty? Mi scusi, di nuovo non ho sentito bene.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Ahah, niente. Dicevo che non pensavo che te ne intendessi anche di queste cose.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Eh? A dire il vero… mi vergogno un po' a dirlo…
+[name="Eyjafjalla"]  …ma non ho capito proprio bene cosa stesse dicendo il signor guida.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  Eeeh?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Insomma… ecco, il mio apparecchio acustico funziona a singhiozzo… Ho visto che il signor guida aveva un'aria proprio sincera, e mi sembrava che ci stesse ringraziando…
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[CameraShake(duration=0.2, xstrength=10, ystrength=12, vibrato=30, randomness=70, fadeout=true, block=false)]
+[name="Eyjafjalla"]  H-Ho di nuovo capito male?
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=2)]
+[name="Operator Barty"]  No, no, questo no… ahahah… Signorina Eyjafjalla, forse è così che sono i veri grandi studiosi, eh?
+[name="Operator Barty"]  Lasciano perdere le chiacchiere di facciata e colgono la verità al primo sguardo.
+[Character(name="char_180_amgoat",name2="avg_npc_012",focus=1)]
+[name="Eyjafjalla"]  Uuh… b-be', va bene…
+[stopmusic(fadetime=2)]
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_desert_3",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(name="char_180_amgoat",fadetime=1,block=true)]
+[PlaySound(key="$transmission", volume=0.6)]
+[playMusic(intro="$warm_intro", key="$warm_loop", volume=0.4)]
+[delay(time=1)]
+[name="Eyjafjalla"]  Sono le tre e quattordici del pomeriggio. La raccolta e l'analisi dei dati procedono regolarmente.
+[name="Eyjafjalla"]  Mentre andavamo all'ultimo punto di campionamento c'è stato un piccolo imprevisto ma, naturalmente, il lavoro non ne ha risentito.
+[name="Eyjafjalla"]  …Lungo la strada ho avuto delle conversazioni interessanti con il signor guida e con il signor Barty…
+[name="Eyjafjalla"]  Non sono sicura di aver capito fino in fondo cosa intendessero, ma mi pare che il signor Barty abbia detto che sono… che sono una vera studiosa…
+[name="Eyjafjalla"]  Ecco, mi sono sentita un po' in imbarazzo… e mi è tornato in mente quello che è successo prima di partire.
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_infirmary",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(name="char_016_medic")]
+[CameraShake(duration=0.6, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="Medic Operator"]  Non se ne parla! Nelle condizioni in cui sei, signorina Eyjafjalla, un'altra missione sul campo è assolutamente esclusa!
+[Character(name="char_016_medic",name2="char_180_amgoat",focus=2)]
+[name="Eyjafjalla"]  M-Ma… quel segnale anomalo del giacimento di Originium ha ottime probabilità di essere legato a un vulcano, e si trova proprio vicino alla prossima rotta di Rhodes Island.
+[name="Eyjafjalla"]  Sia come vulcanologa, sia come operatrice di Rhodes Island, devo portare a termine questo rilevamento sul posto.
+[Character(name="char_016_medic",name2="char_180_amgoat",focus=1)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=70, fadeout=true, block=false)]
+[name="Medic Operator"]  Ma la tua salute…
+[Character(name="char_016_medic",name2="char_180_amgoat",focus=2)]
+[name="Eyjafjalla"]  Fidati di me, so badare a me stessa.
+[Dialog]
+[Character]
+[PlaySound(key="$d_gen_walk_n", volume=0.6)]
+[Character(name="char_348_ceylon_4#2",fadetime=1,block=true)]
+[delay(time=1)]
+[name="Ceylon"]  ……
+[Character(name="char_016_medic",name2="char_348_ceylon_4#2",focus=2)]
+[name="Ceylon"]  Lasciala andare.
+[Character(name="char_016_medic",name2="char_348_ceylon_4#2",focus=1)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=70, fadeout=true, block=false)]
+[name="Medic Operator"]  Eh? Signorina Ceylon, ma anche tu fai parte del nostro reparto medico! Come puoi appoggiare una paziente in una follia del genere?
+[Character(name="char_016_medic",name2="char_348_ceylon_4#2",focus=2)]
+[name="Ceylon"]  …Chiamala pure follia.
+[Character(name="char_016_medic",name2="char_348_ceylon_4#9",focus=2)]
+[name="Ceylon"]  Anch'io, in un certo senso, sono una ricercatrice, quindi più o meno capisco cosa prova la signorina Eyjafjalla.
+[name="Ceylon"]  Se ci fosse—e dico se—un'occasione per conoscere un po' meglio l'Originium, anch'io mi ci butterei a capofitto.
+[Character(name="char_016_medic",name2="char_348_ceylon_4#9",focus=1)]
+[name="Medic Operator"]  Sì, ma ho paura che questa missione possa peggiorare ancora le condizioni della signorina Eyjafjalla…
+[Character(name="char_016_medic",name2="char_348_ceylon_4#2",focus=2)]
+[name="Ceylon"]  …È proprio per questo che ci tiene tanto ad andare.
+[Character(name="char_016_medic",name2="char_348_ceylon_4#2",focus=1)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=70, fadeout=true, block=false)]
+[name="Medic Operator"]  Cosa?!
+[Character(name="char_016_medic",name2="char_348_ceylon_4#9",focus=2)]
+[name="Ceylon"]  Il tempo è poco e la verità è ancora lontana—per questo si sente ancora più spinta ad afferrare ogni occasione, ogni singolo giorno.
+[Character(name="char_348_ceylon_4#9",name2="char_180_amgoat",focus=2)]
+[name="Eyjafjalla"]  Sì… finché posso ancora… finché le mie gambe riescono a reggermi. Finché i miei occhi… riescono ancora a vedere quella luce… la luce dei vulcani.
+[Character(name="char_348_ceylon_4#4",name2="char_180_amgoat",focus=1)]
+[name="Ceylon"]  Sì, quella luce… Una dilettante come me non riesce ancora a vederla, ma so che la signorina Eyjafjalla ci riesce.
+[name="Ceylon"]  Studiose come lei stanno già da tempo sul confine di ciò che il mondo intero conosce. Ogni passetto che fa lei in avanti, possiamo farlo anche noi, seguendola.
+[Character(name="char_348_ceylon_4#2",name2="char_180_amgoat",focus=1)]
+[name="Ceylon"]  Andare avanti non è sempre un bene: si può avere paura, si può cadere. Ma fermare la signorina Eyjafjalla perché temo che si faccia male… questo non ci riesco.
+[Character(name="char_016_medic",name2="char_348_ceylon_4#2",focus=1)]
+[name="Medic Operator"]  Sarà…
+[Character(name="char_016_medic")]
+[name="Medic Operator"]  Ah, voi studiosi… Che vi devo dire.
+[Character(name="char_016_medic",name2="char_180_amgoat",focus=1)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=70, fadeout=true, block=false)]
+[name="Medic Operator"]  E va bene. Se la signorina Eyjafjalla insiste tanto, non mi metterò più di traverso. Fai pure domanda alla dottoressa Kal'tsit!
+[Character(name="char_180_amgoat")]
+[name="Eyjafjalla"]  Sì… grazie. Grazie a te, e grazie anche alla signorina Ceylon.
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_desert_3",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(name="char_180_amgoat",fadetime=1,block=true)]
+[delay(time=1)]
+[name="Eyjafjalla"]  Anche quella volta si era parlato di qualcosa di simile.
+[name="Eyjafjalla"]  Scienziati, studiosi… come sono, davvero? Credo di non averci mai pensato molto.
+[name="Eyjafjalla"]  La signorina Ceylon aveva ragione: voglio solo approfittare del tempo che mi resta per avvicinarmi ancora un pochino ai vulcani, e ai misteri più profondi di questa terra.
+[name="Eyjafjalla"]  Da piccola, se pensavo a un vero studioso, mi venivano in mente papà e mamma…
+[name="Eyjafjalla"]  E adesso, se n'è aggiunta un'altra persona.
+[name="Eyjafjalla"]  Allora, quando torno, mi dirà lei la risposta a questa domanda—vero, Prof?
+[Dialog]
+[Character]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
+[Image]
