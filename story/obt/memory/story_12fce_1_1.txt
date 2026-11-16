@@ -19,14 +19,14 @@ Saresti solo un peso. Non c'è bisogno che tu vada a cercarti la morte.
 [PlaySound(key="$d_sp_ballista", volume=0.7)]
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true)]
 [Character(name="avg_npc_053")]
-[name="Sarkaz Mercenary"]Ehi, Savra, che ci fai ancora piantato lì? Ti sei stufato di vivere?!
+[name="Mercenario Sarkaz"]Ehi, Savra, che ci fai ancora piantato lì? Ti sei stufato di vivere?!
 [Dialog]
 [Character]
 [Character(name="char_009_12fce_1",fadetime=1,block=true)]
 [Delay(time=1)]
 [name="？？？"]！
 [Character(name="avg_npc_053")]
-[name="Sarkaz Mercenary"]*Imprecazione sarkaz*! Trovati un riparo e giù la testa, arrivano le cannonate!
+[name="Mercenario Sarkaz"]*Imprecazione sarkaz*! Trovati un riparo e giù la testa, arrivano le cannonate!
 [Dialog]
 [Character]
 [Blocker(a=1, r=1, g=1, b=1, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.1, block=true)]
@@ -37,11 +37,11 @@ Saresti solo un peso. Non c'è bisogno che tu vada a cercarti la morte.
 [Character(name="char_009_12fce_1")]
 [name="？？？"]Coff, coff coff!
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Ehi, sei ancora vivo?!
+[name="Mercenario Sarkaz"]Ehi, sei ancora vivo?!
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="？？？"]Tutto a posto.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Hanno scoperto la nostra postazione di tiro. Non c'è tempo, dobbiamo spostarci subito!
+[name="Mercenario Sarkaz"]Hanno scoperto la nostra postazione di tiro. Non c'è tempo, dobbiamo spostarci subito!
 [Dialog]
 [Character]
 [Blocker(a=1, r=1, g=1, b=1, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.1, block=true)]
@@ -50,7 +50,7 @@ Saresti solo un peso. Non c'è bisogno che tu vada a cercarti la morte.
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true)]
 [Dialog]
 [Character(name="avg_npc_053")]
-[name="Sarkaz Mercenary"]Di nuovo? Così presto?!
+[name="Mercenario Sarkaz"]Di nuovo? Così presto?!
 [Dialog]
 [Character]
 [Blocker(a=1, r=1, g=1, b=1, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.1, block=true)]
@@ -60,7 +60,7 @@ Saresti solo un peso. Non c'è bisogno che tu vada a cercarti la morte.
 [delay(time=1)]
 [Character(name="avg_npc_053")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="Sarkaz Mercenary"]Aaargh, maledizione! La gamba!
+[name="Mercenario Sarkaz"]Aaargh, maledizione! La gamba!
 [Character(name="char_009_12fce_1")]
 [name="？？？"](Usa le Arti)
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -71,76 +71,76 @@ Saresti solo un peso. Non c'è bisogno che tu vada a cercarti la morte.
 [PlaySound(key="$d_gen_soldiersrun",volume=0.8)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="avg_npc_053")]
-[name="Sarkaz Mercenary"]Coff coff… Grazie, fratello.
+[name="Mercenario Sarkaz"]Coff coff… Grazie, fratello.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="？？？"]Ho solo sfruttato un riparo. Non è stato niente.
 [name="？？？"]Come va la gamba?
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Roba da poco. Di graffi così ne ho presi non so quanti. Basta una fasciatura.
-[name="Sarkaz Mercenary"]Lasciamo stare me: tu, fratello, non sembri proprio uno che sa menare le mani, eppure sei arrivato fin qui.
-[name="Sarkaz Mercenary"]Ho visto come hai spostato quel riparo con le Arti per coprirci. Hai la mano di un veterano.
-[name="Sarkaz Mercenary"]Quante volte sei già sceso in battaglia?
+[name="Mercenario Sarkaz"]Roba da poco. Di graffi così ne ho presi non so quanti. Basta una fasciatura.
+[name="Mercenario Sarkaz"]Lasciamo stare me: tu, fratello, non sembri proprio uno che sa menare le mani, eppure sei arrivato fin qui.
+[name="Mercenario Sarkaz"]Ho visto come hai spostato quel riparo con le Arti per coprirci. Hai la mano di un veterano.
+[name="Mercenario Sarkaz"]Quante volte sei già sceso in battaglia?
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="？？？"]Mi sono addestrato parecchio, ma questa è la prima volta.
 [name="？？？"]Se sono arrivato fin qui è solo per fortuna. Niente di speciale.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Però, sei pure modesto.
-[name="Sarkaz Mercenary"]Ma parliamoci chiaro: se restiamo inchiodati qui ancora a lungo, non ne usciamo.
-[name="Sarkaz Mercenary"]Quelli ai piani alti se la passano bene, ma quaggiù noi non reggiamo più.
-[name="Sarkaz Mercenary"]Pare che qui siamo rimasti solo noi due. Chissà che fine hanno fatto gli altri.
+[name="Mercenario Sarkaz"]Però, sei pure modesto.
+[name="Mercenario Sarkaz"]Ma parliamoci chiaro: se restiamo inchiodati qui ancora a lungo, non ne usciamo.
+[name="Mercenario Sarkaz"]Quelli ai piani alti se la passano bene, ma quaggiù noi non reggiamo più.
+[name="Mercenario Sarkaz"]Pare che qui siamo rimasti solo noi due. Chissà che fine hanno fatto gli altri.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="？？？"]Ho perso di vista i miei… L'assalto a sorpresa è fallito e il nemico ci ha dispersi.
 [name="？？？"]Più avanti non si sente più niente. A quanto pare, quelli che si sono lanciati in testa sono tutti…
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Tsk, guarda che coincidenza. Pure io.
-[name="Sarkaz Mercenary"]Ormai non mi aspetto più che tornino a darmi una mano.
+[name="Mercenario Sarkaz"]Tsk, guarda che coincidenza. Pure io.
+[name="Mercenario Sarkaz"]Ormai non mi aspetto più che tornino a darmi una mano.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="？？？"]Anche se la missione è fallita, non ho intenzione di cadere qui.
 [name="？？？"]Vado a dare un'occhiata qui intorno. Ci dev'essere un modo per uscire dall'accerchiamento.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Dare un'occhiata? Tu?
-[name="Sarkaz Mercenary"]Non ti sto sottovalutando, fratello.
-[name="Sarkaz Mercenary"]Ma ci scommetto: per quanti ripari tu riesca a crearti con le Arti, appena quella tua testa bianca fa capolino là fuori, l'artiglieria nemica ti riduce in poltiglia.
-[name="Sarkaz Mercenary"]Meglio restare qui e vedere come si mette.
+[name="Mercenario Sarkaz"]Dare un'occhiata? Tu?
+[name="Mercenario Sarkaz"]Non ti sto sottovalutando, fratello.
+[name="Mercenario Sarkaz"]Ma ci scommetto: per quanti ripari tu riesca a crearti con le Arti, appena quella tua testa bianca fa capolino là fuori, l'artiglieria nemica ti riduce in poltiglia.
+[name="Mercenario Sarkaz"]Meglio restare qui e vedere come si mette.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="？？？"]Purtroppo non si può…
 [name="？？？"]A ore tre… Arrivano nemici.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Quei maledetti Kuranta?
+[name="Mercenario Sarkaz"]Quei maledetti Kuranta?
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="？？？"]Sono mercenari Kuranta con equipaggiamento leggero. Potrebbero essercene anche altri… di solito non agiscono da soli.
 [name="？？？"]Quando ci piomberanno addosso, non avremo più via di fuga.
 [name="？？？"]E forse si portano dietro anche i droni degli incantatori.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Tu… come fai a saperlo così bene?
+[name="Mercenario Sarkaz"]Tu… come fai a saperlo così bene?
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="？？？"]Semplici deduzioni. Ipotesi. Esperienza.
 [name="？？？"]Potrei sbagliarmi su qualcosa, ma grosso modo è così.
 [name="？？？"]Uscire adesso ci renderebbe piuttosto visibili, ma qui non possiamo restare nascosti a lungo.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Se li conosci così bene, non potresti farli fuori senza problemi?
+[name="Mercenario Sarkaz"]Se li conosci così bene, non potresti farli fuori senza problemi?
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="？？？"] Con le mie Arti non ci riuscirei. Probabilmente, appena provassi ad attaccare, mi farebbero fuori.
 [name="？？？"] Per me già scappare richiede tutte le forze che ho.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Ahahah! Allora chi ti ha ingaggiato per mandarti in battaglia ha preso proprio una cantonata.
-[name="Sarkaz Mercenary"]Altro che strategia: stanno perdendo perché sono così tirchi da potersi permettere solo soldati come te.
-[name="Sarkaz Mercenary"]…Prima non ho fatto in tempo a chiedertelo.
-[name="Sarkaz Mercenary"]Come ti chiami, Savra?
+[name="Mercenario Sarkaz"]Ahahah! Allora chi ti ha ingaggiato per mandarti in battaglia ha preso proprio una cantonata.
+[name="Mercenario Sarkaz"]Altro che strategia: stanno perdendo perché sono così tirchi da potersi permettere solo soldati come te.
+[name="Mercenario Sarkaz"]…Prima non ho fatto in tempo a chiedertelo.
+[name="Mercenario Sarkaz"]Come ti chiami, Savra?
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="46A"]Di nomi ne ho tanti. Per ora chiamami pure 46A.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Ah, e questo sarebbe un nome? Sembra il numero di modello di un elettrodomestico.
+[name="Mercenario Sarkaz"]Ah, e questo sarebbe un nome? Sembra il numero di modello di un elettrodomestico.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="46A"]È solo uno dei miei nomi in codice. Per il momento chiamami così.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]A sentirti, sembra che non l'abbia ancora deciso nemmeno tu.
+[name="Mercenario Sarkaz"]A sentirti, sembra che non l'abbia ancora deciso nemmeno tu.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="46A"]Forse il nome non è importante.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Pure questo è vero. Sei come me, insomma: ci si arrangia come capita per mettere insieme il pranzo con la cena.
-[name="Sarkaz Mercenary"]Ma è una cannonata quella che ho sentito?!
-[name="Sarkaz Mercenary"]Via, 46A, muoviti!
+[name="Mercenario Sarkaz"]Pure questo è vero. Sei come me, insomma: ci si arrangia come capita per mettere insieme il pranzo con la cena.
+[name="Mercenario Sarkaz"]Ma è una cannonata quella che ho sentito?!
+[name="Mercenario Sarkaz"]Via, 46A, muoviti!
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character]
@@ -149,68 +149,68 @@ Saresti solo un peso. Non c'è bisogno che tu vada a cercarti la morte.
 [Character]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="avg_npc_053")]
-[name="Sarkaz Mercenary"]Faccio il mercenario da una vita, ma un drone che guida il tiro dell'artiglieria non l'avevo mai visto.
-[name="Sarkaz Mercenary"]Di questi tempi gli incantatori con i droni sono sempre più ostici.
-[name="Sarkaz Mercenary"]Se ce ne fossimo accorti prima, non sarebbero morti in così tanti.
+[name="Mercenario Sarkaz"]Faccio il mercenario da una vita, ma un drone che guida il tiro dell'artiglieria non l'avevo mai visto.
+[name="Mercenario Sarkaz"]Di questi tempi gli incantatori con i droni sono sempre più ostici.
+[name="Mercenario Sarkaz"]Se ce ne fossimo accorti prima, non sarebbero morti in così tanti.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="46A"]Ho camuffato un po' le nostre tracce. Spero che ci faccia guadagnare tempo.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Ma tu con le Arti le sai proprio tutte, eh.
-[name="Sarkaz Mercenary"]Che ne dici di curarmi pure le ferite?
+[name="Mercenario Sarkaz"]Ma tu con le Arti le sai proprio tutte, eh.
+[name="Mercenario Sarkaz"]Che ne dici di curarmi pure le ferite?
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="46A"]Mi dispiace, le Arti curative non le ho mai studiate.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Tranquillo, così per dire.
+[name="Mercenario Sarkaz"]Tranquillo, così per dire.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="46A"]Il nostro medico è stato il secondo a sparire.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Non pensarci, fratello. Succede di continuo.
-[name="Sarkaz Mercenary"]Se non fosse stato per te, quei Kuranta mi avrebbero già infilzato da parte a parte.
+[name="Mercenario Sarkaz"]Non pensarci, fratello. Succede di continuo.
+[name="Mercenario Sarkaz"]Se non fosse stato per te, quei Kuranta mi avrebbero già infilzato da parte a parte.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="46A"]Gli altri non sono riusciti a scappare?
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Pare di no.
-[name="Sarkaz Mercenary"]Ma questo vuol dire anche che siamo al sicuro.
-[name="Sarkaz Mercenary"]Ce la fai ancora a camminare?
+[name="Mercenario Sarkaz"]Pare di no.
+[name="Mercenario Sarkaz"]Ma questo vuol dire anche che siamo al sicuro.
+[name="Mercenario Sarkaz"]Ce la fai ancora a camminare?
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="46A"]Nessun problema.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Allora niente sosta. Il punto di raccolta non dovrebbe essere lontano: a questo passo, ci arriviamo in un'oretta.
+[name="Mercenario Sarkaz"]Allora niente sosta. Il punto di raccolta non dovrebbe essere lontano: a questo passo, ci arriviamo in un'oretta.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="46A"]D'accordo.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Stavolta, eh, stavolta ho proprio scelto la parte sbagliata. Quei signorotti pagavano così bene che pensavo fosse una vittoria sicura.
-[name="Sarkaz Mercenary"]E invece sono bastate un paio di cannonate e tutti se la sono data a gambe.
-[name="Sarkaz Mercenary"]Peccato per quei fratelli con cui lavoravo da anni.
-[name="Sarkaz Mercenary"]I soldi li hanno intascati, ma ci hanno rimesso la pelle.
-[name="Sarkaz Mercenary"]Ah…
-[name="Sarkaz Mercenary"]E tu, 46A? Anche tu ti sei fatto abbindolare dalla paga alta?
+[name="Mercenario Sarkaz"]Stavolta, eh, stavolta ho proprio scelto la parte sbagliata. Quei signorotti pagavano così bene che pensavo fosse una vittoria sicura.
+[name="Mercenario Sarkaz"]E invece sono bastate un paio di cannonate e tutti se la sono data a gambe.
+[name="Mercenario Sarkaz"]Peccato per quei fratelli con cui lavoravo da anni.
+[name="Mercenario Sarkaz"]I soldi li hanno intascati, ma ci hanno rimesso la pelle.
+[name="Mercenario Sarkaz"]Ah…
+[name="Mercenario Sarkaz"]E tu, 46A? Anche tu ti sei fatto abbindolare dalla paga alta?
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="46A"]Avevo bisogno di rifornimenti.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Ahah, non fare tanto il raffinato. Vendiamo la pelle per due soldi, siamo tutti uguali.
+[name="Mercenario Sarkaz"]Ahah, non fare tanto il raffinato. Vendiamo la pelle per due soldi, siamo tutti uguali.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="46A"]E sto anche cercando una persona.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Cerchi qualcuno? Su un campo di battaglia?
+[name="Mercenario Sarkaz"]Cerchi qualcuno? Su un campo di battaglia?
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="46A"]Sì.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Chi? Un parente o un nemico?
+[name="Mercenario Sarkaz"]Chi? Un parente o un nemico?
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="46A"]Qualcuno a cui devo la vita.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Heh.
-[name="Sarkaz Mercenary"]Questa sì che è… interessante.
-[name="Sarkaz Mercenary"]Dev'essere proprio da te, ma se pensi di trovare chi ti ha salvato in un posto infernale come questo, temo che qualcuno ti abbia preso in giro.
+[name="Mercenario Sarkaz"]Heh.
+[name="Mercenario Sarkaz"]Questa sì che è… interessante.
+[name="Mercenario Sarkaz"]Dev'essere proprio da te, ma se pensi di trovare chi ti ha salvato in un posto infernale come questo, temo che qualcuno ti abbia preso in giro.
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=2)]
 [name="46A"]Quella persona mi ha salvato, e poi—
 [Character(name="avg_npc_053",name2="char_009_12fce_1",focus=1)]
-[name="Sarkaz Mercenary"]Va bene, va bene. Da' retta a me: attento a non farti usare!
-[name="Sarkaz Mercenary"]Prima non volevo dirtelo, ma sei proprio un tipo strano. Adesso però te lo devo far notare: dove pensi di trovare, a Kazdel, chi ti ha salvato?
-[name="Sarkaz Mercenary"]Magari quella persona non aveva nessuna intenzione di salvarti.
-[name="Sarkaz Mercenary"]Pensa a tutti i padroni per cui hai lavorato, ai compagni che hai avuto: chi di loro non era pronto a rivoltarsi contro di te da un momento all'altro?
-[name="Sarkaz Mercenary"]Magari, appena vi rivedete, quella persona ti—
+[name="Mercenario Sarkaz"]Va bene, va bene. Da' retta a me: attento a non farti usare!
+[name="Mercenario Sarkaz"]Prima non volevo dirtelo, ma sei proprio un tipo strano. Adesso però te lo devo far notare: dove pensi di trovare, a Kazdel, chi ti ha salvato?
+[name="Mercenario Sarkaz"]Magari quella persona non aveva nessuna intenzione di salvarti.
+[name="Mercenario Sarkaz"]Pensa a tutti i padroni per cui hai lavorato, ai compagni che hai avuto: chi di loro non era pronto a rivoltarsi contro di te da un momento all'altro?
+[name="Mercenario Sarkaz"]Magari, appena vi rivedete, quella persona ti—
 [stopmusic(fadetime=2)]
 [Dialog]
 [Character]

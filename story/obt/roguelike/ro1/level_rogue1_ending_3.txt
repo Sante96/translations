@@ -45,9 +45,9 @@ Gli rispondono, cantano con lui.
 Anche l'annunciatore a terra si rialza, getta via i fili che aveva in mano e va a prendere il suo posto sul palco.
 [dialog]
 [character(name="avg_npc_291",blackstart=0.2,blackend=0.7,block=true)]
-[name="'Troupe Mouthpiece'"]…Gli attori sono al loro posto.
+[name="‘Portavoce della compagnia’"]…Gli attori sono al loro posto.
 [character(name="avg_npc_291")]
-[name="'Troupe Mouthpiece'"]…Anch'io devo, adempiere al mio dovere.
+[name="‘Portavoce della compagnia’"]…Anch'io devo, adempiere al mio dovere.
 [musicvolume(volume=0.2, fadetime=1)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -65,14 +65,14 @@ Spalanca il portone.
 [musicvolume(volume=0.4, fadetime=1)]
 [Character(name="avg_npc_291",fadetime=1.5)]
 [delay(time=2)]
-[name="'Troupe Mouthpiece'"]Oh, il primo ospite.
+[name="‘Portavoce della compagnia’"]Oh, il primo ospite.
 [Character(name="avg_4025_aprot2_1#4$1")]
 [name="Shalem"]Ma… come hai potuto…
 [Character(name="avg_npc_291")]
-[name="'Troupe Mouthpiece'"]Entrambi i figli smarriti sono tornati tra le braccia della compagnia.
-[name="'Troupe Mouthpiece'"]Rallegriamoci.
-[name="'Troupe Mouthpiece'"]Ebbene, qui dichiaro…
-[name="'Troupe Mouthpiece'"]Che lo spettacolo abbia inizio.
+[name="‘Portavoce della compagnia’"]Entrambi i figli smarriti sono tornati tra le braccia della compagnia.
+[name="‘Portavoce della compagnia’"]Rallegriamoci.
+[name="‘Portavoce della compagnia’"]Ebbene, qui dichiaro…
+[name="‘Portavoce della compagnia’"]Che lo spettacolo abbia inizio.
 [Dialog]
 [Character]
 [Image(image="24_RL03", fadetime=1, xScale=1.1, yScale=1.1)]

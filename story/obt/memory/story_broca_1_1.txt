@@ -43,72 +43,72 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
 [Character(name="avg_npc_012",fadetime=0.5,block=true)]
 [delay(time=0.5)]
-[name="Guard Operator"]  Finalmente ti sei svegliato.
+[name="Operatore Guardia"]  Finalmente ti sei svegliato.
 [Dialog]
 [Character(name="char_356_broca#2",fadetime=1,block=true)]
 [delay(time=1)]
 [name="Broca"]  Dove…
 [Character(name="char_356_broca#2", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Siamo nella foresta. La squadra è stata attaccata da un branco di bestie e noi due siamo precipitati giù dalla scarpata. Ti ricordi?
+[name="Operatore Guardia"]  Siamo nella foresta. La squadra è stata attaccata da un branco di bestie e noi due siamo precipitati giù dalla scarpata. Ti ricordi?
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  …Sì.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  ……
+[name="Operatore Guardia"]  ……
 [delay(time=0.5)]
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  ……
 [delay(time=0.5)]
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Tsk, sei proprio un tipo antipatico, eh.
-[name="Guard Operator"]  Però prima di tutto devo ringraziarti. Senza di te, magari ci avrei lasciato la pelle.
+[name="Operatore Guardia"]  Tsk, sei proprio un tipo antipatico, eh.
+[name="Operatore Guardia"]  Però prima di tutto devo ringraziarti. Senza di te, magari ci avrei lasciato la pelle.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  …Niente.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  ……
+[name="Operatore Guardia"]  ……
 [delay(time=0.5)]
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  ……
 [delay(time=0.5)]
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
 [CameraShake(duration=0.6, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="Guard Operator"]  Aaaaah, va bene, mi arrendo! E ti chiedo scusa per aver litigato con te ieri, non avrei dovuto parlarti così!
-[name="Guard Operator"]  Io sono uno che dice le cose come stanno, e quando sento parlar male di Rhodes Island non ci vedo più.
-[name="Guard Operator"]  Ma tu sei nuovo, è normale che non sappia ancora che posto è Rhodes Island. Ieri sera Yato mi ha già fatto una bella ramanzina, quindi non prendertela, eh.
+[name="Operatore Guardia"]  Aaaaah, va bene, mi arrendo! E ti chiedo scusa per aver litigato con te ieri, non avrei dovuto parlarti così!
+[name="Operatore Guardia"]  Io sono uno che dice le cose come stanno, e quando sento parlar male di Rhodes Island non ci vedo più.
+[name="Operatore Guardia"]  Ma tu sei nuovo, è normale che non sappia ancora che posto è Rhodes Island. Ieri sera Yato mi ha già fatto una bella ramanzina, quindi non prendertela, eh.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  …No, ho sbagliato anch'io.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Ma dai, non dire così. Quando sbaglio, sbaglio, e lo ammetto.
-[name="Guard Operator"]  Insomma, chiudiamola qui e voltiamo pagina, d'accordo?
+[name="Operatore Guardia"]  Ma dai, non dire così. Quando sbaglio, sbaglio, e lo ammetto.
+[name="Operatore Guardia"]  Insomma, chiudiamola qui e voltiamo pagina, d'accordo?
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  Va bene.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Ah, me lo tenevo dentro da un giorno intero. Adesso sì che sto meglio.
+[name="Operatore Guardia"]  Ah, me lo tenevo dentro da un giorno intero. Adesso sì che sto meglio.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  E gli altri?
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Non lo so. Ma con quello che sanno fare, non dovrebbe essergli successo niente.
+[name="Operatore Guardia"]  Non lo so. Ma con quello che sanno fare, non dovrebbe essergli successo niente.
 [Character(name="char_356_broca#4", name2="avg_npc_012", focus=1)]
 [name="Broca"]  Dovremmo andare a cercarli… Ngh.
 [CameraShake(duration=0.2, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [delay(time=0.2)]
 [Character(name="char_356_broca#4", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Fermo lì, fratellino. Con quelle ferite non sei ancora in condizione di muoverti.
+[name="Operatore Guardia"]  Fermo lì, fratellino. Con quelle ferite non sei ancora in condizione di muoverti.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  Fratellino?
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Ah, è un vizio mio. Chiamarti così mi sembra più amichevole. Non ti dà fastidio, vero?
+[name="Operatore Guardia"]  Ah, è un vizio mio. Chiamarti così mi sembra più amichevole. Non ti dà fastidio, vero?
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  …Fa' come vuoi.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Bene così. Per ora riposiamo qui, e quando ti sarai rimesso un po' ripartiamo.
+[name="Operatore Guardia"]  Bene così. Per ora riposiamo qui, e quando ti sarai rimesso un po' ripartiamo.
 [Character(name="char_356_broca#2", name2="avg_npc_012", focus=1)]
 [name="Broca"]  Però…
 [Character(name="char_356_broca#2", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Ehi, non preoccuparti, con loro c'è Yato. Tra tutti gli operatori è una di quelle con più esperienza: finché c'è lei non succederà niente. Noi pensiamo solo a cavarcela.
+[name="Operatore Guardia"]  Ehi, non preoccuparti, con loro c'è Yato. Tra tutti gli operatori è una di quelle con più esperienza: finché c'è lei non succederà niente. Noi pensiamo solo a cavarcela.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  …D'accordo.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Allora tu stenditi ancora un po', io vado a dare un'occhiata qui intorno.
+[name="Operatore Guardia"]  Allora tu stenditi ancora un po', io vado a dare un'occhiata qui intorno.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [PlaySound(key="$d_gen_walk_n", volume=0.6)]
 [name="Broca"]  Va bene.
@@ -140,65 +140,65 @@
 [PlaySound(key="$d_gen_walk_n", volume=0.6)]
 [PlayMusic(intro="$darkness02_intro", key="$darkness02_loop", volume=0.4, crossfade=3.5)]
 [Character(name="avg_npc_012")]
-[name="Guard Operator"]  Broca, fratellino, sono tornato.
-[name="Guard Operator"]  Ho fatto un giretto. Questa foresta è bella grande, dobbiamo andarci cauti.
+[name="Operatore Guardia"]  Broca, fratellino, sono tornato.
+[name="Operatore Guardia"]  Ho fatto un giretto. Questa foresta è bella grande, dobbiamo andarci cauti.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  Le ferite vanno meglio. Posso muovermi.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Sicuro di non voler riposare ancora un po'?
+[name="Operatore Guardia"]  Sicuro di non voler riposare ancora un po'?
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  Sì.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  E allora andiamo. Più o meno mi ricordo da che direzione siamo venuti.
+[name="Operatore Guardia"]  E allora andiamo. Più o meno mi ricordo da che direzione siamo venuti.
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Background(image="bg_forest",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Ehi, fratellino, è da un po' che me lo chiedo: cos'è quella sega dietro la tua trivella?
-[name="Guard Operator"]  Quando combatti non la usi quasi mai, mi pare.
+[name="Operatore Guardia"]  Ehi, fratellino, è da un po' che me lo chiedo: cos'è quella sega dietro la tua trivella?
+[name="Operatore Guardia"]  Quando combatti non la usi quasi mai, mi pare.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  …Mi serve quando faccio delle modifiche. Per segare il legno, o altre cose.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Segare il legno? Fratellino, non mi dirai che facevi il taglialegna?
+[name="Operatore Guardia"]  Segare il legno? Fratellino, non mi dirai che facevi il taglialegna?
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  No. Mi piace solo modificare le cose con le mie mani.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Oh, non l'avrei mai detto che fossi così abile con le mani, fratellino.
+[name="Operatore Guardia"]  Oh, non l'avrei mai detto che fossi così abile con le mani, fratellino.
 [Character(name="char_356_broca#3", name2="avg_npc_012", focus=1)]
 [name="Broca"]  Niente di speciale.
 [Character(name="char_356_broca#3", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Sai, fratellino, mi sa che su un'altra cosa ti avevo giudicato male. Quando siamo partiti per la missione pensavo che fossi uno che non spiccica parola, e invece con te si parla benissimo.
-[name="Guard Operator"]  Dovresti parlare di più, esprimerti di più, sennò la gente ti fraintende. Guarda me ieri, no?
+[name="Operatore Guardia"]  Sai, fratellino, mi sa che su un'altra cosa ti avevo giudicato male. Quando siamo partiti per la missione pensavo che fossi uno che non spiccica parola, e invece con te si parla benissimo.
+[name="Operatore Guardia"]  Dovresti parlare di più, esprimerti di più, sennò la gente ti fraintende. Guarda me ieri, no?
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  …Io dicevo sul serio.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Che non ti fidi di Rhodes Island?
-[name="Guard Operator"]  Ecco, è proprio di questo che parlo. Dico, sei nuovo, sei arrivato da poco: mica puoi esserti già affezionato anima e corpo a questo posto!
-[name="Guard Operator"]  Però, fratellino, da' retta a me: parlare così non ti porta niente di buono. Se appena apri bocca te ne esci con “Non mi fido di Rhodes Island”, gli altri cosa devono pensare?
+[name="Operatore Guardia"]  Che non ti fidi di Rhodes Island?
+[name="Operatore Guardia"]  Ecco, è proprio di questo che parlo. Dico, sei nuovo, sei arrivato da poco: mica puoi esserti già affezionato anima e corpo a questo posto!
+[name="Operatore Guardia"]  Però, fratellino, da' retta a me: parlare così non ti porta niente di buono. Se appena apri bocca te ne esci con “Non mi fido di Rhodes Island”, gli altri cosa devono pensare?
 [Character(name="char_356_broca#2", name2="avg_npc_012", focus=1)]
 [name="Broca"]  Io non…
 [Character(name="char_356_broca#2", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Ehi, fermo lì, fratellino. Non dico che con quella frase ti inimichi la gente, e non voglio insegnarti a stare al mondo. È che… come dire…
-[name="Guard Operator"]  A dirla tutta, prima facevo il mercenario indipendente, e di grandi organizzazioni ne ho viste. Quando sono arrivato a Rhodes Island, all'inizio volevo solo portare a casa la pagnotta.
-[name="Guard Operator"]  Qui ti trattano bene, si mangia bene, ma niente di più. All'epoca non credevo nemmeno io che a questo mondo potesse esistere un'organizzazione buona.
-[name="Guard Operator"]  Grandi organizzazioni, grandi aziende: non sono tutte uguali? Anche tu adesso la pensi così, giusto?
+[name="Operatore Guardia"]  Ehi, fermo lì, fratellino. Non dico che con quella frase ti inimichi la gente, e non voglio insegnarti a stare al mondo. È che… come dire…
+[name="Operatore Guardia"]  A dirla tutta, prima facevo il mercenario indipendente, e di grandi organizzazioni ne ho viste. Quando sono arrivato a Rhodes Island, all'inizio volevo solo portare a casa la pagnotta.
+[name="Operatore Guardia"]  Qui ti trattano bene, si mangia bene, ma niente di più. All'epoca non credevo nemmeno io che a questo mondo potesse esistere un'organizzazione buona.
+[name="Operatore Guardia"]  Grandi organizzazioni, grandi aziende: non sono tutte uguali? Anche tu adesso la pensi così, giusto?
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  Sì.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Ma col tempo, stando qui, ho capito che Rhodes Island è diversa. Diversa davvero. Questa, fratellino, è una cosa che devi toccare con mano da solo: non posso insegnartela io.
-[name="Guard Operator"]  Io, per conto mio, davanti ad Amiya mi tolgo il cappello, davanti al Dottore pure, e anche davanti alla dottoressa Kal'tsit.
-[name="Guard Operator"]  Quindi ieri non me la sono presa perché non sai parlare, ma perché quello che dicevi era sbagliato. Capisci?
+[name="Operatore Guardia"]  Ma col tempo, stando qui, ho capito che Rhodes Island è diversa. Diversa davvero. Questa, fratellino, è una cosa che devi toccare con mano da solo: non posso insegnartela io.
+[name="Operatore Guardia"]  Io, per conto mio, davanti ad Amiya mi tolgo il cappello, davanti al Dottore pure, e anche davanti alla dottoressa Kal'tsit.
+[name="Operatore Guardia"]  Quindi ieri non me la sono presa perché non sai parlare, ma perché quello che dicevi era sbagliato. Capisci?
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  …Non lo so.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Ehi, tranquillo, non devi capirlo per forza adesso. Volevo solo dirti che Rhodes Island forse non è come pensi tu. Puoi fidarti un po' di più di noi.
+[name="Operatore Guardia"]  Ehi, tranquillo, non devi capirlo per forza adesso. Volevo solo dirti che Rhodes Island forse non è come pensi tu. Puoi fidarti un po' di più di noi.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  …Non ricordo che la nostra missione comprendesse aiutare il villaggio.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Eh? Ah, quello… in realtà decide chi guida la squadra. Se dice di sì, quando la situazione lo permette diamo quasi sempre una mano alla gente del posto. Aiutare gli altri fa piacere, no?
-[name="Guard Operator"]  Ma perché me lo chiedi così all'improvviso, fratellino?
+[name="Operatore Guardia"]  Eh? Ah, quello… in realtà decide chi guida la squadra. Se dice di sì, quando la situazione lo permette diamo quasi sempre una mano alla gente del posto. Aiutare gli altri fa piacere, no?
+[name="Operatore Guardia"]  Ma perché me lo chiedi così all'improvviso, fratellino?
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  …Niente.
 [Dialog]
@@ -206,12 +206,12 @@
 [delay(time=0.6)]
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="Guard Operator"]  Aspe… fermo, fratellino.
+[name="Operatore Guardia"]  Aspe… fermo, fratellino.
 [stopmusic(fadetime=3)]
 [Character(name="char_356_broca#2", name2="avg_npc_012", focus=1)]
 [name="Broca"]  Che c'è?
 [Character(name="char_356_broca#2", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Guarda.
+[name="Operatore Guardia"]  Guarda.
 [Character(name="char_356_broca#4", name2="avg_npc_012", focus=1)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="Broca"]  ……？！
@@ -220,32 +220,32 @@
 [Character]
 Tra gli alberi, senza che se ne siano accorti, sono comparse alcune delle bestie che avevano attaccato la squadra.
 [Character(name="char_356_broca#4", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  A quanto pare ci sono venuti a cercare.
+[name="Operatore Guardia"]  A quanto pare ci sono venuti a cercare.
 [Character(name="char_356_broca#4", name2="avg_npc_012", focus=1)]
 [name="Broca"]  …Posso combattere.
 [Character(name="char_356_broca#4", name2="avg_npc_012", focus=2)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="Guard Operator"]  No, sei ancora ferito. Adesso ti apro un varco io, e tu scappi per primo.
+[name="Operatore Guardia"]  No, sei ancora ferito. Adesso ti apro un varco io, e tu scappi per primo.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  …Non posso abbandonarti.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Ehi, fratellino, lo sai perché ti ho chiesto scusa?
+[name="Operatore Guardia"]  Ehi, fratellino, lo sai perché ti ho chiesto scusa?
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  ……？
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  All'inizio, anche dopo la lavata di capo di Yato, non avevo nessuna intenzione di scusarmi. Ma quando ci hanno attaccati tu mi hai protetto, e lì ho capito che non puoi essere una cattiva persona.
-[name="Guard Operator"]  Uno come te finirà di sicuro per affezionarsi a Rhodes Island.
+[name="Operatore Guardia"]  All'inizio, anche dopo la lavata di capo di Yato, non avevo nessuna intenzione di scusarmi. Ma quando ci hanno attaccati tu mi hai protetto, e lì ho capito che non puoi essere una cattiva persona.
+[name="Operatore Guardia"]  Uno come te finirà di sicuro per affezionarsi a Rhodes Island.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  ……
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Comunque, stavolta tocca a me darti una mano.
+[name="Operatore Guardia"]  Comunque, stavolta tocca a me darti una mano.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  No.
 [Character(name="char_356_broca", name2="avg_npc_012", focus=2)]
 [PlaySound(key="$d_gen_soldiersrun", volume=0.6)]
-[name="Guard Operator"]  Uff, fratellino, sei proprio una testa dura.
+[name="Operatore Guardia"]  Uff, fratellino, sei proprio una testa dura.
 [Character(name="avg_npc_012")]
-[name="Guard Operator"]  Tranquillo, è roba da poco. Non ci lascio la pelle.
+[name="Operatore Guardia"]  Tranquillo, è roba da poco. Non ci lascio la pelle.
 [Character(name="char_356_broca#2")]
 [name="Broca"]  ……
 [Dialog]
@@ -254,9 +254,9 @@ Broca, come se non l'avesse sentito, resta fermo dov'è e si limita ad alzare l'
 [Dialog]
 [Character(name="avg_npc_012")]
 [delay(time=0.6)]
-[name="Guard Operator"]  Eh, sei proprio un tipo antipatico.
-[name="Guard Operator"]  Però a me non dispiaci, sai.
-[name="Guard Operator"]  E allora facciamo così, fratellino: non allontanarti troppo, ci copriamo a vicenda e ci apriamo la strada insieme!
+[name="Operatore Guardia"]  Eh, sei proprio un tipo antipatico.
+[name="Operatore Guardia"]  Però a me non dispiaci, sai.
+[name="Operatore Guardia"]  E allora facciamo così, fratellino: non allontanarti troppo, ci copriamo a vicenda e ci apriamo la strada insieme!
 [Character(name="char_356_broca")]
 [name="Broca"]  Va bene.
 [Dialog]
@@ -268,30 +268,30 @@ Broca, come se non l'avesse sentito, resta fermo dov'è e si limita ad alzare l'
 [CameraShake(duration=0.9, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
 Ma proprio quando i due stanno per lanciarsi all'attacco, dal branco si leva all'improvviso un guaito di dolore.
 [Character(name="avg_npc_012")]
-[name="Guard Operator"]  Mh? Quello è…
+[name="Operatore Guardia"]  Mh? Quello è…
 [Dialog]
 [Character(name="char_016_medic")]
 [playMusic(intro="$sys_friend_intro", key="$sys_friend_loop", volume=0.4)]
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Delay(time=0.2)]
-[name="Medic Operator"]  State bene, voi due?!
+[name="Operatore medico"]  State bene, voi due?!
 [Character(name="char_016_medic", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Oh, eccovi! Stiamo bene.
+[name="Operatore Guardia"]  Oh, eccovi! Stiamo bene.
 [Character(name="char_016_medic", name2="char_356_broca", focus=1)]
-[name="Medic Operator"]  Ah, Broca, sei pieno di ferite! Siediti, presto, che ti do un'occhiata.
+[name="Operatore medico"]  Ah, Broca, sei pieno di ferite! Siediti, presto, che ti do un'occhiata.
 [Character(name="char_016_medic", name2="char_356_broca", focus=2)]
 [name="Broca"]  Niente di grave.
 [Character(name="char_016_medic", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Quelli laggiù sono Yato e gli altri, giusto?
+[name="Operatore Guardia"]  Quelli laggiù sono Yato e gli altri, giusto?
 [Character(name="char_016_medic", name2="avg_npc_012", focus=1)]
-[name="Medic Operator"]  Sì. Da quando siete caduti vi abbiamo cercato senza sosta. Che sollievo trovarvi sani e salvi.
-[name="Medic Operator"]  In effetti non sembra niente di grave, ma non bisogna prenderla alla leggera. Qui lasciamo fare agli altri, e intanto riportiamo indietro Broca.
+[name="Operatore medico"]  Sì. Da quando siete caduti vi abbiamo cercato senza sosta. Che sollievo trovarvi sani e salvi.
+[name="Operatore medico"]  In effetti non sembra niente di grave, ma non bisogna prenderla alla leggera. Qui lasciamo fare agli altri, e intanto riportiamo indietro Broca.
 [Character(name="char_016_medic", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Nessun problema!
+[name="Operatore Guardia"]  Nessun problema!
 [Character(name="char_356_broca#3")]
 [name="Broca"]  …Grazie.
 [Character(name="char_356_broca#3", name2="avg_npc_012", focus=2)]
-[name="Guard Operator"]  Eh? Cos'hai detto?
+[name="Operatore Guardia"]  Eh? Cos'hai detto?
 [Character(name="char_356_broca", name2="avg_npc_012", focus=1)]
 [name="Broca"]  Niente.
 [Dialog]
