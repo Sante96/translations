@@ -1,0 +1,30 @@
+{
+  "_": "Archivio: descrizioni italiane delle serie a fumetti (dal sito di Timo, comics.json), per id; nomi italiani di regioni ed eventi dei trailer dove il sito ne ha uno. I titoli delle serie e dei capitoli restano quelli ufficiali inglesi.",
+  "regions": {
+    "Integrated Strategies": "Strategie Integrate"
+  },
+  "events": {
+    "Integrated Strategies #4: Expeditioner's Jǫklumarkar": "Strategie Integrate #4: Expeditioner's Jǫklumarkar",
+    "Integrated Strategies #6: Sui's Garden of Grotesqueries": "Strategie Integrate #6: Sui's Garden of Grotesqueries",
+    "Reclamation Algorithm - Tales Within The Sand": "Algoritmo di Bonifica: Tales Within the Sand"
+  },
+  "series": {
+    "rhodes-islands-records-of-originium-blacksteel": "Franka, Liskarm, Vanilla e Jessica di Blacksteel Worldwide, prima di diventare operatrici di Rhodes Island.",
+    "operations-preparation-detachment-a1": "Fang, Beagle e Kroos, allieve agenti del Distaccamento Preparazione Operazioni di Columbia, finiscono a fare tirocinio in un angolo del porto commerciale di Tkaronto. Non sanno che una Catastrofe sta già scivolando in silenzio verso la città…",
+    "rhodes-kitchen-tidbits": "Una raccolta di fascicoli sulla vita quotidiana degli operatori di Rhodes Island, a tavola e in cucina. Che i profumi della cucina ci scaldino il cuore e ci mostrino la strada. Il passato è passato: per ora va bene così.",
+    "rhodes-islands-records-of-originium-rhine-lab": "Ifrit scopre a bordo di Rhodes Island un'ospite inattesa, una ragazzina di nome Darya. Piccola com'è, Darya getta una lunga ombra su Ifrit, Silence e Saria, risvegliando in loro i ricordi di un passato sepolto.",
+    "angelina-sketches-of-this-messengers-journey": "Angelina parte per un viaggio attraverso Terra con un incarico speciale per Rhodes Island: raccogliere i dati dei bracciali di monitoraggio di ogni operatore sul campo.",
+    "prelude-suite-cadenza-virtuosa": "Queste corde suoneranno le note di un'anima.",
+    "prelude-suite-keen-edge-silver-blade": "La lama d'argento esce dal fodero, e Karlan muove i primi passi.",
+    "lets-eat-together": "Anche tra fratelli i gusti non sono gli stessi.",
+    "cecelia-and-the-sauin-pilgrimage": "Che i fuochi d'artificio di casa ti indichino la via del ritorno.",
+    "prelude-suite-old-wounds": "Zanne ribelli sfidano l'ordine, e il prezzo si paga col fuoco.",
+    "suis-daily-slices-wanna-shoot-a-picture": "Forse è qualcosa di più sicuro di quanto possa mai esserlo un ricordo.",
+    "prelude-suite-blood-diamond": "Dietro il sipario, oltre gli applausi, il palco cremisi della morte è pronto.",
+    "suis-daily-slices-mundane-mortal-life": "Tre pasti oggi, i posteri domani, e tutto come in un sogno.",
+    "elite-operator-departure": "Quando la polvere si posa, emergono gli Élite.",
+    "suis-daily-slices-time-for-reunion": "Piatti, persone e tempo in abbondanza.",
+    "wandering-records-gold-of-crowns": "Trame sotto le sabbie dorate, fiamme negli occhi verde acqua.",
+    "prelude-suite-the-lone-walker": "Al guardiano di una solitudine lunga secoli."
+  }
+}
