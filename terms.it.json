@@ -1,8 +1,14 @@
 {
- "_": "Termini chiave: traduzione italiana dal cinese (terms.cn.json del sito), per id. Solo name, text, game.title/text; gli alias restano quelli del sito.",
+ "_": "Termini chiave: traduzione italiana dal cinese (terms.cn.json del sito), per id. Solo name, text, game.title/text; gli alias restano quelli del sito. forms: le parole con cui il lettore trova il termine nelle storie in italiano (tutte, nome compreso; senza, il nome; vuoto, non si segna).",
  "infected": {
   "name": "Infetti",
-  "text": "Così vengono chiamate le persone colpite dall'oripatia."
+  "text": "Così vengono chiamate le persone colpite dall'oripatia.",
+  "forms": [
+   "infetti",
+   "infetto",
+   "infetta",
+   "infette"
+  ]
  },
  "catastrophe": {
   "name": "Catastrofe",
@@ -10,7 +16,11 @@
   "game": {
    "title": "Catastrofe",
    "text": "Nome generico delle numerose calamità naturali che colpiscono il mondo di Terra: tempeste, bufere di neve, piogge torrenziali, inondazioni e perfino cadute di meteoriti. Le Catastrofi sono frequentissime e quasi impossibili da prevedere, tanto che la maggior parte delle civiltà sfugge loro spostando intere città. Al loro passaggio resta spesso un minerale chiamato Originium; secondo alcuni studi, anzi, le Catastrofi potrebbero essere proprio il mezzo con cui l'Originium si diffonde."
-  }
+  },
+  "forms": [
+   "catastrofe",
+   "catastrofi"
+  ]
  },
  "oripathy": {
   "name": "Oripatia",
@@ -18,11 +28,18 @@
   "game": {
    "title": "Oripatia",
    "text": "Si è scoperto che il contatto prolungato con l'Originium e i suoi derivati industriali espone a una malattia incurabile, chiamata «oripatia». Chi la contrae viene chiamato «infetto». L'oripatia potenzia in modo pericoloso la capacità di usare le Arti, ma ogni volta che il malato vi ricorre l'infezione si estende, finché non gli toglie la vita e ne fa una nuova fonte di contagio. La malattia è da tempo oggetto di studi su più fronti, che però finora hanno dato pochi risultati."
-  }
+  },
+  "forms": [
+   "oripatia"
+  ]
  },
  "originium-arts": {
   "name": "Arti dell'Originium",
-  "text": "Tecnica che altera la materia o la coscienza liberando le unità di energia racchiuse nell'Originium, le stesse con cui si misura la potenza delle Arti."
+  "text": "Tecnica che altera la materia o la coscienza liberando le unità di energia racchiuse nell'Originium, le stesse con cui si misura la potenza delle Arti.",
+  "forms": [
+   "Arti dell'Originium",
+   "Arti"
+  ]
  },
  "nomadic-city": {
   "name": "Città mobile",
@@ -30,7 +47,11 @@
   "game": {
    "title": "Città mobile",
    "text": "Città costruita su un'enorme struttura semovente. Le Catastrofi, frequenti e devastanti, costringono quasi tutti i paesi a spostare periodicamente le proprie città per sfuggirle. L'invenzione del motore a Originium ha reso possibile l'industrializzazione dell'Originium, e si è cominciato a costruire veicoli molto più grandi di un tempo. Con dimensioni ormai senza paragoni è nata l'idea della città-stato mobile. Grazie al Sistema di previsione multicanale delle Catastrofi, a seconda del disastro una città ha di solito bisogno di 2-8 settimane per lasciare in sicurezza l'area colpita."
-  }
+  },
+  "forms": [
+   "città mobile",
+   "città mobili"
+  ]
  },
  "originium": {
   "name": "Originium",
@@ -46,11 +67,21 @@
  },
  "catastrophe-messenger": {
   "name": "Messaggero delle Catastrofi",
-  "text": "Tra i messaggeri, così si chiamano quelli che lavorano nelle terre selvagge: osservano di continuo i fenomeni naturali, prevedono le Catastrofi in arrivo e registrano e segnalano quelle già avvenute."
+  "text": "Tra i messaggeri, così si chiamano quelli che lavorano nelle terre selvagge: osservano di continuo i fenomeni naturali, prevedono le Catastrofi in arrivo e registrano e segnalano quelle già avvenute.",
+  "forms": [
+   "messaggero delle Catastrofi",
+   "messaggeri delle Catastrofi",
+   "messaggera delle Catastrofi",
+   "messaggere delle Catastrofi"
+  ]
  },
  "originium-slug": {
   "name": "Lumaca di Originium",
-  "text": "Minuscolo invertebrato diffuso in tutto Terra, mari esclusi, con frammenti di Originium incastonati nel guscio e nel corpo."
+  "text": "Minuscolo invertebrato diffuso in tutto Terra, mari esclusi, con frammenti di Originium incastonati nel guscio e nel corpo.",
+  "forms": [
+   "lumaca di Originium",
+   "lumache di Originium"
+  ]
  },
  "great-rebellion": {
   "name": "Grande Ribellione",
@@ -58,7 +89,11 @@
  },
  "burdenbeast": {
   "name": "Bestia da soma",
-  "text": "Nome generico di tutti gli animali che gli abitanti di Terra allevano per trasportare carichi."
+  "text": "Nome generico di tutti gli animali che gli abitanti di Terra allevano per trasportare carichi.",
+  "forms": [
+   "bestia da soma",
+   "bestie da soma"
+  ]
  },
  "the-shard": {
   "name": "The Shard",
@@ -66,7 +101,11 @@
  },
  "gloompincer": {
   "name": "Chela cupa",
-  "text": "Grande crostaceo d'acqua dolce che vive in laghi, fiumi e paludi, noto per le sue chele potentissime."
+  "text": "Grande crostaceo d'acqua dolce che vive in laghi, fiumi e paludi, noto per le sue chele potentissime.",
+  "forms": [
+   "chela cupa",
+   "chele cupe"
+  ]
  },
  "diabolic-crisis": {
   "name": "Crisi Diαbolic",
@@ -78,15 +117,26 @@
  },
  "soul-furnace": {
   "name": "Fornace delle Anime",
-  "text": "La fonte di energia della città mobile di Kazdel: con la fitta rete di condotti dei livelli abitati, porta l'energia in ogni punto della città, a disposizione degli abitanti."
+  "text": "La fonte di energia della città mobile di Kazdel: con la fitta rete di condotti dei livelli abitati, porta l'energia in ogni punto della città, a disposizione degli abitanti.",
+  "forms": [
+   "fornace delle Anime",
+   "fornaci delle Anime"
+  ]
  },
  "twin-moons": {
   "name": "Lune gemelle",
-  "text": "I due satelliti naturali di Terra, uno più grande e luminoso, l'altro più piccolo e scuro, da sempre al centro di miti e calendari."
+  "text": "I due satelliti naturali di Terra, uno più grande e luminoso, l'altro più piccolo e scuro, da sempre al centro di miti e calendari.",
+  "forms": [
+   "lune gemelle"
+  ]
  },
  "musbeast": {
   "name": "Topastro",
-  "text": "Nelle terre desolate i topastri sono ovunque. Di per sé non sono molto aggressivi, ma si muovono in branco e lasciano dietro di sé un'infinità di provviste rovinate."
+  "text": "Nelle terre desolate i topastri sono ovunque. Di per sé non sono molto aggressivi, ma si muovono in branco e lasciano dietro di sé un'infinità di provviste rovinate.",
+  "forms": [
+   "topastro",
+   "topastri"
+  ]
  },
  "profound-silence": {
   "name": "Grande Quiete",
@@ -94,31 +144,59 @@
  },
  "sandbeast": {
   "name": "Bestia delle sabbie",
-  "text": "Piccolo onnivoro che vive nei deserti di sabbia e di roccia ed esce a cercare cibo di notte. In Sargon la gente del posto lo addomestica per la caccia."
+  "text": "Piccolo onnivoro che vive nei deserti di sabbia e di roccia ed esce a cercare cibo di notte. In Sargon la gente del posto lo addomestica per la caccia.",
+  "forms": [
+   "bestia delle sabbie",
+   "bestie delle sabbie"
+  ]
  },
  "little-handy": {
   "name": "Piccolo Aiutante",
-  "text": "Dispositivo multifunzione costruito dagli Ægir, chiamato ufficialmente «Strumento di assistenza integrata», con centinaia di moduli per l'uso quotidiano."
+  "text": "Dispositivo multifunzione costruito dagli Ægir, chiamato ufficialmente «Strumento di assistenza integrata», con centinaia di moduli per l'uso quotidiano.",
+  "forms": [
+   "Piccolo Aiutante",
+   "Piccoli Aiutanti"
+  ]
  },
  "originium-prime-vein": {
   "name": "Vena madre dell'Originium",
-  "text": "Una delle principali origini geologiche dell'Originium di Terra: la maggior parte dei giacimenti risale a qui."
+  "text": "Una delle principali origini geologiche dell'Originium di Terra: la maggior parte dei giacimenti risale a qui.",
+  "forms": [
+   "vena madre dell'Originium",
+   "vene madri dell'Originium"
+  ]
  },
  "manglerbeast": {
   "name": "Dilaniatore",
-  "text": "Creatura da guerra addestrata dall'esercito di Ursus. Obbedisce agli ordini, ha sete di sangue e carne, squarcia le armature e non si ferma mai."
+  "text": "Creatura da guerra addestrata dall'esercito di Ursus. Obbedisce agli ordini, ha sete di sangue e carne, squarcia le armature e non si ferma mai.",
+  "forms": [
+   "dilaniatore",
+   "dilaniatori"
+  ]
  },
  "beckbeast": {
   "name": "Bestia segugio",
-  "text": "Animale da lavoro di Terra, tenuto a guardia e addestrato a seguire le tracce."
+  "text": "Animale da lavoro di Terra, tenuto a guardia e addestrato a seguire le tracce.",
+  "forms": [
+   "bestia segugio",
+   "bestie segugio"
+  ]
  },
  "cloudbeast": {
   "name": "Bestia nuvola",
-  "text": "Animale da compagnia molto diffuso su Terra, soffice e liscio al tatto."
+  "text": "Animale da compagnia molto diffuso su Terra, soffice e liscio al tatto.",
+  "forms": [
+   "bestia nuvola",
+   "bestie nuvola"
+  ]
  },
  "stargate": {
   "name": "Porta stellare",
-  "text": "Antico portale ad anello nei pressi del polo nord che, in modi ancora ignoti, apre un wormhole tra luoghi lontanissimi."
+  "text": "Antico portale ad anello nei pressi del polo nord che, in modi ancora ignoti, apre un wormhole tra luoghi lontanissimi.",
+  "forms": [
+   "porta stellare",
+   "porte stellari"
+  ]
  },
  "great-separation": {
   "name": "Grande Separazione",
@@ -126,7 +204,11 @@
  },
  "khaganquest": {
   "name": "Cammino celeste",
-  "text": "Il viaggio che, per tradizione, ogni Nightzmora intraprende."
+  "text": "Il viaggio che, per tradizione, ogni Nightzmora intraprende.",
+  "forms": [
+   "Cammino celeste",
+   "Cammino Celeste"
+  ]
  },
  "kjeragandr": {
   "name": "Kjeragandr",
@@ -134,7 +216,11 @@
  },
  "starpod": {
   "name": "Baccello stellare",
-  "text": "Barriera invisibile a migliaia di metri sopra Terra, che impedisce a velivoli e segnali di raggiungere lo spazio."
+  "text": "Barriera invisibile a migliaia di metri sopra Terra, che impedisce a velivoli e segnali di raggiungere lo spazio.",
+  "forms": [
+   "baccello stellare",
+   "baccelli stellari"
+  ]
  },
  "guldenesgesatz": {
   "name": "Güldenesgesatz",
@@ -182,7 +268,10 @@
  },
  "sarkaz": {
   "name": "Sarkaz",
-  "text": "Popolo originario di Kazdel, di straordinario talento nelle Arti dell'Originium e quasi ovunque emarginato."
+  "text": "Popolo originario di Kazdel, di straordinario talento nelle Arti dell'Originium e quasi ovunque emarginato.",
+  "forms": [
+   "sarkaz"
+  ]
  },
  "draco": {
   "name": "Draco",
@@ -210,15 +299,27 @@
  },
  "pegasus": {
   "name": "Pegaso",
-  "text": "Popolo di Kazimierz, legato da sempre alla sua tradizione cavalleresca."
+  "text": "Popolo di Kazimierz, legato da sempre alla sua tradizione cavalleresca.",
+  "forms": [
+   "Pegaso",
+   "Pegasi"
+  ]
  },
  "unicorn": {
   "name": "Unicorno",
-  "text": "Un nome che circola in Victoria, legato a qualcuno che agisce dietro le quinte."
+  "text": "Un nome che circola in Victoria, legato a qualcuno che agisce dietro le quinte.",
+  "forms": [
+   "Unicorno",
+   "Unicorni"
+  ]
  },
  "hippogryph": {
   "name": "Ippogrifo",
-  "text": "I dominatori di prima della fondazione di Ursus, rovesciati circa mille anni fa: il loro sangue scorre ancora in molti vecchi nobili ursini."
+  "text": "I dominatori di prima della fondazione di Ursus, rovesciati circa mille anni fa: il loro sangue scorre ancora in molti vecchi nobili ursini.",
+  "forms": [
+   "Ippogrifo",
+   "Ippogrifi"
+  ]
  },
  "sankta": {
   "name": "Sankta",
@@ -242,7 +343,13 @@
  },
  "taran": {
   "name": "Tarani",
-  "text": "La gente della regione di Tara, in Victoria: sotto il dominio vittoriano la loro lingua, il tarano, è quasi scomparsa."
+  "text": "La gente della regione di Tara, in Victoria: sotto il dominio vittoriano la loro lingua, il tarano, è quasi scomparsa.",
+  "forms": [
+   "Tarani",
+   "Tarano",
+   "Tarana",
+   "Tarane"
+  ]
  },
  "aslan": {
   "name": "Aslan",
@@ -290,7 +397,8 @@
  },
  "forte": {
   "name": "Forte",
-  "text": "Popolo robusto e con le corna; molti vengono da Minos."
+  "text": "Popolo robusto e con le corna; molti vengono da Minos.",
+  "forms": []
  },
  "nine-tailed-vulpo": {
   "name": "Vulpo a nove code",
@@ -302,7 +410,11 @@
  },
  "manticore": {
   "name": "Manticora",
-  "text": "Popolo di Sargon."
+  "text": "Popolo di Sargon.",
+  "forms": [
+   "Manticora",
+   "Manticore"
+  ]
  },
  "zalak": {
   "name": "Zalak",
@@ -362,7 +474,14 @@
   "game": {
    "title": "Impero di Victoria",
    "text": "Nazione moderna governata da Draco e Aslan. Occupa le valli centrali di Terra, le più fertili del continente: un territorio immenso e ricco di risorse, che confina con diverse nazioni del nucleo centrale e a cui si aggiungono varie zone di colonizzazione ed exclavi. L'Impero di Victoria punta sulla forza e sull'espansione: vuole imporre a Terra un ordine internazionale con sé stesso al comando, difende gli interessi della nobiltà con l'egemonia e lo sfruttamento delle colonie, e tiene in piedi un mondo in cui Victoria sta sopra tutti."
-  }
+  },
+  "forms": [
+   "Victoria",
+   "victoriano",
+   "victoriana",
+   "victoriani",
+   "victoriane"
+  ]
  },
  "yan": {
   "name": "Yan",
@@ -374,7 +493,11 @@
  },
  "sami": {
   "name": "Sami",
-  "text": "Un «paese» unico nel suo genere nel nord di Terra, formato da numerose tribù, con un rapporto tra uomo e natura che non ha eguali nel continente."
+  "text": "Un «paese» unico nel suo genere nel nord di Terra, formato da numerose tribù, con un rapporto tra uomo e natura che non ha eguali nel continente.",
+  "forms": [
+   "Sami",
+   "sami"
+  ]
  },
  "sargon": {
   "name": "Sargon",
@@ -382,11 +505,25 @@
  },
  "siracusa": {
   "name": "Siracusa",
-  "text": "Federazione di città-stato in cui il vero potere è in mano a dodici potenti famiglie."
+  "text": "Federazione di città-stato in cui il vero potere è in mano a dodici potenti famiglie.",
+  "forms": [
+   "Siracusa",
+   "siracusano",
+   "siracusana",
+   "siracusani",
+   "siracusane"
+  ]
  },
  "iberia": {
   "name": "Iberia",
-  "text": "Potenza costiera un tempo cresciuta grazie alla tecnologia di Ægir e quasi annientata dalla Grande Quiete: oggi a guidare il paese in frantumi resta solo l'Inquisizione."
+  "text": "Potenza costiera un tempo cresciuta grazie alla tecnologia di Ægir e quasi annientata dalla Grande Quiete: oggi a guidare il paese in frantumi resta solo l'Inquisizione.",
+  "forms": [
+   "Iberia",
+   "iberico",
+   "iberica",
+   "iberici",
+   "iberiche"
+  ]
  },
  "grypherburg": {
   "name": "Grypherburg",
@@ -394,7 +531,14 @@
  },
  "columbia": {
   "name": "Columbia",
-  "text": "La più giovane delle grandi potenze di Terra, una repubblica federale in rapida espansione."
+  "text": "La più giovane delle grandi potenze di Terra, una repubblica federale in rapida espansione.",
+  "forms": [
+   "Columbia",
+   "columbiano",
+   "columbiana",
+   "columbiani",
+   "columbiane"
+  ]
  },
  "rim-billiton": {
   "name": "Rim Billiton",
@@ -410,7 +554,14 @@
  },
  "leithanien": {
   "name": "Leithanien",
-  "text": "Impero confederale famoso per lo studio accademico delle Arti dell'Originium."
+  "text": "Impero confederale famoso per lo studio accademico delle Arti dell'Originium.",
+  "forms": [
+   "Leithanien",
+   "leithaniano",
+   "leithaniana",
+   "leithaniani",
+   "leithaniane"
+  ]
  },
  "laterano": {
   "name": "Laterano",
@@ -446,7 +597,14 @@
  },
  "bolivar": {
   "name": "Bolívar",
-  "text": "Si trova nel nord-ovest del continente e confina con Columbia."
+  "text": "Si trova nel nord-ovest del continente e confina con Columbia.",
+  "forms": [
+   "Bolívar",
+   "bolivariano",
+   "bolivariana",
+   "bolivariani",
+   "bolivariane"
+  ]
  },
  "nuova-volsinii": {
   "name": "Nuova Volsinii",
@@ -586,7 +744,13 @@
  },
  "operator": {
   "name": "Operatore",
-  "text": "Membro di Rhodes Island addestrato al combattimento; molti sono a loro volta infetti."
+  "text": "Membro di Rhodes Island addestrato al combattimento; molti sono a loro volta infetti.",
+  "forms": [
+   "operatore",
+   "operatori",
+   "operatrice",
+   "operatrici"
+  ]
  },
  "lgd": {
   "name": "L.G.D.",
@@ -602,11 +766,21 @@
  },
  "elite-operators": {
   "name": "Operatori d'élite",
-  "text": "Il ramo d'élite di Rhodes Island, formato da operatori sul campo di grande esperienza, che entrano in azione solo con l'approvazione dei vertici."
+  "text": "Il ramo d'élite di Rhodes Island, formato da operatori sul campo di grande esperienza, che entrano in azione solo con l'approvazione dei vertici.",
+  "forms": [
+   "operatori d'élite",
+   "operatore d'élite",
+   "operatrice d'élite",
+   "operatrici d'élite"
+  ]
  },
  "shadow-guard": {
   "name": "Guardia delle Ombre",
-  "text": "Misteriosa unità per operazioni speciali con base a Lungmen, chiamata anche «i Mantelli Neri» per la sua uniforme."
+  "text": "Misteriosa unità per operazioni speciali con base a Lungmen, chiamata anche «i Mantelli Neri» per la sua uniforme.",
+  "forms": [
+   "Guardia delle Ombre",
+   "Guardie delle Ombre"
+  ]
  },
  "babel": {
   "name": "Babel",
@@ -634,7 +808,11 @@
  },
  "steam-knights": {
   "name": "Cavalieri a vapore",
-  "text": "I Cavalieri a vapore sono l'orgoglio di Victoria: la sua forza militare più potente e il più alto onore che un soldato possa ricevere."
+  "text": "I Cavalieri a vapore sono l'orgoglio di Victoria: la sua forza militare più potente e il più alto onore che un soldato possa ricevere.",
+  "forms": [
+   "cavalieri a vapore",
+   "cavaliere a vapore"
+  ]
  },
  "notarial-hall": {
   "name": "Ufficio Notarile",
@@ -646,11 +824,22 @@
  },
  "followers": {
   "name": "Apostoli",
-  "text": "Un'équipe medica itinerante di Rhodes Island che percorre le zone rurali curando le persone che incontra lungo la strada."
+  "text": "Un'équipe medica itinerante di Rhodes Island che percorre le zone rurali curando le persone che incontra lungo la strada.",
+  "forms": [
+   "Apostoli",
+   "Apostolo",
+   "Apostola"
+  ]
  },
  "abyssal-hunters": {
   "name": "Cacciatori degli Abissi",
-  "text": "Guerrieri scelti di Ægir, modificati per contrastare la minaccia dei Seaborn, capaci di combattere sott'acqua e sulla terraferma."
+  "text": "Guerrieri scelti di Ægir, modificati per contrastare la minaccia dei Seaborn, capaci di combattere sott'acqua e sulla terraferma.",
+  "forms": [
+   "cacciatori degli Abissi",
+   "cacciatore degli Abissi",
+   "cacciatrice degli Abissi",
+   "cacciatrici degli Abissi"
+  ]
  },
  "inquisition": {
   "name": "Inquisizione",
@@ -738,11 +927,18 @@
  },
  "radiant-knight": {
   "name": "Cavaliere Radioso",
-  "text": "Titolo che Kazimierz conferisce al campione del Kazimierz Major, in onore di un cavaliere di nobile carattere e grande abilità."
+  "text": "Titolo che Kazimierz conferisce al campione del Kazimierz Major, in onore di un cavaliere di nobile carattere e grande abilità.",
+  "forms": [
+   "Cavaliere Radioso",
+   "Cavaliera Radiosa"
+  ]
  },
  "king-of-sarkaz": {
   "name": "Re dei Sarkaz",
-  "text": "Titolo dei Sarkaz, che spetta al leader che guida il suo popolo in politica e nello spirito."
+  "text": "Titolo dei Sarkaz, che spetta al leader che guida il suo popolo in politica e nello spirito.",
+  "forms": [
+   "Re dei Sarkaz"
+  ]
  },
  "khagan": {
   "name": "Khagan",
@@ -754,7 +950,11 @@
  },
  "grand-knight": {
   "name": "Gran Cavaliere",
-  "text": "Il Gran Cavaliere di Kazimierz, i cui collaboratori siedono negli Adeptus Sprawiedliwi."
+  "text": "Il Gran Cavaliere di Kazimierz, i cui collaboratori siedono negli Adeptus Sprawiedliwi.",
+  "forms": [
+   "Gran Cavaliere",
+   "Gran Cavalieri"
+  ]
  },
  "shahanshah": {
   "name": "Shahanshah",
@@ -766,11 +966,21 @@
  },
  "executor": {
   "name": "Esecutore",
-  "text": "Funzionari dell'Ufficio Notarile di Laterano, inviati nelle varie città-stato a eseguirne la volontà."
+  "text": "Funzionari dell'Ufficio Notarile di Laterano, inviati nelle varie città-stato a eseguirne la volontà.",
+  "forms": [
+   "Esecutore",
+   "Esecutori",
+   "Esecutrice",
+   "Esecutrici"
+  ]
  },
  "blood-knight": {
   "name": "Cavaliere del Sangue",
-  "text": "Titolo ottenuto in Kazimierz dal campione del Kazimierz Major."
+  "text": "Titolo ottenuto in Kazimierz dal campione del Kazimierz Major.",
+  "forms": [
+   "Cavaliere del Sangue",
+   "Cavalieri del Sangue"
+  ]
  },
  "lazurite": {
   "name": "Lapislazzuli",
@@ -782,11 +992,18 @@
  },
  "inquisitor": {
   "name": "Inquisitore",
-  "text": "Grado dei membri dell'Inquisizione di Iberia, che fanno rispettare leggi severissime ed emettono sentenze; sopra di loro ci sono i Grandi Inquisitori."
+  "text": "Grado dei membri dell'Inquisizione di Iberia, che fanno rispettare leggi severissime ed emettono sentenze; sopra di loro ci sono i Grandi Inquisitori.",
+  "forms": [
+   "inquisitore",
+   "inquisitori",
+   "inquisitrice",
+   "inquisitrici"
+  ]
  },
  "saintess": {
   "name": "Santa",
-  "text": "Titolo della massima autorità religiosa di Kjerag, che si dice venga scelta con una campana sacra donata dagli dèi."
+  "text": "Titolo della massima autorità religiosa di Kjerag, che si dice venga scelta con una campana sacra donata dagli dèi.",
+  "forms": []
  },
  "darksteel": {
   "name": "Ferro Nero",
@@ -794,7 +1011,11 @@
  },
  "grandmaster": {
   "name": "Gran Maestro",
-  "text": "Titolo che a Yan si dà a un maestro di arti marziali senza rivali."
+  "text": "Titolo che a Yan si dà a un maestro di arti marziali senza rivali.",
+  "forms": [
+   "Gran Maestro",
+   "Gran Maestri"
+  ]
  },
  "last-kheshig": {
   "name": "L'ultimo Kheshig",
@@ -802,19 +1023,35 @@
  },
  "tianshi": {
   "name": "Maestro Celeste",
-  "text": "Funzionari della Corte dei Maestri Celesti di Yan: studiano di tutto, dall'agricoltura all'edilizia, e si prendono cura delle cittadine vicine."
+  "text": "Funzionari della Corte dei Maestri Celesti di Yan: studiano di tutto, dall'agricoltura all'edilizia, e si prendono cura delle cittadine vicine.",
+  "forms": [
+   "Maestro Celeste",
+   "Maestri Celesti",
+   "Maestra Celeste",
+   "Maestre Celesti"
+  ]
  },
  "legatus": {
   "name": "Legato",
-  "text": "Gli inviati di Laterano, che portano la parola del Papa oltre ogni confine."
+  "text": "Gli inviati di Laterano, che portano la parola del Papa oltre ogni confine.",
+  "forms": []
  },
  "cardinal": {
   "name": "Cardinale",
-  "text": "Alta carica di Laterano: ogni cardinale guida uno dei dicasteri e siede nel Collegio cardinalizio."
+  "text": "Alta carica di Laterano: ogni cardinale guida uno dei dicasteri e siede nel Collegio cardinalizio.",
+  "forms": [
+   "cardinale",
+   "cardinali"
+  ]
  },
  "signore-dei-lupi": {
   "name": "Signore dei Lupi",
-  "text": "Titolo di Siracusa portato da figure come Zaaro, le cui Zanne agiscono in suo nome."
+  "text": "Titolo di Siracusa portato da figure come Zaaro, le cui Zanne agiscono in suo nome.",
+  "forms": [
+   "Signore dei Lupi",
+   "Signori dei Lupi",
+   "Signora dei Lupi"
+  ]
  },
  "sinner": {
   "name": "Peccatore",
